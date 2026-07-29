@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% if page.title and page.url != "/" %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if page.quick %}{{ page.quick | strip_html | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="icon" href="{{ '/assets/team-assist-icon.png' | relative_url }}">
+</head>
+<body data-baseurl="{{ site.baseurl }}">
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site">
+  <div class="wrap site-head">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/team-assist-icon.png' | relative_url }}" alt="" width="40" height="40">
+      <span>Team Assist <b>Help</b></span>
+    </a>
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}">Help</a>
+      <a href="{{ site.legal.privacy }}">Privacy</a>
+      <a href="{{ site.legal.delete_account }}">Delete account</a>
+    </nav>
+  </div>
+</header>
+
+{% if site.beta_notice %}
+<div class="beta"><div class="wrap"><b>Note</b> {{ site.beta_notice }}</div></div>
+{% endif %}
+
+<main id="main" class="wrap">
+{{ content }}
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <p>&copy; {{ 'now' | date: "%Y" }} Thomas M Brown. Team Assist.</p>
+    <p>
+      <a href="{{ '/' | relative_url }}">Help</a>
+      <a href="{{ site.legal.privacy }}">Privacy policy</a>
+      <a href="{{ site.legal.delete_account }}">Delete account</a>
+      <a href="mailto:{{ site.support_email }}">{{ site.support_email }}</a>
+    </p>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{% assign cat = site.categories | where: "id", page.category | first %}
+
+<nav class="crumbs" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Help</a>
+  <span aria-hidden="true">›</span>
+  <a href="{{ '/#' | append: page.category | relative_url }}">{{ cat.title | default: page.category }}</a>
+</nav>
+
+<article class="article">
+  <h1>{{ page.title }}</h1>
+
+  {% if page.needs_review %}
+  <div class="review" role="note">
+    <b>Not yet verified.</b> This article was drafted from a feature list rather than
+    from the app itself. Everything below needs checking against what Team Assist
+    actually does before it is treated as accurate.
+    {% if page.review_note %}<span class="review-note">{{ page.review_note }}</span>{% endif %}
+  </div>
+  {% endif %}
+
+  <div class="quick">
+    <span class="quick-tag">Quick answer</span>
+    {{ page.quick | markdownify }}
+  </div>
+
+  <div class="detail">
+    {{ content }}
+  </div>
+
+  {% if page.related %}
+  <aside class="related">
+    <h2>Related</h2>
+    <ul>
+      {% for slug in page.related %}
+        {% assign r = site.articles | where_exp: "a", "a.slug == slug" | first %}
+        {% if r %}<li><a href="{{ r.url | relative_url }}">{{ r.title }}</a></li>{% endif %}
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  <aside class="stuck">
+    <p>Still stuck? Email <a href="mailto:{{ site.support_email }}">{{ site.support_email }}</a>.
+    Including your iPhone model, iOS version and what you were doing usually turns a
+    three-message exchange into one.</p>
+  </aside>
+</article>

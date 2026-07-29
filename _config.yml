@@ -1,0 +1,76 @@
+# ---------------------------------------------------------------------------
+# Team Assist Help — Jekyll configuration
+#
+# Hosted on GitHub Pages from its own repository, separate from
+# team-assist-legal so that help edits can never touch legally-reviewed pages.
+# ---------------------------------------------------------------------------
+
+title: Team Assist Help
+description: >-
+  Help and support for Team Assist — setup, features, chat, connections
+  and troubleshooting.
+
+# Change this if the site ends up somewhere other than help.mytombrown.com.
+url: "https://help.mytombrown.com"
+baseurl: ""
+
+# The legal pages live in a different repo and must keep their current URLs.
+legal:
+  privacy: "https://legal.mytombrown.com/privacy/"
+  delete_account: "https://legal.mytombrown.com/delete-account/"
+
+support_email: "appstoresupportwithasmile@icloud.com"
+
+# Shown at the top of every page. Set to false to hide.
+beta_notice: "Team Assist is in active development. Some details below may change between releases."
+
+# Category order on the index page. An article's `category` must match an id
+# here or it won't appear on the index (tools/check_review.py catches that).
+categories:
+  - id: getting-started
+    title: Getting Started
+    blurb: Who Team Assist is for, and how to set yourself up.
+  - id: coaching
+    title: Coaching Day to Day
+    blurb: The features you'll use in a normal week.
+  - id: chat
+    title: Team Chat
+    blurb: Messaging, and what the status banners mean.
+  - id: connections
+    title: Connections & Visibility
+    blurb: Connecting with parents and adult athletes, and who can see what.
+  - id: account
+    title: Account & Privacy
+    blurb: How your identity works, and where your data is covered.
+  - id: billing
+    title: Subscription & Billing
+    blurb: Payments, which Apple handles.
+  - id: support
+    title: Support
+    blurb: Getting help from a person.
+
+collections:
+  articles:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+      needs_review: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - README.md
+  - DEPLOY.md
+  - tools/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

@@ -1,0 +1,17 @@
+---
+layout: null
+---
+[
+{% for a in site.articles %}
+  {
+    "title": {{ a.title | jsonify }},
+    "url": {{ a.url | relative_url | jsonify }},
+    "category": {{ a.category | jsonify }},
+    "categoryTitle": {{ site.categories | where: "id", a.category | first | map: "title" | first | jsonify }},
+    "quick": {{ a.quick | strip_html | normalize_whitespace | jsonify }},
+    "tags": {{ a.tags | default: "" | jsonify }},
+    "body": {{ a.content | strip_html | normalize_whitespace | truncate: 4000 | jsonify }},
+    "draft": {{ a.needs_review | default: false }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

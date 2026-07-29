@@ -1,0 +1,62 @@
+name: Build and deploy help site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      # Publish gate. Reports only on a pull request so drafts can be reviewed
+      # in a branch; fails on main so no article carrying needs_review can
+      # reach the live site.
+      - name: Check for unverified articles
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python3 tools/check_review.py --report
+          else
+            python3 tools/check_review.py
+          fi
+
+      - uses: actions/configure-pages@v5
+        id: pages
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Check for broken internal links
+        run: bundle exec htmlproofer ./_site --disable-external --allow-hash-href --ignore-empty-alt
+
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
