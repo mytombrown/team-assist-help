@@ -4,22 +4,29 @@ slug: requirements
 category: getting-started
 order: 5
 tags: "requirements, ios, iphone, ipad, compatibility, version, android, watch"
-quick: "An iPhone, and you must be 18 or over. [Needs confirming: the minimum iOS version, and whether iPad is supported.]"
-needs_review: true
-review_note: "Fill in: minimum iOS version from the Xcode deployment target, whether iPad is supported or iPhone-only, and the minimum watchOS version. Also confirm the Android line — accurate today, but it changes at release."
+quick: "An iPhone running iOS 18.6 or later, and you must be 18 or over. It runs on iPad too. Android isn't available."
 related:
   - install
+  - no-account
   - watch-widget-share
 ---
 
-Team Assist is an iPhone app, and it's for adults — see
-[who can use Team Assist]({{ '/who-can-use/' | relative_url }}).
+Team Assist needs:
 
-> The minimum iOS version needs to come from the project's deployment target rather than
-> a guess. An inaccurate answer here produces support mail from people whose install
-> failed silently, which is the worst kind of support mail because they don't know why.
+- **An iPhone running iOS 18.6 or later.** It also installs and runs on iPad, though
+  it's designed first for iPhone.
+- **You to be 18 or over** — see
+  [who can use Team Assist]({{ '/who-can-use/' | relative_url }}).
+- **The Apple Account your device is already signed into.** There's no separate Team
+  Assist account; your information follows that Apple Account — see
+  [how your identity works]({{ '/your-identity/' | relative_url }}).
 
-There's an Apple Watch companion, which needs an Apple Watch paired to the iPhone running
-Team Assist.
+An internet connection is needed for anything that involves someone else — syncing to
+another device, connected parents and athletes, and chat.
 
-Android isn't available.
+**Apple Watch.** The Watch companion is a Run Playbook remote. It needs an Apple Watch
+running watchOS 11.6 or later, paired to the iPhone running Team Assist, and the
+**Apple Watch Remote** option turned on in Tools → Labs — see
+[Apple Watch, the widget, and sharing]({{ '/watch-widget-share/' | relative_url }}).
+
+**Android isn't available.**

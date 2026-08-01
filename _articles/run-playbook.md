@@ -3,27 +3,27 @@ title: "Run Playbook"
 slug: run-playbook
 category: coaching
 order: 4
-tags: "playbook, run, session, record, recording, audio, microphone, live"
-quick: "Run Playbook is for running a session as it happens, and can record audio on your device. [Needs confirming: how it works in practice.]"
+tags: "playbook, run, session, live, timer, blocks, plan"
+quick: "Run Playbook runs a session as it happens: your plan broken into blocks, with a timer, worked through from your iPhone (or your Apple Watch as a remote)."
 needs_review: true
-review_note: "Highest-priority article to get right, because it involves recording people — including minors. Needs: recording storage and retention, deletion path, who can access recordings, microphone permission behavior, interruption handling. Check the wording against the privacy policy, and note that recording sessions involving minors is flagged in the Legal Revision Brief as needing counsel's attention."
+review_note: "Held: recording is being disabled in-app (Tom 2026-08-01); re-verify against the app once that lands."
 related:
   - schedule-sessions
-  - privacy-and-data
+  - watch-widget-share
 ---
 
-> Audio recording deserves unusually careful documentation. People want to know where a
-> recording goes, who can hear it, and how to delete it — and they want to know before
-> they record, not after.
+A **playbook** is a session plan broken into blocks — what you're doing, in what order,
+for how long. You build playbooks in the Schedule tab and can attach one to a session.
 
-To complete: how a playbook is started and what a coach sees during a session, how
-recording is started and stopped and whether it's obvious that it's running, where
-recordings are stored, how long they're kept, whether anyone other than the coach can
-access them, how to delete one, and what happens if the session is interrupted by a phone
-call or the app going to the background.
+**Run Playbook** is the live view for working through that plan during the session. It
+shows the current block, what's next, and a timer; you move block to block as the
+session progresses, and end the run when you're done. If you've turned on the Apple
+Watch remote, your watch can drive the same run — timer, previous/next block, end run —
+while the iPhone stays in your bag; see
+[Apple Watch, the widget, and sharing]({{ '/watch-widget-share/' | relative_url }}).
 
-Also needed: the microphone permission prompt — when it appears, and what happens if a
-coach declines it.
+Team Assist can show a notification when a timed block finishes, if you allow
+notifications.
 
-Anything about who else can hear a recording must be consistent with the
-[privacy policy]({{ site.legal.privacy }}) rather than stated independently here.
+Running a playbook changes nothing for connected parents or athletes by itself — it's a
+tool for you during the session.

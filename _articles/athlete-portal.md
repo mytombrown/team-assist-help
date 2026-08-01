@@ -4,9 +4,7 @@ slug: athlete-portal
 category: coaching
 order: 6
 tags: "publish, portal, share, send, parent, guardian, athlete, view, visible"
-quick: "Publishing makes information available to the connected adults for an athlete — a parent or guardian, or an athlete aged 18 or over. [Needs confirming: what can be published.]"
-needs_review: true
-review_note: "Who receives published content is settled and correct. Still needed: content types, whether publishing is reversible, notification behavior, and whether a connected parent currently has any shipping way to view it given the parent app is pre-release."
+quick: "Sessions, assignments, announcements, updates, and package summaries appear for the connected adult for each athlete — a parent or guardian, or an athlete aged 18 or over."
 related:
   - athlete-visibility
   - invitations
@@ -22,9 +20,35 @@ Nothing is ever published to someone under 18. They have no account to receive i
 If nobody is connected to an athlete, there's nobody to publish to. That's a normal
 state, not an error.
 
-> To complete: what a coach can publish, how publishing is done, what the recipient sees
-> and where, whether publishing can be undone, and whether they're notified.
->
-> Also needs confirming: whether there is a shipping way for a connected parent to view
-> published content, given the parent-facing app is pre-release. If there isn't yet, this
-> article should say so plainly rather than describe a loop that isn't closed.
+## What gets shared
+
+- **Sessions** — scheduled sessions involving that athlete appear automatically when
+  you save them; you don't press a separate publish button.
+- **Assignments** — follow-up work you send, which the recipient can mark complete.
+- **Announcements** — messages to a team or group, which the recipient can mark read.
+- **Updates** — session updates you choose to share for a specific athlete.
+- **Package summaries** — the state of that athlete's session packages, such as credits
+  remaining.
+
+## How the connected person sees it
+
+They use Team Assist too. On their own iPhone they install the app, confirm they're 18
+or over, choose the **Athlete** profile, and connect with the invite code you send —
+see [inviting a parent or an adult athlete]({{ '/invitations/' | relative_url }}).
+Their Home screen then shows the sessions, assignments, announcements, updates, and
+packages shared with them, and they can message you through
+[team chat]({{ '/chat-basics/' | relative_url }}). If they work with more than one
+coach, a team selector filters what they see.
+
+Their app has its own notification bell for new items, and can show iPhone
+notifications if they allow them.
+
+## Taking something back
+
+Publishing follows the source. Deleting a session removes it for the connected person
+too, and the same goes for assignments, announcements, updates, and package summaries —
+what they see tracks what's actually in your app, rather than being a copy you'd have
+to chase.
+
+Disconnecting someone ends their visibility entirely — see
+[who can see what]({{ '/athlete-visibility/' | relative_url }}).

@@ -5,8 +5,6 @@ category: account
 order: 3
 tags: "delete, remove, erase, close account, wipe, gdpr, request, data, child, minor"
 quick: "Deletion is handled through the request page at legal.mytombrown.com/delete-account, which explains what to send and what happens next."
-needs_review: true
-review_note: "The account-deletion part is accurate and matches the live page. The minor's-record part is with legal review — question 4 in the Legal Revision Brief. Don't publish specifics until counsel answers."
 related:
   - privacy-and-data
   - contact-support
@@ -27,11 +25,9 @@ anyone who does isn't us.
 
 ## Records about an athlete under 18
 
-An athlete under 18 has no account, so there's no account to delete. What exists is a record
-their coach keeps.
+An athlete under 18 has no account, so there's no account to delete. What exists is a
+record their coach keeps.
 
-If you're a parent or guardian and want that record removed, use the same page and explain
-the situation — who you are, which athlete, and which coach.
-
-> Still to document: exactly who may request removal of a minor's record, what's needed to
-> verify it, and what happens if a coach and a parent disagree.
+If you're asking about such a record — as a parent or guardian, or as the coach — use the
+same page and explain the situation: who you are, which athlete, and which coach. The
+deletion process on that page covers what a request can include and what happens next.
