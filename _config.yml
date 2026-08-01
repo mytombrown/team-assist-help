@@ -26,7 +26,7 @@ beta_notice: "Team Assist is in active development. Some details below may chang
 
 # Category order on the index page. An article's `category` must match an id
 # here or it won't appear on the index (tools/check_review.py catches that).
-categories:
+help_categories:
   - id: getting-started
     title: Getting Started
     blurb: Who Team Assist is for, and how to set yourself up.

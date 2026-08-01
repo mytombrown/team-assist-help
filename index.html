@@ -16,7 +16,7 @@ title: Help Center
 <div id="results" hidden aria-live="polite" data-email="{{ site.support_email }}"></div>
 
 <div id="browse">
-{% for cat in site.categories %}
+{% for cat in site.help_categories %}
   {% assign items = site.articles | where: "category", cat.id | sort: "order" %}
   {% if items.size > 0 %}
   <section class="cat" id="{{ cat.id }}">

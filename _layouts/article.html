@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign cat = site.categories | where: "id", page.category | first %}
+{% assign cat = site.help_categories | where: "id", page.category | first %}
 
 <nav class="crumbs" aria-label="Breadcrumb">
   <a href="{{ '/' | relative_url }}">Help</a>
