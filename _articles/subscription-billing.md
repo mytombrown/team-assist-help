@@ -5,6 +5,7 @@ category: billing
 order: 1
 tags: "subscription, price, cost, free, paid, cancel, refund, billing, charge, trial"
 quick: "[Needs confirming: whether Team Assist has a paid tier at all. If it doesn't, delete this whole section rather than leaving it vague.]"
+published: false
 needs_review: true
 review_note: "First answer whether any StoreKit or in-app purchase code exists. If not, delete this article and remove the billing category from _config.yml. If it does, fill in pricing, trial terms and what's gated."
 related:

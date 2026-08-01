@@ -5,6 +5,7 @@ category: coaching
 order: 4
 tags: "playbook, run, session, live, timer, blocks, plan"
 quick: "Run Playbook runs a session as it happens: your plan broken into blocks, with a timer, worked through from your iPhone (or your Apple Watch as a remote)."
+published: false
 needs_review: true
 review_note: "Held: recording is being disabled in-app (Tom 2026-08-01); re-verify against the app once that lands."
 related:

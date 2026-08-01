@@ -5,6 +5,7 @@ category: getting-started
 order: 4
 tags: "install, download, app store, get, setup"
 quick: "Team Assist is an iPhone app from the App Store."
+published: false
 needs_review: true
 review_note: "Held until public App Store launch by Tom's decision 2026-08-01. Keep current as the app changes."
 related:

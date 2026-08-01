@@ -27,9 +27,11 @@ python3 tools/check_review.py            # fails while any article is unverified
 python3 tools/check_review.py --report   # status only, never fails
 ```
 
-Articles drafted without seeing the app carry `needs_review: true` and a `review_note`
-saying what must be confirmed. They render with an amber banner, show a `draft` chip on
-the index and in search, and block deployment.
+Articles drafted without seeing the app carry `needs_review: true`, a `review_note`
+saying what must be confirmed, and `published: false` so Jekyll excludes them from the
+built site entirely. The gate fails if a held article would publish (or a cleared one
+is still unpublished); held articles no longer block the rest of the site from
+deploying.
 
 The workflow runs the gate on every push. Pull requests report only, so drafts can be
 reviewed in a branch. `main` fails, so unverified content cannot reach the live site by

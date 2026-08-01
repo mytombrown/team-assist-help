@@ -2,8 +2,10 @@
 """
 Publish gate.
 
-Refuses to let unverified content reach the live site. Exits non-zero if any
-article still carries `needs_review: true`, and reports what each is waiting on.
+Refuses to let unverified content reach the live site. An article carrying
+`needs_review: true` must also carry `published: false` so Jekyll excludes it
+from the built site; the gate fails if any held article would publish, and
+reports what each held article is waiting on.
 
     python3 tools/check_review.py            # report status, fail if drafts remain
     python3 tools/check_review.py --report    # report only, always exit 0
@@ -66,7 +68,17 @@ def main():
 
         if field(fm, "needs_review") == "true":
             drafts.append((f.name, field(fm, "review_note") or ""))
+            if field(fm, "published") != "false":
+                problems.append(
+                    f"{f.name}: held by needs_review but would still publish — "
+                    f"add `published: false` so the live site excludes it"
+                )
         else:
+            if field(fm, "published") == "false":
+                problems.append(
+                    f"{f.name}: cleared for review but still `published: false` — "
+                    f"remove the key or the article stays invisible"
+                )
             ready.append(f.name)
 
     print(f"{len(ready)} ready, {len(drafts)} awaiting review, {len(files)} total\n")
@@ -93,19 +105,12 @@ def main():
         return 1
 
     if drafts:
-        if report_only:
-            print(
-                f"{len(drafts)} article(s) still unverified — the site will NOT deploy\n"
-                "until these are cleared. Verify each against the app, then remove\n"
-                "`needs_review: true` and its `review_note` from that file."
-            )
-            return 0
         print(
-            "Not safe to publish. Verify each article above against the app, then\n"
-            "remove `needs_review: true` and its `review_note` from that file.\n"
-            "Run with --report to see status without failing."
+            f"{len(drafts)} held article(s) are excluded from the live site.\n"
+            "To publish one: verify it against the app, then remove\n"
+            "`needs_review: true`, its `review_note`, and `published: false`."
         )
-        return 1
+        return 0
 
     print("All articles verified — safe to publish.")
     return 0
