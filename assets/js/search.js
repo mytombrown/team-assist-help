@@ -10,6 +10,12 @@
 
   var INDEX = null, pending = null, timer = null;
 
+  // Tags may be authored as a YAML list (array) or a string; one array
+  // made score() throw and silently emptied every search.
+  var tagText = function (t) {
+    return t == null ? "" : (Array.isArray(t) ? t.join(" ") : String(t));
+  };
+
   var esc = function (s) {
     return String(s).replace(/[&<>"]/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
@@ -24,7 +30,7 @@
       .then(function (r) { return r.json(); })
       .then(function (data) {
         INDEX = data.map(function (a) {
-          a._hay = (a.title + " " + (a.tags || "") + " " + a.quick + " " + a.body + " " + (a.categoryTitle || "")).toLowerCase();
+          a._hay = (a.title + " " + tagText(a.tags) + " " + a.quick + " " + a.body + " " + (a.categoryTitle || "")).toLowerCase();
           return a;
         });
         return INDEX;
@@ -55,7 +61,7 @@
   function score(a, terms) {
     var s = 0;
     var title = a.title.toLowerCase();
-    var tags = (a.tags || "").toLowerCase();
+    var tags = tagText(a.tags).toLowerCase();
     var quick = a.quick.toLowerCase();
 
     for (var i = 0; i < terms.length; i++) {
