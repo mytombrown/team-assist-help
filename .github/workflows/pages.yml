@@ -19,7 +19,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Full history, not the default shallow clone: every article's
+      # "last updated" date is its own last commit date, and a depth-1
+      # checkout has no per-file history to read it from.
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: ruby/setup-ruby@v1
         with:
@@ -36,6 +41,16 @@ jobs:
           else
             python3 tools/check_review.py
           fi
+
+      # TA-T-101. Proves the dates track edits — that editing an article moves
+      # its date and leaves every other article's alone — before generating
+      # them for real. A frozen or site-wide date fails here, not in front of
+      # a reader trusting it.
+      - name: Check last-updated dates track edits
+        run: python3 tools/check_last_updated.py
+
+      - name: Generate last-updated dates from git
+        run: python3 tools/last_updated.py
 
       - uses: actions/configure-pages@v5
         id: pages

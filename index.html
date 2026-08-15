@@ -5,6 +5,12 @@ title: Help Center
 
 <div class="hero">
   <h1>How can we help?</h1>
+  {% assign site_updated = site.data.last_updated.site %}
+  {% if site_updated %}
+  <p class="updated">Help last updated
+    <time datetime="{{ site_updated }}">{{ site_updated | date: "%-d %B %Y" }}</time>
+  </p>
+  {% endif %}
   <p>Find a quick answer, or open an article to read the whole thing.</p>
   <div class="searchwrap">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>

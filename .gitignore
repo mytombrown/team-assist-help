@@ -1,5 +1,9 @@
 _site/
 _preview/
+# Generated every build by tools/last_updated.py from git commit dates.
+# Committing it would freeze the dates at whatever they were that day — the
+# exact staleness the stamp exists to expose.
+_data/last_updated.yml
 .jekyll-cache/
 .jekyll-metadata
 Gemfile.lock

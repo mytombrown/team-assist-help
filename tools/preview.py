@@ -12,6 +12,7 @@ the Jekyll output is the truth.
     python3 -m http.server -d _preview 8000
 """
 
+import datetime
 import html
 import json
 import pathlib
@@ -24,9 +25,22 @@ try:
 except ImportError:
     sys.exit("needs the markdown package:  pip install markdown")
 
+sys.path.insert(0, str(pathlib.Path(__file__).parent))
+from last_updated import article_dates, site_date
+
 ROOT = pathlib.Path(__file__).parent.parent
 OUT = ROOT / "_preview"
 MD = md.Markdown(extensions=["extra", "sane_lists"])
+
+
+def pretty_date(iso):
+    """Match the layouts' `date: "%-d %B %Y"`, so preview and build agree."""
+    return datetime.datetime.fromisoformat(iso).strftime("%-d %B %Y")
+
+
+def updated_html(iso, label="Last updated"):
+    return (f'<p class="updated">{label} '
+            f'<time datetime="{iso}">{pretty_date(iso)}</time></p>')
 
 
 def render_md(text):
@@ -118,12 +132,18 @@ def main():
     arts = [a for a in (parse_article(p) for p in sorted((ROOT / "_articles").glob("*.md"))) if a]
     by_slug = {a["slug"]: a for a in arts}
 
+    # Same git-derived dates the real build uses (TA-65 / TA-T-101).
+    dates, published, problems = article_dates()
+    if problems:
+        sys.exit("cannot derive last-updated dates:\n  " + "\n  ".join(problems))
+
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copytree(ROOT / "assets", OUT / "assets")
 
     parts = ['<div class="hero"><h1>How can we help?</h1>',
+             updated_html(site_date(dates, published), "Help last updated"),
              "<p>Find a quick answer, or open an article to read the whole thing.</p>",
              '<div class="searchwrap">',
              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" '
@@ -179,7 +199,8 @@ def main():
         inner = (
             f'<nav class="crumbs"><a href="/">Help</a><span>›</span>'
             f'<a href="/#{a["category"]}">{html.escape(cat_title.get(a["category"], a["category"]))}</a></nav>'
-            f'<article class="article"><h1>{html.escape(a["title"])}</h1>{review}'
+            f'<article class="article"><h1>{html.escape(a["title"])}</h1>'
+            f'{updated_html(dates[a["slug"]]) if a["slug"] in dates else ""}{review}'
             f'<div class="quick"><span class="quick-tag">Quick answer</span>'
             f'{render_md(expand(a["quick"], cfg))}</div>'
             f'<div class="detail">{render_md(expand(a["body"], cfg))}</div>{rel}'

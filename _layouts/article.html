@@ -12,6 +12,20 @@ layout: default
 <article class="article">
   <h1>{{ page.title }}</h1>
 
+  {% comment %}
+    This article's own last commit date, generated into _data by
+    tools/last_updated.py. Deliberately NOT a build stamp: a build stamp would
+    read "today" on an article nobody has touched, which is the thing this date
+    exists to catch. If the data is missing we print nothing rather than a date
+    we cannot stand behind — the Pages workflow fails the build in that case.
+  {% endcomment %}
+  {% assign updated = site.data.last_updated.articles[page.slug] %}
+  {% if updated %}
+  <p class="updated">Last updated
+    <time datetime="{{ updated }}">{{ updated | date: "%-d %B %Y" }}</time>
+  </p>
+  {% endif %}
+
   {% if page.needs_review %}
   <div class="review" role="note">
     <b>Not yet verified.</b> This article was drafted from a feature list rather than
