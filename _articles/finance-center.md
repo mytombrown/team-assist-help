@@ -33,6 +33,16 @@ package, assign it to an athlete when they buy, and Team Assist tracks credits u
 credits remaining. **Templates** are reusable package definitions so you're not
 rebuilding the same package each time.
 
+**Credits come off when a session is settled.** Marking a session as settled against a
+package takes one credit from that package, and the remaining credits on **Balances**
+and **Packages** change to match. If you settle a session and the credit count does not
+move, the two are out of step — that is worth reporting rather than adjusting by hand.
+
+**Credits belong to the coach who sold the package.** A package bought from one coach or
+trainer is spent on that person's sessions. If an athlete works with more than one
+person, each one's packages are counted separately, and a credit from one does not pay
+for the other's session.
+
 ## How payment collection works
 
 In Settings you pick a payment mode:

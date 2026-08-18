@@ -19,6 +19,12 @@ Team Assist is organised into tabs along the bottom of the screen: **Home**,
 - **Today** — today's sessions. Tap a session to open it, or **View all** for the full
   schedule. Before anything is scheduled it shows "All clear — no sessions scheduled
   today", which is the normal day-one state, not an error.
+
+  Home shows a summary rather than the whole day. On a busy day the list stops after
+  the first few sessions and the next line tells you **how many more there are** — tap
+  it to open the full list, where every session for the day is shown. If you are used
+  to counting the sessions on Home to check your day, count them on Schedule instead;
+  Home is the preview.
 - **Needs Attention** — a follow-up queue with a count for each category, such as unpaid
   sessions, session confirmations, assignment completions, and announcement reads. Tap a
   category to work through it. The section only appears when something actually needs
@@ -28,6 +34,21 @@ Team Assist is organised into tabs along the bottom of the screen: **Home**,
 
 At the top there are buttons for **Messages** and alerts, and a profile pill for
 switching between the Trainer, Coach, and Athlete profiles.
+
+## Search
+
+The **Search** tab searches across your athletes, sessions, teams and the rest of your
+data. Type what you're looking for and results appear as you go.
+
+Sessions are included. If you search for a session on an iPhone and find nothing where
+you expect a result, that is worth reporting — see
+[reporting a problem]({{ '/report-a-problem/' | relative_url }}).
+
+## Rows that show, rows that open
+
+On an athlete's page the session rows — both **Future** and **Session History** — are a
+summary of what happened and when. They are there to read, not to tap. Sessions are
+opened from **Home** or the **Schedule** tab.
 
 ## Can it be customised?
 

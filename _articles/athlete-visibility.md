@@ -27,5 +27,12 @@ connected to previously but no longer are.
 This matters most where an athlete works with more than one coach. Each coach's sessions
 are separate, and being connected to one reveals nothing about another.
 
+## The Access count
+
+The **Access** tile counts the athletes who currently have someone connected — one count
+per athlete, however many people are connected to them, and connections you have ended
+are not counted. If the number looks higher than the number of athletes you have
+actually connected, that is worth reporting.
+
 > Still to document: exactly which details of a session a connected adult sees, and whether
 > ending a connection hides past sessions or only future ones.

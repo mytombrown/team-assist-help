@@ -32,6 +32,9 @@ You press send, so you always see exactly what goes out.
 A **second guardian** can be added to the athlete record with their own name and phone
 number, and invited to their phone with the same code.
 
+**Each athlete has their own code.** If you coach two children in the same family, send
+each child's own code — the two codes are different and are not interchangeable.
+
 ## How they accept
 
 The invited person, on their own iPhone:
@@ -44,6 +47,16 @@ The invited person, on their own iPhone:
 If the same phone number matches more than one of your athletes, Team Assist asks which
 athlete this invite is for. Once connected they see what you publish for that athlete
 and can message you.
+
+**If you have more than one child with the same coach, read this.** When you enter a
+second child's code, Team Assist shows you the list of athletes and asks which one the
+code is for — it does not decide for you, even when the names match. Any athlete who is
+**already connected to that coach** is marked in orange, saying that picking them adds a
+*second* connection for the same child.
+
+That marking is the thing to look at. Picking the child who is already connected is
+almost never what you want — it gives one child two connections to the same coach. Pick
+the child the new code was sent for.
 
 ## Pending, resending, and ending a connection
 

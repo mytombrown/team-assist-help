@@ -34,6 +34,22 @@ primary team and can also be associated with additional teams, so being an indiv
 client and a team member at the same time is normal, as is being on several teams.
 Trainer profiles can skip teams entirely and work one athlete at a time.
 
+## Two children in the same family
+
+Adding a second athlete in a family you already coach works the same as adding the
+first: create the athlete record, then send **that child's own invite code**. Each child
+has their own code, and the second child appears as their own record on the roster.
+
+If you connect a second child and one of them then seems to disappear from the Teams
+page, that is worth reporting rather than working around — see
+[reporting a problem]({{ '/report-a-problem/' | relative_url }}).
+
+## Athletes without a guardian on the record
+
+An athlete record can be created and saved with **no parent or guardian name on it**.
+Nothing is required beyond the athlete themselves, and the record stays put. You can add
+guardian details later, or never.
+
 ## Removing someone
 
 There are two different actions, and the difference matters:

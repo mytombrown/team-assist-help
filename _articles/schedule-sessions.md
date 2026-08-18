@@ -25,10 +25,21 @@ choose the new date and time before saving.
 Weekdays (Mon–Fri), Weekly, Monthly, or Custom. Team Assist generates the series up
 front (up to 30 sessions in a series).
 
+## Seeing the whole day
+
+**Schedule → Sessions lists every session for the day**, however many there are. The
+**Today** section on Home is a summary and stops after the first few, with a line
+telling you how many more there are — so if the two screens show different numbers,
+Schedule is the one to trust.
+
 ## Editing and rescheduling
 
 Rescheduling is editing: open the session and change its date or time. Deeper changes go
 through Advanced Edit on the session.
+
+**Moving a session keeps its length.** Change the start time of a one-hour session and it
+stays one hour — the end time moves with the start. To make a session longer or shorter,
+change the end time (or the duration) yourself.
 
 ## Cancelling and deleting
 
@@ -40,8 +51,20 @@ There's also **Cancel and Message Group**, which removes the session and pre-fil
 text message to the people involved ("… has been canceled") so you're not typing the
 same thing twice.
 
+A cancelled session **leaves the list straight away**. You don't need to close and
+reopen the app to see it go.
+
 Team Assist takes a backup snapshot before deleting, and snapshots can be restored from
 **Tools → Settings → Backup** — so an accidental deletion is recoverable.
+
+## Bookable slots and All Teams
+
+A bookable slot is an open session people can claim rather than one you assign. Setting a
+slot to **All Teams** publishes it to everyone connected — it is not limited to a
+particular team. If you set a slot to All Teams and nobody appears to be receiving it,
+that is worth reporting.
+
+Assigned sessions work the other way round: they go to the athletes on them.
 
 ## Who sees your sessions
 
