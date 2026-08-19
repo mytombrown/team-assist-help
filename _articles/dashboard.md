@@ -29,8 +29,7 @@ Team Assist is organised into tabs along the bottom of the screen: **Home**,
   sessions, session confirmations, assignment completions, and announcement reads. Tap a
   category to work through it. The section only appears when something actually needs
   attention.
-- **Workspace** — shortcuts into Schedule, Athletes, Teams, Assignments, Announcements,
-  and Payments.
+- **Workspace** — shortcuts into Schedule, Athletes, Teams, and Assignments.
 
 At the top there are buttons for **Messages** and alerts, and a profile pill for
 switching between the Trainer, Coach, and Athlete profiles.
