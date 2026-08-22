@@ -21,7 +21,7 @@ The finance center (in the Tools tab) has six sections:
 - **Payments** — recorded payments that count as paid history, with receipt records.
 - **Packages** — session packages: their payment status, active credits, and any
   package-linked requests.
-- **Payment Requests** — requests you've sent for packages, sessions, or custom
+- **Requests** — requests you've sent for packages, sessions, or custom
   balances, with statuses like Draft, Sent, Waiting for Payment, and Paid.
 - **Reports** — exports for payment totals, balances, package credits, and receipts.
 - **Settings** — where you choose how you collect money.

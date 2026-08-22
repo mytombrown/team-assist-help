@@ -3,7 +3,7 @@ title: "Clients, roster and teams"
 slug: roster-and-teams
 category: coaching
 order: 3
-tags: "client, roster, athlete, team, group, add, remove, contact, list, archive"
+tags: "client, roster, athlete, team, group, add, remove, contact, list, inactive"
 quick: "One athlete record holds everything about that person — contacts, notes, sessions, packages. Teams group athletes together, and an athlete can be on more than one."
 related:
   - invitations
@@ -52,14 +52,12 @@ guardian details later, or never.
 
 ## Removing someone
 
-There are two different actions, and the difference matters:
+There is one action here, and it is permanent:
 
-- **Archive** sets the athlete to Inactive. Nothing is deleted — the record and its
-  whole history stay, marked Inactive, and **Restore Athlete** brings it back.
-- **Delete Athlete** asks for confirmation and then removes the record along with its
+- **Delete Athlete**, under **Danger Zone**, asks for confirmation and then removes the record along with its
   availability, packages, package usage, attendance, and requests. The athlete is also
   taken off their sessions; a session left with no athletes at all is removed too.
 
 Team Assist takes a backup snapshot before a deletion, restorable from **Tools →
-Settings → Backup**. If you only want someone off your active list, archive — it's
-reversible; deletion is for when you genuinely want the record gone.
+Settings → Backup**. If you only want someone off your active list rather than gone,
+set them **Inactive** instead — that is reversible, and deletion is not.
