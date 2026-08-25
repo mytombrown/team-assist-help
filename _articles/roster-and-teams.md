@@ -15,6 +15,23 @@ There's one kind of record for a person you coach: the **athlete record**. Wheth
 think of someone as a client, a roster entry, or a team member, it's the same record —
 teams are just groupings of athlete records.
 
+## The Athletes & Teams page
+
+The **Athletes** tab opens on four tiles that read your roster at a glance — how many
+athletes are **Active**, how many **Teams** you have, how many families have **Access**
+(a connected parent or adult athlete), and your **Staff** count. Below them a switch
+flips the list between **Athletes**, **Teams**, and **Staff**, with **Add Athlete**
+next to the list.
+
+**Athlete Skill Levels** on this page is where your internal labels live — they group
+athletes and guide sessions, and they're internal: families never see them.
+
+Tapping an athlete opens their page: who they are, their team, their skill level if
+you've set one, and **Active** / **Connected** at a glance, with attendance, remaining
+credits, and any payment due right under it. The **Quick Actions** grid underneath —
+Assignments, Checklists, Message, Info, Progress, Access — is the fast route to
+everything else in this guide; **Access** is where invites live.
+
 ## The athlete record
 
 An athlete record holds the athlete's name, the parent or guardian's name, phone number
