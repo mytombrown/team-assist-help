@@ -23,12 +23,19 @@ state, not an error.
 ## What gets shared
 
 - **Sessions** — scheduled sessions involving that athlete appear automatically when
-  you save them; you don't press a separate publish button.
+  you save them; you don't press a separate publish button. A **bookable slot**
+  appears too: the connected person sees the spots left and can claim one, and you
+  see who claimed or declined.
 - **Assignments** — follow-up work you send, which the recipient can mark complete.
 - **Announcements** — messages to a team or group, which the recipient can mark read.
 - **Updates** — session updates you choose to share for a specific athlete.
 - **Package summaries** — the state of that athlete's session packages, such as credits
   remaining.
+
+A word on how credits move: a credit is used when a session **finishes**, not when it
+is booked. And a package sold at a particular session type only covers sessions of
+that type — group credits pay for group sessions, one-on-one credits for one-on-ones.
+The family sees their remaining credits update after each completed session.
 
 ## How the connected person sees it
 

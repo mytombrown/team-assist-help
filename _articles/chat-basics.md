@@ -40,23 +40,25 @@ conversation has an info button showing who's in it and who can post.
 Text and emoji only — the conversation says exactly that at the top. No photos, files,
 or voice messages.
 
-## Editing and deleting
+## Sending, and what the labels under a message mean
 
-Messages can't be edited after sending. You can delete **your own** messages: touch and
-hold one and choose Delete Message. The confirmation is worth reading, because it
-answers the most-asked chat question: *"This removes the message from this Team Assist
-conversation. This cannot be undone."* — so a sent message can be removed from the
-conversation, but there's no edit-and-pretend.
+While a message is on its way it says **sending…** underneath. If it genuinely cannot
+be delivered — for example the connection it belongs to needs a new invite — the label
+changes to **Not delivered** with the reason, and the message stops pretending. Your
+text stays visible either way, so nothing you wrote is lost.
 
-Deleting a whole conversation (swipe it in the list) only clears the history **from
-your device** — it doesn't remove the coach, athlete, or team, and a new message makes
-the conversation reappear.
+When someone wears more than one hat — the same person is both a coach and a trainer,
+say — each message shows which role it was sent as, so a conversation never leaves you
+guessing who you're talking to.
 
-## Unread messages and history
+## Editing, deleting, and history
 
-Conversations with unread messages show a count in the conversation list, and the
-Messages title shows the total. Conversation history is kept on your device; the only
-thing that clears it is deleting the conversation yourself.
+Messages can't be edited or deleted after sending — what was said is what was said.
+
+Your conversation history lives with your connection, not with any one phone. Sign in
+on a new device and the conversation is there; delete and reinstall the app and it
+comes back. That also means clearing a conversation from one device doesn't remove it
+— the history returns the next time the conversation syncs.
 
 For what the status banner means, see
 [chat status and the retry banner]({{ '/chat-status-banner/' | relative_url }}).

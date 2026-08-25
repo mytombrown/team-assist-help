@@ -44,6 +44,11 @@ The invited person, on their own iPhone:
 3. Enters the invite code and their phone number — the one saved on the athlete's
    record — and taps **Join with Invite Code**.
 
+The first time a code is used, it becomes tied to the account that used it. From
+then on that code only works for that person — someone else who finds the text
+can't use it to connect. Phone numbers match on digits alone, so writing
+"(555) 123-4567" where the coach saved "5551234567" works fine.
+
 If the same phone number matches more than one of your athletes, Team Assist asks which
 athlete this invite is for. Once connected they see what you publish for that athlete
 and can message you.
@@ -61,10 +66,17 @@ the child the new code was sent for.
 ## Pending, resending, and ending a connection
 
 The **Athlete Access** section on the athlete's page shows where things stand and is
-where you send, resend, or disconnect. Resending uses the same code — a code doesn't
-expire on a timer, and stays valid until you disconnect. **Disconnect Athlete Access**
-ends the connection: their access to that athlete's information disappears, and
-reconnecting later means sending a fresh invite.
+where you send, resend, or disconnect. Resending uses the same code — a code never
+expires and never changes. It is the permanent link between you and that parent.
+
+**Disconnect Athlete Access** pauses the connection: their access to that athlete's
+information disappears. The code itself stays valid, asleep. To reconnect, you resend
+the same code — a tap on **Resend Athlete Invite** is enough — and the parent enters
+it again on their phone. Either side can end the connection, and only the parent can
+bring it back, so both of you keep a say.
+
+Deleting the athlete's contact entirely is different: that retires the code for good,
+and the app warns you before it happens.
 
 ## You don't have to invite anyone
 
