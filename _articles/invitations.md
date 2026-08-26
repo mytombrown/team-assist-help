@@ -32,6 +32,10 @@ You press send, so you always see exactly what goes out.
 A **second guardian** can be added to the athlete record with their own name and phone
 number, and invited to their phone with the same code.
 
+**Connecting doesn't stop at signup.** A connected adult can add another coach or
+trainer later from their own Home screen — **Add a Coach or Trainer** takes a new
+code, and **Manage** shows every connection they hold.
+
 **Each athlete has their own code.** If you coach two children in the same family, send
 each child's own code — the two codes are different and are not interchangeable.
 

@@ -31,6 +31,10 @@ state, not an error.
 - **Updates** — session updates you choose to share for a specific athlete.
 - **Package summaries** — the state of that athlete's session packages, such as credits
   remaining.
+- **Money** — outstanding balances and payment requests. When you request payment for a
+  package, the connected person sees the amount and due date on their Home screen, an
+  **Outstanding** total across their athletes, and a **Finance** tile with their payment
+  history.
 
 A word on how credits move: a credit is used when a session **finishes**, not when it
 is booked. And a package sold at a particular session type only covers sessions of
@@ -42,8 +46,9 @@ The family sees their remaining credits update after each completed session.
 They use Team Assist too. On their own iPhone they install the app, confirm they're 18
 or over, choose the **Athlete** profile, and connect with the invite code you send —
 see [inviting a parent or an adult athlete]({{ '/invitations/' | relative_url }}).
-Their Home screen then shows the sessions, assignments, announcements, updates, and
-packages shared with them, and they can message you through
+Their Home screen then shows what you share: **Future Sessions**, assignments,
+announcements, and packages — and money up front, with any outstanding balance and
+payment requests shown before anything else. They can message you through
 [team chat]({{ '/chat-basics/' | relative_url }}). If they work with more than one
 coach, a team selector filters what they see.
 
