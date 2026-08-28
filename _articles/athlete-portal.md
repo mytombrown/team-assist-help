@@ -60,7 +60,9 @@ notifications if they allow them.
 Publishing follows the source. Deleting a session removes it for the connected person
 too, and the same goes for assignments, announcements, updates, and package summaries —
 what they see tracks what's actually in your app, rather than being a copy you'd have
-to chase.
+to chase. Removal is permanent on their side as well: a package you removed stays
+gone, even if the family later disconnects and reconnects. Expired packages are
+different — they stay visible as history until you remove them.
 
 Disconnecting someone ends their visibility entirely — see
 [who can see what]({{ '/athlete-visibility/' | relative_url }}).

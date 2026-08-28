@@ -73,6 +73,12 @@ The **Athlete Access** section on the athlete's page shows where things stand an
 where you send, resend, or disconnect. Resending uses the same code — a code never
 expires and never changes. It is the permanent link between you and that parent.
 
+Connections are independent per role. If a family is connected to both a coach and a
+trainer, resending one invite never touches the other connection — a coach's resend
+can't disturb the trainer's link, and the reverse. And the join screen on the
+family's phone only ever offers invites that were actually sent: one candidate per
+role, nothing invented.
+
 **Disconnect Athlete Access** pauses the connection: their access to that athlete's
 information disappears. The code itself stays valid, asleep. To reconnect, you resend
 the same code — a tap on **Resend Athlete Invite** is enough — and the parent enters
