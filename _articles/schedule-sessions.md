@@ -66,6 +66,14 @@ that is worth reporting.
 
 Assigned sessions work the other way round: they go to the athletes on them.
 
+## Changing a session's location
+
+Open the session and tap **Location** to move it. If the session is part of a
+repeating series, Team Assist asks whether the change is for **this session
+only** or **this and the upcoming sessions** in the series. Either way, the
+connected family sees the new location right away — no need to resend
+anything.
+
 ## Who sees your sessions
 
 Sessions appear automatically for the connected parent or adult athlete of each athlete
