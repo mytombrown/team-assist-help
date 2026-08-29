@@ -23,7 +23,12 @@ choose the new date and time before saving.
 
 **Repeating sessions.** A session can repeat — the options are Does Not Repeat, Daily,
 Weekdays (Mon–Fri), Weekly, Monthly, or Custom. Team Assist generates the series up
-front (up to 30 sessions in a series).
+front (up to 30 sessions in a series). In the Coach profile the Repeat choice sits in
+the session builder; in the Trainer profile use the **Advanced Session Form** (New
+Session → Advanced Session Form) to set a repeat. The whole series publishes to your
+athletes together — every occurrence appears on their side at once, and **Cancel All
+in Series** removes every occurrence from their side too. If a series ever looks
+different on an athlete's phone than on yours, that is worth reporting.
 
 ## Seeing the whole day
 

@@ -29,10 +29,22 @@ Team Assist is organised into tabs along the bottom of the screen: **Home**,
   sessions, session confirmations, assignment completions, and announcement reads. Tap a
   category to work through it. The section only appears when something actually needs
   attention.
+
+  **Session Confirmations lists declines only.** An athlete who simply hasn't answered
+  a session invite yet is not a follow-up — no "No reply" rows appear, however many
+  sessions or athletes are waiting. A decline shows up with the athlete's reason so
+  you can react.
 - **Workspace** — shortcuts into Schedule, Athletes, Teams, and Assignments.
 
 At the top there are buttons for **Messages** and alerts, and a profile pill for
 switching between the Trainer, Coach, and Athlete profiles.
+
+## Notifications
+
+The bell opens the Notification Center. Each notification has **Open**, **Mark as
+Read**, and **Delete** buttons — Delete removes it whether or not it has been read,
+and swiping a row deletes it too. **Mark All as Read** clears the unread count in one
+tap.
 
 ## Search
 
