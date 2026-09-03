@@ -33,8 +33,10 @@ A **second guardian** can be added to the athlete record with their own name and
 number, and invited to their phone with the same code.
 
 **Connecting doesn't stop at signup.** A connected adult can add another coach or
-trainer later from their own Home screen — **Add a Coach or Trainer** takes a new
-code, and **Manage** shows every connection they hold.
+trainer later from the **Teams** tab: **+** opens the connect card. They pick which
+child the code is for first, paste or type the code, enter the phone number you have
+for them, and press **Connect** — the app never asks "which athlete?" afterwards.
+**Manage** shows every connection they hold.
 
 **Each connection is named for the person who owns it.** In the family's connection
 list, a coach connection carries the coach's name and team, and a trainer connection
@@ -75,6 +77,13 @@ almost never what you want — it gives one child two connections to the same co
 the child the new code was sent for.
 
 ## Pending, resending, and ending a connection
+
+**"Connection retired" is not the end of a connection.** If the app ever reports that the
+server no longer recognizes an athlete's link, it keeps asking the server on each launch and
+brings the link back by itself when the server still knows it — you will see **Connection
+restored**. Do not send a new invite for it unless the connection stays retired after a day;
+a new invite makes a second connection for the same child.
+
 
 The **Athlete Access** section on the athlete's page shows where things stand and is
 where you send, resend, or disconnect. Resending uses the same code — a code never

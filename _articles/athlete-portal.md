@@ -46,11 +46,22 @@ The family sees their remaining credits update after each completed session.
 They use Team Assist too. On their own iPhone they install the app, confirm they're 18
 or over, choose the **Athlete** profile, and connect with the invite code you send —
 see [inviting a parent or an adult athlete]({{ '/invitations/' | relative_url }}).
-Their Home screen then shows what you share: **Future Sessions**, assignments,
-announcements, and packages — and money up front, with any outstanding balance and
-payment requests shown before anything else. They can message you through
-[team chat]({{ '/chat-basics/' | relative_url }}). If they work with more than one
-coach, a team selector filters what they see.
+Their Home screen opens on **Today** — how many sessions, who and when — with what
+**Needs Attention** right under it (payment requests, package warnings, assignments),
+then **Upcoming** sessions and four tiles: Assignments, Announcements, Packages, and
+Finance. Money is never buried: an outstanding balance or a payment request sits in
+Needs Attention, and the Finance tile carries the total and their payment history.
+
+Each session is one card. While it needs an answer the card offers **Accept** and
+**Decline** (or **Claim spot** and **Pass** on a bookable slot); once answered, the card
+shows the answer and nothing else. Tapping the location opens directions; tapping the
+card opens the session, where **Add to Calendar** lives and where an answer can still be
+changed until the session starts.
+
+The **Teams** tab lists their athletes, the coaches and trainers connected to the
+selected athlete (**Manage** shows every connection, **+** connects a new one), and that
+coach's sessions. They can message you through
+[team chat]({{ '/chat-basics/' | relative_url }}).
 
 Their app has its own notification bell for new items, and can show iPhone
 notifications if they allow them.

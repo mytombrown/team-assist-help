@@ -64,7 +64,12 @@ Team Assist takes a backup snapshot before deleting, and snapshots can be restor
 
 ## Bookable slots and All Teams
 
-A bookable slot is an open session people can claim rather than one you assign. Setting a
+A bookable slot is an open session people can claim rather than one you assign. Your
+Sessions list shows how many spots are still open on each slot — **3/10 open**, or
+**Full** — the same count the families see. When a claimed slot ends, a credit is taken
+from the athlete's package on its own: a package sold **with** a session type only pays
+for sessions of that type; a package sold **without** a type pays for any session. If the
+family holds both, the matching typed package is used first. Setting a
 slot to **All Teams** publishes it to everyone connected — it is not limited to a
 particular team. If you set a slot to All Teams and nobody appears to be receiving it,
 that is worth reporting.
