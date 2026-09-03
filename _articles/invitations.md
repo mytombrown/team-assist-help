@@ -36,6 +36,13 @@ number, and invited to their phone with the same code.
 trainer later from their own Home screen — **Add a Coach or Trainer** takes a new
 code, and **Manage** shows every connection they hold.
 
+**Each connection is named for the person who owns it.** In the family's connection
+list, a coach connection carries the coach's name and team, and a trainer connection
+carries the trainer's name and team — even when you are both, they are two separate
+connections and read as two. A connection whose invite was re-issued shows under its
+own role with no team until the new code is entered; it never borrows the other
+role's name.
+
 **Each athlete has their own code.** If you coach two children in the same family, send
 each child's own code — the two codes are different and are not interchangeable.
 
