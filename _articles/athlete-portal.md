@@ -63,6 +63,10 @@ selected athlete (**Manage** shows every connection, **+** connects a new one), 
 coach's sessions. They can message you through
 [team chat]({{ '/chat-basics/' | relative_url }}).
 
+**Messages** lists one conversation per connected coach or trainer and one per team.
+A team appears once, under the hat that runs it — a second, empty copy of a team
+conversation was a defect and is gone in build 223.
+
 Their app has its own notification bell for new items, and can show iPhone
 notifications if they allow them.
 
