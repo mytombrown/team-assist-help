@@ -13,6 +13,7 @@ related:
 
 <!-- Written from the family phone on build 223. Screenshots:
      state/evidence/help-shots/family-connect-223.png (Connect a coach card)
+     state/evidence/help-shots/family-connect-scrolled-224.png (the card scrolled: Connect button below the phone field, connected row with green dots)
      state/evidence/help-shots/family-teams-223.png (Teams tab, connected) -->
 
 ## Before you start
