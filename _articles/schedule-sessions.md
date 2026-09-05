@@ -32,6 +32,11 @@ different on an athlete's phone than on yours, that is worth reporting.
 
 ## Seeing the whole day
 
+**Schedule → Sessions also looks back.** Under Today and Upcoming, a **Past ·
+last 30 days** section lists the sessions that have already happened, newest
+first — the same row, tap to open it. Older than 30 days is not shown there;
+use search or the athlete's history.
+
 **Schedule → Sessions lists every session for the day**, however many there are. The
 **Today** section on Home is a summary and stops after the first few, with a line
 telling you how many more there are — so if the two screens show different numbers,

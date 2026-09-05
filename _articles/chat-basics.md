@@ -53,7 +53,12 @@ guessing who you're talking to.
 
 ## Editing, deleting, and history
 
-Messages can't be edited or deleted after sending — what was said is what was said.
+Messages can't be edited after sending. **You can delete a message you sent:**
+long-press it and choose **Delete Message**. It leaves your phone right away and the
+other side's within a minute or so.
+
+**Messages are kept for 30 days.** Anything older is removed from every phone and
+from the server on the next launch — keep what matters somewhere else.
 
 Your conversation history lives with your connection, not with any one phone. Sign in
 on a new device and the conversation is there; delete and reinstall the app and it

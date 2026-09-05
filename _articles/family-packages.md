@@ -33,7 +33,8 @@ related:
 Tap the **Packages** tile. Packages are grouped by coach or trainer, with a
 count next to each name. Every package card shows:
 
-- the package name and **how many credits are used** — "12 of 12 used";
+- the package name and **how many credits are used** — "12 of 12 used" (the
+  second number is what the package was sold with, so a six-pack reads "of 6");
 - a pill with credits **left** — "0 left";
 - which coach or trainer it belongs to;
 - **Paid**, or **Unpaid** with the amount due — "Unpaid · $250.00 due";
@@ -46,11 +47,14 @@ Tap the **Finance** tile. The screen shows:
 - **Outstanding Balance** at the top — the total you still owe.
 - **Active Package** — the package currently being drawn on, with its credits
   remaining and whether it is paid.
-- **Payment Requests** — anything your coach has asked you to pay, or "No
-  payment requests yet."
+- **Payment Requests** — only what is still open: anything your coach has
+  asked you to pay and has not yet marked paid, or "No payment requests yet."
+  Once the coach marks it paid, its **Pay Now** card goes away.
+- **Receipts** — every payment recorded as paid, newest first: "Paid · $50.00 ·
+  Manual · Sep 4, 2026 · <package>". A paid request lands here as soon as the
+  coach marks it paid.
 - **Payment History** — every payment and credit recorded, newest first, each
-  with the amount, how it was paid and the date. A paid request shows a green
-  check.
+  with the amount, how it was paid and the date.
 
 ## How credits move
 
