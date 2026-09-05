@@ -1,12 +1,12 @@
 ---
-title: "Finance center"
+title: "How do I track payments and packages?"
 slug: finance-center
 category: coaching
 order: 5
 tags: "finance, billing, invoice, payment, package, template, money, charge, paid"
 quick: "The finance center records money — packages, payment requests, balances, and payment history. It does not process payments: money changes hands outside the app, and you mark things paid."
 related:
-  - subscription-billing
+  - family-packages
 ---
 
 The first thing to know: **Team Assist records payments; it does not process them.** No

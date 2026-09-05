@@ -11,7 +11,22 @@ layout: null
     "quick": {{ a.quick | strip_html | normalize_whitespace | jsonify }},
     "tags": {{ a.tags | default: "" | jsonify }},
     "body": {{ a.content | strip_html | normalize_whitespace | truncate: 4000 | jsonify }},
-    "draft": {{ a.needs_review | default: false }}
+    "draft": {{ a.needs_review | default: false }},
+    "sections": [
+      {%- comment -%}
+        TA-569: one entry per H2 so a result can land on the section that
+        answers the question, not the top of the article. kramdown gives every
+        H2 an id (auto_ids); tools/check_anchors.py fails the build if one
+        would not. Each piece after the split starts with the id.
+      {%- endcomment -%}
+      {%- assign pieces = a.content | split: '<h2 id="' -%}
+      {%- for piece in pieces offset: 1 -%}
+        {%- assign id = piece | split: '"' | first -%}
+        {%- assign head = piece | split: '</h2>' | first | split: '>' | last | strip_html | normalize_whitespace -%}
+        {%- assign text = piece | split: '</h2>' | last | strip_html | normalize_whitespace | truncate: 600 -%}
+        { "id": {{ id | jsonify }}, "title": {{ head | jsonify }}, "text": {{ text | jsonify }} }{% unless forloop.last %},{% endunless %}
+      {%- endfor -%}
+    ]
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]

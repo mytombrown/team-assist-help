@@ -72,6 +72,12 @@ main{padding:34px 20px 72px}
 .kbd{position:absolute;right:12px;top:50%;transform:translateY(-50%);font:11px/1 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--faint);border:1px solid var(--line-strong);border-radius:5px;padding:4px 6px;background:var(--sunken)}
 #q:not(:placeholder-shown)~.kbd{display:none}
 
+/* search on article pages (TA-569): same box as the hero, sits under the header */
+.pagesearch{padding-top:18px}
+.pagesearch .searchwrap{margin:0}
+#results.wrap{padding-top:10px}
+.res .sec{display:block;font-size:13px;color:var(--faint);margin-top:2px}
+
 /* categories */
 .cat{margin:0 0 30px;scroll-margin-top:20px}
 .cat-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;padding-bottom:8px;border-bottom:1px solid var(--line);margin-bottom:2px}

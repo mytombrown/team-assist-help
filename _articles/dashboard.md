@@ -1,5 +1,5 @@
 ---
-title: "The dashboard"
+title: "What's on the Home screen?"
 slug: dashboard
 category: coaching
 order: 1

@@ -29,9 +29,27 @@
     pending = fetch(base + "/search.json")
       .then(function (r) { return r.json(); })
       .then(function (data) {
-        INDEX = data.map(function (a) {
+        // TA-569: each H2 section is its own hit, linking to the anchor, so a
+        // search lands on the paragraph that answers rather than the top of
+        // a long article. The article itself stays a hit too.
+        INDEX = [];
+        data.forEach(function (a) {
           a._hay = (a.title + " " + tagText(a.tags) + " " + a.quick + " " + a.body + " " + (a.categoryTitle || "")).toLowerCase();
-          return a;
+          INDEX.push(a);
+          (a.sections || []).forEach(function (s) {
+            if (!s.id || !s.title) return;
+            INDEX.push({
+              title: s.title,
+              url: a.url + "#" + s.id,
+              categoryTitle: a.categoryTitle,
+              quick: s.text || "",
+              tags: a.tags,
+              body: "",
+              draft: a.draft,
+              parent: a.title,
+              _hay: (a.title + " " + s.title + " " + tagText(a.tags) + " " + (s.text || "")).toLowerCase()
+            });
+          });
         });
         return INDEX;
       })
@@ -109,6 +127,7 @@
           '<span class="crumb">' + esc(h.a.categoryTitle || "") + "</span>" +
           '<span class="t">' + highlight(h.a.title, terms) +
           (h.a.draft ? ' <span class="flag">draft</span>' : "") + "</span>" +
+          (h.a.parent ? '<span class="sec">in ' + esc(h.a.parent) + "</span>" : "") +
           '<span class="s">' + highlight(h.a.quick, terms) + "</span></a>";
       }).join("");
   }

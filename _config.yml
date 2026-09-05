@@ -39,12 +39,12 @@ help_categories:
   - id: connections
     title: Connections & Visibility
     blurb: Connecting with parents and adult athletes, and who can see what.
+  - id: parents
+    title: For Parents & Athletes
+    blurb: Using the Athlete profile — sessions, booking, packages, and connecting to a coach.
   - id: account
     title: Account & Privacy
     blurb: How your identity works, and where your data is covered.
-  - id: billing
-    title: Subscription & Billing
-    blurb: Payments, which Apple handles.
   - id: support
     title: Support
     blurb: Getting help from a person.

@@ -1,5 +1,5 @@
 ---
-title: "Who can see what"
+title: "Who can see my athletes' information?"
 slug: athlete-visibility
 category: connections
 order: 2

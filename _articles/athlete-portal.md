@@ -1,5 +1,5 @@
 ---
-title: "Publishing to connected parents and athletes"
+title: "What do connected parents and athletes see?"
 slug: athlete-portal
 category: coaching
 order: 6

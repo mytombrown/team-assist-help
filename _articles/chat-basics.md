@@ -1,5 +1,5 @@
 ---
-title: "Using team chat"
+title: "How do I message my team?"
 slug: chat-basics
 category: chat
 order: 1

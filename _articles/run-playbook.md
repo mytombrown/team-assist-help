@@ -1,5 +1,5 @@
 ---
-title: "Run Playbook"
+title: "How do I run a session from a playbook?"
 slug: run-playbook
 category: coaching
 order: 4

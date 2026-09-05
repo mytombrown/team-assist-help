@@ -1,5 +1,5 @@
 ---
-title: "Apple Watch, the widget, and sharing into Team Assist"
+title: "Can I use Apple Watch, the widget, or share into Team Assist?"
 slug: watch-widget-share
 category: coaching
 order: 7

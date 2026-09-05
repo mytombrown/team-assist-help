@@ -1,5 +1,5 @@
 ---
-title: "Clients, roster and teams"
+title: "How do I add athletes, clients and teams?"
 slug: roster-and-teams
 category: coaching
 order: 3

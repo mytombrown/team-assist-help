@@ -1,5 +1,5 @@
 ---
-title: "Scheduling sessions"
+title: "How do I schedule a session?"
 slug: schedule-sessions
 category: coaching
 order: 2

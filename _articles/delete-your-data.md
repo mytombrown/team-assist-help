@@ -1,5 +1,5 @@
 ---
-title: "Deleting your account or data"
+title: "How do I delete my account or data?"
 slug: delete-your-data
 category: account
 order: 3

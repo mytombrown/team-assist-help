@@ -49,6 +49,9 @@ jobs:
       - name: Check last-updated dates track edits
         run: python3 tools/check_last_updated.py
 
+      - name: Every H2 has a unique anchor (search links to sections)
+        run: python3 tools/check_anchors.py
+
       - name: Generate last-updated dates from git
         run: python3 tools/last_updated.py
 

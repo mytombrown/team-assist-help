@@ -1,5 +1,5 @@
 ---
-title: "Privacy and your data"
+title: "What happens to my data?"
 slug: privacy-and-data
 category: account
 order: 2

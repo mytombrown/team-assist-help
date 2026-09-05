@@ -1,5 +1,5 @@
 ---
-title: "Contacting support"
+title: "How do I contact support?"
 slug: contact-support
 category: support
 order: 1

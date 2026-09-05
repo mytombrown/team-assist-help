@@ -31,9 +31,31 @@
 <div class="beta"><div class="wrap"><b>Note</b> {{ site.beta_notice }}</div></div>
 {% endif %}
 
+{% if page.url != "/" %}
+{% comment %}
+  TA-569: search from every page, not only the index. Tom, 2026-09-04:
+  "searching for answers isn't the easiest". The index keeps its own hero
+  search; article pages get this one, wired to the same search.js by the
+  same three ids (#q, #results, #browse).
+{% endcomment %}
+<div class="wrap pagesearch">
+  <div class="searchwrap">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    <input id="q" type="search" placeholder="Search help…" autocomplete="off" spellcheck="false" aria-label="Search help articles">
+    <span class="kbd" aria-hidden="true">/</span>
+  </div>
+</div>
+<div id="results" class="wrap" hidden aria-live="polite" data-email="{{ site.support_email }}"></div>
+{% endif %}
+
 <main id="main" class="wrap">
+{% if page.url != "/" %}<div id="browse">{% endif %}
 {{ content }}
+{% if page.url != "/" %}</div>{% endif %}
 </main>
+{% if page.url != "/" %}
+<script src="{{ '/assets/js/search.js' | relative_url }}?v=3" defer></script>
+{% endif %}
 
 <footer class="site">
   <div class="wrap">

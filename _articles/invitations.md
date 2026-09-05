@@ -1,5 +1,5 @@
 ---
-title: "Inviting a parent or an adult athlete"
+title: "How do I invite a parent or an adult athlete?"
 slug: invitations
 category: connections
 order: 1

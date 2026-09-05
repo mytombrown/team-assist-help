@@ -1,5 +1,5 @@
 ---
-title: "Reporting a bug"
+title: "How do I report a problem?"
 slug: report-a-problem
 category: support
 order: 2

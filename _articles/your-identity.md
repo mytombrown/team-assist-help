@@ -1,5 +1,5 @@
 ---
-title: "How your identity works"
+title: "How does Team Assist know who I am?"
 slug: your-identity
 category: account
 order: 1
