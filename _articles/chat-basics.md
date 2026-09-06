@@ -42,7 +42,9 @@ or voice messages.
 
 ## Sending, and what the labels under a message mean
 
-While a message is on its way it says **sending…** underneath. If it genuinely cannot
+While a message is on its way it says **sending…** underneath; once the server has it
+the label goes away and the message stays exactly where it is — it never disappears
+and comes back. If it genuinely cannot
 be delivered — for example the connection it belongs to needs a new invite — the label
 changes to **Not delivered** with the reason, and the message stops pretending. Your
 text stays visible either way, so nothing you wrote is lost.

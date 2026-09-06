@@ -9,7 +9,6 @@ related:
   - chat-basics
   - report-a-problem
 ---
-
 Team chat sometimes shows an orange banner at the top of a conversation when messages
 are taking longer than usual to send or receive. There are two kinds, and they mean
 different things.
@@ -53,3 +52,11 @@ to resend the invite — it's the same code.
 If the retrying banner stays up for a long stretch on a good connection, that's worth
 [reporting]({{ '/report-a-problem/' | relative_url }}) with rough times, which makes it
 much easier to trace.
+
+## The "Athlete sync needs attention" strip
+
+Separate from chat: when the app cannot send an update to a connected athlete or
+parent, a small orange **Athlete sync needs attention** strip appears at the top of the
+screen for a few seconds and fades on its own. It never blocks the screen — keep
+working, the app retries in the background. (Earlier builds showed this as a pop-up
+titled "Android Sync Needs Attention" that had to be dismissed; that pop-up is gone.)
