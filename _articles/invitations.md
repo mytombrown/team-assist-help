@@ -95,11 +95,20 @@ can't disturb the trainer's link, and the reverse. And the join screen on the
 family's phone only ever offers invites that were actually sent: one candidate per
 role, nothing invented.
 
-**Disconnect Athlete Access** pauses the connection: their access to that athlete's
-information disappears. The code itself stays valid, asleep. To reconnect, you resend
-the same code — a tap on **Resend Athlete Invite** is enough — and the parent enters
-it again on their phone. Either side can end the connection, and only the parent can
-bring it back, so both of you keep a say.
+**Disconnect Athlete Access** (you confirm with **Disconnect Every Guardian**) ends
+the connection on both phones: within a couple of minutes the family's Teams list drops
+it, your sessions stop reaching them, and the old link answers *This Athlete Access
+invite was disconnected*. The code itself stays valid, asleep. To reconnect, tap
+**Resend Athlete Invite** — the same code — and the parent enters it again on their
+phone. Give the resend a few minutes before they type it: entered straight away, the
+code can still be refused as inactive; a few minutes later it is accepted, and both
+phones read connected a couple of minutes after that. Your **Athlete Access** section
+flips from Invite Pending on its own. Either side can end the connection, and only the
+parent can bring it back, so both of you keep a say.
+
+**Changed the guardian's phone number on the athlete record?** Team Assist re-issues
+the invite for the new number, so the parent connects with the same code and the phone
+number now on the record. The old number no longer matches.
 
 Deleting the athlete's contact entirely is different: that retires the code for good,
 and the app warns you before it happens.

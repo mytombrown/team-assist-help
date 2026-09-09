@@ -42,6 +42,14 @@ start appearing under **Sessions** and on Home.
 
 ## Managing connections
 
-**Manage** next to Coaches lists every connection for the selected athlete.
-Disconnecting ends what that coach can see — see
+**Manage** next to Coaches lists every connection for the selected athlete, one row
+per coach or trainer. Disconnecting ends what that coach can see — see
 [who can see my athletes' information?]({{ '/athlete-visibility/' | relative_url }}).
+
+## If your coach disconnected you
+
+Their sessions stop arriving and the connection leaves your Teams list within a couple
+of minutes. If they resend the invite, wait a few minutes, then enter the **same code**
+and your phone number again on the **Connect a coach** card. If the app answers that
+the invite was disconnected, the resend has not landed yet — try again in a few
+minutes. The green dot comes back a couple of minutes after a successful **Connect**.
