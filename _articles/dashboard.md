@@ -44,7 +44,10 @@ switching between the Trainer, Coach, and Athlete profiles.
 The bell opens the Notification Center. Each notification has **Open**, **Mark as
 Read**, and **Delete** buttons — Delete removes it whether or not it has been read,
 and swiping a row deletes it too. **Mark All as Read** clears the unread count in one
-tap.
+tap. **Delete All Notifications** empties the list; it asks you to confirm first.
+
+A deleted notification stays deleted. It does not come back on the next launch or the
+next sync.
 
 ## Search
 

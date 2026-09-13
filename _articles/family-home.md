@@ -29,7 +29,9 @@ This is the Home tab when you use Team Assist as a parent or an adult athlete
 - **Team chips** — **All teams**, then one chip per coach or trainer. Tap one to
   show only that coach's items.
 - The **profile button** is top-left. The **chat bubble** and the **bell** are
-  top-right; the bell shows a count of unread notifications.
+  top-right; the bell shows a count of unread notifications. Deleting a
+  notification is permanent, and **Delete All Notifications** asks you to confirm
+  before it empties the list.
 
 ## Needs Attention
 
