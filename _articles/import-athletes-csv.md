@@ -4,7 +4,7 @@ slug: import-athletes-csv
 category: coaching
 order: 8
 tags: "import, CSV, spreadsheet, Excel, Numbers, Google Sheets, template, bulk, many athletes, roster, parents, upload, add athletes, list"
-quick: "On the Athletes tab, tap Add Athlete, then tap Add multiple athletes from a CSV file at the top. Get the template, fill it in (one athlete per row), save it as CSV, and upload it. Check the preview, then tap Add. Nobody is invited or messaged."
+quick: "On the Athletes tab, tap the table icon next to All Athletes (or Add › Import from CSV). Get the template, fill it in (one athlete per row), save it as CSV, and upload it. Check the preview, then tap Add. Nobody is invited or messaged."
 related:
   - roster-and-teams
   - invitations
@@ -12,7 +12,6 @@ related:
 
 <!-- Written from build 227 source (Version 1.2.1 (227)): AthleteCSVImportView.swift,
      AthleteCSVImportPolicy.swift, ClientsView.swift on future/1.3 41099522.
-     Entry point updated for build 229 (TA-1004): the CSV button moved inside Add Athlete.
      No screenshots yet. -->
 
 Have your roster in a spreadsheet already? Import it in one go instead of adding
@@ -21,12 +20,9 @@ athletes one at a time. Each row adds an athlete and their parent.
 ## Open the import
 
 1. Open the **Athletes** tab.
-2. Tap **Add Athlete**. (Where the list has an **Add** button, tap **Add**, then
-   **Add Athlete**.)
-3. At the top of the Add Athlete screen, tap **Add multiple athletes from a CSV
-   file**. The **Import from CSV** screen opens.
-
-When you finish (or tap **Cancel**), you're back on the Athletes list.
+2. At the top of the list, next to **All Athletes**, tap the small table icon.
+   (Where the list has an **Add** button, you can also tap **Add** and choose
+   **Import from CSV**.) The **Import from CSV** screen opens.
 
 ## 1. Get the template
 
