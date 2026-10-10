@@ -15,7 +15,9 @@ Publishing sends information to the adults connected to an athlete. For an athle
 18 that's their parent or guardian; for an athlete 18 or over it can be the athlete
 themselves.
 
-Nothing is ever published to someone under 18. They have no account to receive it.
+An athlete 15 to 17 can also see it on their own phone, once a parent adds that
+phone to the family — see [adding a phone to your family]({{ '/family-phones/' | relative_url }}).
+Nothing is ever published to someone under 15.
 
 If nobody is connected to an athlete, there's nobody to publish to. That's a normal
 state, not an error.
@@ -28,6 +30,8 @@ state, not an error.
   see who claimed or declined.
 - **Assignments** — follow-up work you send, which the recipient can mark complete.
 - **Announcements** — messages to a team or group, which the recipient can mark read.
+  An announcement lasts 10 days from when you sent it, then deletes itself — on your
+  phone and on theirs.
 - **Updates** — session updates you choose to share for a specific athlete.
 - **Package summaries** — the state of that athlete's session packages, such as credits
   remaining.
@@ -40,6 +44,13 @@ A word on how credits move: a credit is used when a session **finishes**, not wh
 is booked. And a package sold at a particular session type only covers sessions of
 that type — group credits pay for group sessions, one-on-one credits for one-on-ones.
 The family sees their remaining credits update after each completed session.
+
+## After you tap Send
+
+You can leave the app right away. On iOS 26 and later, a send keeps going in the
+background until every connected family has it, and iPhone shows it as **Sending to
+families**. On earlier iOS, stay in the app until it finishes, or it completes the
+next time you open Team Assist.
 
 ## How the connected person sees it
 
@@ -78,6 +89,10 @@ what they see tracks what's actually in your app, rather than being a copy you'd
 to chase. Removal is permanent on their side as well: a package you removed stays
 gone, even if the family later disconnects and reconnects. Expired packages are
 different — they stay visible as history until you remove them.
+
+To delete an assignment, long-press it on **Tools › Assignments** (or the full
+**Assignments** screen) and tap **Delete**. It leaves the family's phone too. The
+phone's **Tools › Assignments** list shows every assignment, newest first.
 
 Disconnecting someone ends their visibility entirely — see
 [who can see what]({{ '/athlete-visibility/' | relative_url }}).
