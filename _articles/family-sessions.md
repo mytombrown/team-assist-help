@@ -43,3 +43,6 @@ Every session is one card:
 
 Tap the card to open the session. Your answer can be changed there until the
 session starts. **Add to Calendar** lives on the same screen.
+
+Inside the session, your answer — **Claim spot** and **Pass**, or **Accept** and
+**Decline** — stays at the bottom of the screen. No scrolling to reach it.
