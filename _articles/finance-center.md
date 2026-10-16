@@ -4,7 +4,7 @@ slug: finance-center
 category: coaching
 order: 5
 tags: "finance, billing, invoice, payment, package, template, money, charge, paid"
-quick: "The finance center records money — packages, payment requests, balances, and payment history. It does not process payments: money changes hands outside the app, and you mark things paid."
+quick: "Tools > Payments. Sell a package, record a payment, or set up Venmo links (steps and videos below). The finance center records money — packages, payment requests, balances, and payment history. It does not process payments: money changes hands outside the app, and you mark things paid."
 related:
   - family-packages
 ---
@@ -25,6 +25,49 @@ The finance center (in the Tools tab) has six sections:
   balances, with statuses like Draft, Sent, Waiting for Payment, and Paid.
 - **Reports** — exports for payment totals, balances, package credits, and receipts.
 - **Settings** — where you choose how you collect money.
+
+## How do I sell a package to an athlete?
+
+1. Open the **Tools** tab and tap **Payments**.
+2. Tap **Packages**, then **Assign Package**.
+3. Pick the athlete.
+4. Name the package and set **Total Sessions**.
+5. Type what they paid in **Amount Paid**, then tap **Save**.
+
+A credit comes off each time one of their sessions is settled.
+
+<figure class="howto-video">
+  <video src="{{ '/assets/video/assign-package.mp4' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" aria-label="How-to: sell a package."></video>
+  <figcaption>How-to: sell a package. Demo data.</figcaption>
+</figure>
+
+## How do I record a payment?
+
+1. Open the **Tools** tab and tap **Payments**.
+2. Tap **Balances**.
+3. Tap **Record** next to the athlete.
+4. Type the amount you received, then tap **Save**.
+
+It shows up under **Payments** as paid history.
+
+<figure class="howto-video">
+  <video src="{{ '/assets/video/record-payment.mp4' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" aria-label="How-to: record a payment."></video>
+  <figcaption>How-to: record a payment. Demo data.</figcaption>
+</figure>
+
+## How do I set up Venmo or other payment links?
+
+1. Open the **Tools** tab and tap **Payments**.
+2. Tap **Settings**.
+3. Under **Default Provider**, pick **Venmo** (or PayPal, Square, Stripe, Apple Pay, or your own link).
+4. Type your handle or link, then tap **Save Payment Settings**.
+
+Families then see a **Pay Now** button that opens your provider. You still mark the payment paid once the money arrives.
+
+<figure class="howto-video">
+  <video src="{{ '/assets/video/payment-links.mp4' | relative_url }}" autoplay muted loop playsinline controls preload="metadata" aria-label="How-to: set up Venmo payment links."></video>
+  <figcaption>How-to: set up Venmo payment links. Demo data.</figcaption>
+</figure>
 
 ## Packages and templates
 
