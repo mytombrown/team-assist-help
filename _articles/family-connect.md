@@ -9,6 +9,8 @@ related:
   - family-home
   - invitations
   - athlete-visibility
+video: /assets/video/family-connect.mp4
+video_caption: "How-to: connect from the Connect a coach card on Home (the Teams tab + works the same). Demo data, the code is made up."
 ---
 
 <!-- Written from the family phone on build 223. Screenshots:

@@ -9,6 +9,8 @@ related:
   - invitations
   - athlete-visibility
   - schedule-sessions
+video: /assets/video/add-athlete.mp4
+video_caption: "How-to: add one athlete by hand. Demo data."
 ---
 
 There's one kind of record for a person you coach: the **athlete record**. Whether you

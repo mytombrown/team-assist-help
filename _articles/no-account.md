@@ -9,6 +9,8 @@ related:
   - who-can-use
   - your-identity
   - requirements
+video: /assets/video/coach-first-launch.mp4
+video_caption: "How-to: first launch as a coach or trainer. No sign-up. Demo data."
 ---
 
 There's no Team Assist account to create. The app uses the Apple Account your iPhone is

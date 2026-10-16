@@ -9,6 +9,8 @@ related:
   - no-account
   - invitations
   - privacy-and-data
+video: /assets/video/family-first-launch.mp4
+video_caption: "How-to: first launch as a parent or athlete. Demo data."
 ---
 
 Team Assist is for adults, and for athletes 15 to 17 that a parent adds. There are

@@ -9,6 +9,8 @@ related:
   - who-can-use
   - athlete-visibility
   - roster-and-teams
+video: /assets/video/invite-code.mp4
+video_caption: "How-to: find an athlete's invite. Sending it texts the parent their code. Demo data."
 ---
 
 Everyone with an account is an adult, so an invitation always goes to an adult.
