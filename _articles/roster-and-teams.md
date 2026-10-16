@@ -1,8 +1,9 @@
 ---
 title: "How do I add athletes, clients and teams?"
 slug: roster-and-teams
-category: coaching
+category: shared
 order: 3
+also_in: [trainers, coaches]
 tags: "client, roster, athlete, team, group, add, remove, contact, list, inactive"
 quick: "One athlete record holds everything about that person — contacts, notes, sessions, packages. Teams group athletes together, and an athlete can be on more than one."
 related:
@@ -19,7 +20,7 @@ teams are just groupings of athlete records.
 
 ## The Athletes & Teams page
 
-The **Athletes** tab opens on four tiles that read your roster at a glance — how many
+The **Athletes** tab (called **Teams** for coaches) opens on four tiles that read your roster at a glance — how many
 athletes are **Active**, how many **Teams** you have, how many families have **Access**
 (a connected parent or adult athlete), and your **Staff** count. Below them a switch
 flips the list between **Athletes**, **Teams**, and **Staff**, with **Add Athlete**
@@ -29,8 +30,8 @@ next to the list.
 athletes and guide sessions, and they're internal: families never see them.
 
 Tapping an athlete opens their page: who they are, their team, their skill level if
-you've set one, and **Active** / **Connected** at a glance, with attendance, remaining
-credits, and any payment due right under it. The **Quick Actions** grid underneath —
+you've set one, and **Active** / **Connected** at a glance, with attendance, and — for
+trainers — remaining credits and any payment due right under it. The **Quick Actions** grid underneath —
 Assignments, Checklists, Message, Info, Progress, Access — is the fast route to
 everything else in this guide; **Access** is where invites live.
 
@@ -38,11 +39,11 @@ everything else in this guide; **Access** is where invites live.
 
 An athlete record holds the athlete's name, the parent or guardian's name, phone number
 and email (with room for a second guardian), notes, strengths and weaknesses, and an
-optional internal skill level. Sessions, attendance, packages, payments, availability,
-and progress history all hang off this record.
+optional internal skill level. Sessions, attendance, availability, and progress history all hang off
+this record — and for trainers, packages and payments too.
 
 It stands on its own. It doesn't need a parent or adult athlete connected to be
-complete — scheduling, teams, billing, and notes all work regardless. See
+complete — scheduling, teams, notes, and (for trainers) billing all work regardless. See
 [inviting a parent or an adult athlete]({{ '/invitations/' | relative_url }}) for what
 connecting someone adds.
 

@@ -1,8 +1,9 @@
 ---
 title: "What do connected parents and athletes see?"
 slug: athlete-portal
-category: coaching
+category: shared
 order: 6
+also_in: [trainers, coaches]
 tags: "publish, portal, share, send, parent, guardian, athlete, view, visible"
 quick: "Sessions, assignments, announcements, updates, and package summaries appear for the connected adult for each athlete — a parent or guardian, or an athlete aged 18 or over."
 related:
@@ -25,7 +26,7 @@ state, not an error.
 ## What gets shared
 
 - **Sessions** — scheduled sessions involving that athlete appear automatically when
-  you save them; you don't press a separate publish button. A **bookable slot**
+  you save them; you don't press a separate publish button. For trainers, a **bookable slot**
   appears too: the connected person sees the spots left and can claim one, and you
   see who claimed or declined.
 - **Assignments** — follow-up work you send, which the recipient can mark complete.
@@ -33,14 +34,14 @@ state, not an error.
   An announcement lasts 10 days from when you sent it, then deletes itself — on your
   phone and on theirs.
 - **Updates** — session updates you choose to share for a specific athlete.
-- **Package summaries** — the state of that athlete's session packages, such as credits
+- **Package summaries** (trainers only) — the state of that athlete's session packages, such as credits
   remaining.
-- **Money** — outstanding balances and payment requests. When you request payment for a
+- **Money** (trainers only) — outstanding balances and payment requests. When you request payment for a
   package, the connected person sees the amount and due date on their Home screen, an
   **Outstanding** total across their athletes, and a **Finance** tile with their payment
   history.
 
-A word on how credits move: a credit is used when a session **finishes**, not when it
+For trainers, a word on how credits move: a credit is used when a session **finishes**, not when it
 is booked. And a package sold at a particular session type only covers sessions of
 that type — group credits pay for group sessions, one-on-one credits for one-on-ones.
 The family sees their remaining credits update after each completed session.

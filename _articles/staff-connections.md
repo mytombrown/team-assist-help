@@ -3,6 +3,7 @@ title: "What does a staff member see when they connect?"
 slug: staff-connections
 category: connections
 order: 3
+also_in: [coaches]
 tags: "staff, assistant, coach, invite, code, team, sessions, announcements, assignments, chat, connect"
 quick: "A staff member connects with a code, the same way a family does. They get their team's sessions, announcements, assignments, and chat — and none of the family-only details."
 related:
@@ -18,7 +19,7 @@ their phone number, and they're connected.
 
 ## Inviting a staff member
 
-1. On the **Athletes** tab, switch the list to **Staff** and add the person (or open
+1. On the **Teams** tab, switch the list to **Staff** and add the person (or open
    them if they're already there). Enter their **phone number** — the invite is tied
    to it.
 2. Assign them to **at least one team**. A staff invite is always for a team; without

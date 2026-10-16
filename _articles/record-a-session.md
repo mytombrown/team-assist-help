@@ -1,8 +1,9 @@
 ---
 title: "What happens when I record a session?"
 slug: record-a-session
-category: coaching
+category: shared
 order: 5
+also_in: [trainers, coaches]
 tags: "record, recording, transcript, summary, notes, athlete notes, Apple Intelligence, run playbook, approve, families, privacy, microphone"
 quick: "Running a session records it. When you end the run, the phone transcribes the audio, writes a summary and pulls out what you said about each athlete. It all sits on the session for you to check — nothing reaches a family until you approve it."
 related:

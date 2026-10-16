@@ -30,9 +30,15 @@ help_categories:
   - id: getting-started
     title: Getting Started
     blurb: Who Team Assist is for, and how to set yourself up.
-  - id: coaching
-    title: For Coaches & Trainers
-    blurb: Running your week as a coach or a trainer — athletes, sessions, payments and packages.
+  - id: trainers
+    title: For Trainers
+    blurb: Private and small-group training — athletes, sessions, packages and payments.
+  - id: coaches
+    title: For Coaches
+    blurb: Teams, practices and games, assistant coaches, and the families on your teams.
+  - id: shared
+    title: Coaches & Trainers
+    hidden: true
   - id: chat
     title: Team Chat
     blurb: Messaging, and what the status banners mean.

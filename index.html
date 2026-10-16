@@ -24,7 +24,10 @@ title: Help Center
 
 <div id="browse">
 {% for cat in site.help_categories %}
-  {% assign items = site.articles | where: "category", cat.id | sort: "order" %}
+  {% unless cat.hidden %}
+  {% assign primary = site.articles | where: "category", cat.id %}
+  {% assign shared = site.articles | where_exp: "a", "a.also_in contains cat.id" %}
+  {% assign items = primary | concat: shared | sort: "order" %}
   {% if items.size > 0 %}
   <section class="cat" id="{{ cat.id }}">
     <div class="cat-head">
@@ -49,6 +52,7 @@ title: Help Center
     {% endfor %}
   </section>
   {% endif %}
+  {% endunless %}
 {% endfor %}
 </div>
 

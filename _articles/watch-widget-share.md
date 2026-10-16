@@ -1,8 +1,9 @@
 ---
 title: "Can I use Apple Watch, the widget, or share into Team Assist?"
 slug: watch-widget-share
-category: coaching
+category: shared
 order: 7
+also_in: [trainers, coaches]
 tags: "watch, apple watch, widget, home screen, share, share sheet, extension, today"
 quick: "The Apple Watch app is a Run Playbook remote (switched on in Labs), the widget shows today's sessions, and the share extension imports a parent's contact card."
 related:

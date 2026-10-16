@@ -1,10 +1,11 @@
 ---
 title: "How do I add a lot of athletes at once from a spreadsheet?"
 slug: import-athletes-csv
-category: coaching
+category: shared
 order: 8
+also_in: [trainers, coaches]
 tags: "import, CSV, spreadsheet, Excel, Numbers, Google Sheets, template, bulk, many athletes, roster, parents, upload, add athletes, list"
-quick: "On the Athletes tab, tap Add Athlete, then tap Add multiple athletes from a CSV file at the top. Get the template, fill it in (one athlete per row), save it as CSV, and upload it. Check the preview, then tap Add. Nobody is invited or messaged."
+quick: "On the Athletes tab (Teams for coaches), tap Add Athlete, then tap Add multiple athletes from a CSV file at the top. Get the template, fill it in (one athlete per row), save it as CSV, and upload it. Check the preview, then tap Add. Nobody is invited or messaged."
 video: /assets/video/import-athletes-csv.mp4
 video_caption: "How-to: import a spreadsheet of athletes. Demo data, no real families."
 related:
@@ -24,7 +25,7 @@ athletes one at a time. Each row adds an athlete and their parent.
 
 ## Open the import
 
-1. Open the **Athletes** tab.
+1. Open the **Athletes** tab (the **Teams** tab for coaches).
 2. Tap **Add Athlete**. (Where the list has an **Add** button, tap **Add**, then
    **Add Athlete**.)
 3. At the top of the Add Athlete screen, tap **Add multiple athletes from a CSV

@@ -1,8 +1,9 @@
 ---
 title: "What's on the Home screen?"
 slug: dashboard
-category: coaching
+category: shared
 order: 1
+also_in: [trainers, coaches]
 tags: "dashboard, home, main screen, overview, start, tabs, today, needs attention"
 quick: "The Home tab is what you see when you open Team Assist: today's sessions, a Needs Attention list of follow-ups, and shortcuts into the rest of the app."
 related:
@@ -26,7 +27,7 @@ Team Assist is organised into tabs along the bottom of the screen: **Home**,
   to counting the sessions on Home to check your day, count them on Schedule instead;
   Home is the preview.
 - **Needs Attention** — a follow-up queue with a count for each category, such as unpaid
-  sessions, session confirmations, assignment completions, and announcement reads. Tap a
+  sessions (trainers only), session confirmations, assignment completions, and announcement reads. Tap a
   category to work through it. The section only appears when something actually needs
   attention.
 
@@ -34,7 +35,8 @@ Team Assist is organised into tabs along the bottom of the screen: **Home**,
   a session invite yet is not a follow-up — no "No reply" rows appear, however many
   sessions or athletes are waiting. A decline shows up with the athlete's reason so
   you can react.
-- **Workspace** — shortcuts into Schedule, Athletes, Teams, and Assignments.
+- **Workspace** — shortcuts into Schedule, Athletes, Teams, and Assignments. Coaches see
+  **Teams** in place of Athletes.
 
 At the top there are buttons for **Messages** and alerts, and a profile pill for
 switching between the Trainer, Coach, and Athlete profiles.

@@ -1,13 +1,15 @@
 ---
 title: "How do I track payments and packages?"
 slug: finance-center
-category: coaching
+category: trainers
 order: 5
 tags: "finance, billing, invoice, payment, package, template, money, charge, paid"
 quick: "Tools > Payments. Sell a package, record a payment, or set up Venmo links (steps and videos below). The finance center records money — packages, payment requests, balances, and payment history. It does not process payments: money changes hands outside the app, and you mark things paid."
 related:
   - family-packages
 ---
+
+**Trainers only.** Coach profiles don't have Payments; payments and packages are a trainer feature.
 
 The first thing to know: **Team Assist records payments; it does not process them.** No
 money moves through the app. You collect payment however you already do — cash, bank
@@ -81,8 +83,8 @@ package takes one credit from that package, and the remaining credits on **Balan
 and **Packages** change to match. If you settle a session and the credit count does not
 move, the two are out of step — that is worth reporting rather than adjusting by hand.
 
-**Credits belong to the coach who sold the package.** A package bought from one coach or
-trainer is spent on that person's sessions. If an athlete works with more than one
+**Credits belong to the trainer who sold the package.** A package bought from one
+trainer is spent on that trainer's sessions. If an athlete works with more than one
 person, each one's packages are counted separately, and a credit from one does not pay
 for the other's session.
 

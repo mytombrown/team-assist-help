@@ -6,7 +6,7 @@ layout: default
 <nav class="crumbs" aria-label="Breadcrumb">
   <a href="{{ '/' | relative_url }}">Help</a>
   <span aria-hidden="true">›</span>
-  <a href="{{ '/#' | append: page.category | relative_url }}">{{ cat.title | default: page.category }}</a>
+  {% if cat.hidden %}<span>{{ cat.title }}</span>{% else %}<a href="{{ '/#' | append: page.category | relative_url }}">{{ cat.title | default: page.category }}</a>{% endif %}
 </nav>
 
 <article class="article">

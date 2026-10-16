@@ -118,7 +118,7 @@ and the app warns you before it happens.
 ## You don't have to invite anyone
 
 An athlete record works fully without any invitation ever being sent. Sessions, teams,
-billing, notes and reporting all behave normally. Plenty of athletes will never have
+notes, reporting and (for trainers) billing all behave normally. Plenty of athletes will never have
 anyone connected, and that's a finished setup rather than an unfinished one.
 
 What an invitation adds is a channel: someone who can see what you publish and message

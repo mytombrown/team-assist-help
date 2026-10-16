@@ -1,8 +1,9 @@
 ---
 title: "How do I schedule a session?"
 slug: schedule-sessions
-category: coaching
+category: shared
 order: 2
+also_in: [trainers, coaches]
 tags: "schedule, session, calendar, book, appointment, time, reschedule, cancel, repeat"
 quick: "Sessions are created in the Schedule tab — pick a type, time, and location, choose athletes or a team, and optionally make it repeat. Cancelling asks before deleting and can pre-fill a message to the group."
 related:
@@ -54,8 +55,8 @@ change the end time (or the duration) yourself.
 ## Cancelling and deleting
 
 Deleting a session always asks first. For a repeating session you choose between
-**Cancel This Session** and **Cancel All in Series**. The confirmation warns that
-related payment records are removed along with the session.
+**Cancel This Session** and **Cancel All in Series**. For trainers, the confirmation
+warns that related payment records are removed along with the session.
 
 There's also **Cancel and Message Group**, which removes the session and pre-fills a
 text message to the people involved ("… has been canceled") so you're not typing the
@@ -67,7 +68,11 @@ reopen the app to see it go.
 Team Assist takes a backup snapshot before deleting, and snapshots can be restored from
 **Tools → Settings → Backup** — so an accidental deletion is recoverable.
 
-## Bookable slots and All Teams
+## Bookable slots and All Teams (trainers only)
+
+Coaches schedule **Practices** and **Games** for whole teams; bookable slots and
+package credits are trainer features.
+
 
 A bookable slot is an open session people can claim rather than one you assign. Your
 Sessions list shows how many spots are still open on each slot — **3/10 open**, or

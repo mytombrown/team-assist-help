@@ -1,8 +1,9 @@
 ---
 title: "How do I run a session from a playbook?"
 slug: run-playbook
-category: coaching
+category: shared
 order: 4
+also_in: [trainers, coaches]
 tags: "playbook, run, session, live, timer, blocks, plan"
 quick: "Run Playbook runs a session as it happens: your plan broken into blocks, with a timer, worked through from your iPhone (or your Apple Watch as a remote)."
 published: false
