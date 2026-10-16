@@ -31,8 +31,8 @@ help_categories:
     title: Getting Started
     blurb: Who Team Assist is for, and how to set yourself up.
   - id: coaching
-    title: Coaching Day to Day
-    blurb: The features you'll use in a normal week.
+    title: For Coaches & Trainers
+    blurb: Running your week as a coach or a trainer — athletes, sessions, payments and packages.
   - id: chat
     title: Team Chat
     blurb: Messaging, and what the status banners mean.
