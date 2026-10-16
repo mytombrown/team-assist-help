@@ -40,6 +40,14 @@ layout: default
     {{ page.quick | markdownify }}
   </div>
 
+  {% if page.video %}
+  <figure class="howto-video">
+    <video src="{{ page.video | relative_url }}" autoplay muted loop playsinline controls preload="metadata"
+      aria-label="{{ page.video_caption | default: page.title }}"></video>
+    {% if page.video_caption %}<figcaption>{{ page.video_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
+
   <div class="detail">
     {{ content }}
   </div>
@@ -55,6 +63,10 @@ layout: default
     </ul>
   </aside>
   {% endif %}
+
+  <aside class="stuck video-ask">
+    <p>Want a short video of this? <a href="{{ '/request-a-video/' | relative_url }}?about={{ page.title | url_encode }}">Request a how-to video</a>.</p>
+  </aside>
 
   <aside class="stuck">
     <p>Still stuck? Email <a href="mailto:{{ site.support_email }}">{{ site.support_email }}</a>.

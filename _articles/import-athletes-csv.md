@@ -5,6 +5,8 @@ category: coaching
 order: 8
 tags: "import, CSV, spreadsheet, Excel, Numbers, Google Sheets, template, bulk, many athletes, roster, parents, upload, add athletes, list"
 quick: "On the Athletes tab, tap Add Athlete, then tap Add multiple athletes from a CSV file at the top. Get the template, fill it in (one athlete per row), save it as CSV, and upload it. Check the preview, then tap Add. Nobody is invited or messaged."
+video: /assets/video/import-athletes-csv.mp4
+video_caption: "How-to: import a spreadsheet of athletes. Demo data, no real families."
 related:
   - roster-and-teams
   - invitations
@@ -14,7 +16,8 @@ related:
      AthleteCSVImportPolicy.swift, ClientsView.swift on future/1.3 41099522.
      Entry point updated for build 229 (TA-1004, tag v1.2.1-229 = a7f412b2, app code future/1.3 50cf16b4):
      the CSV button moved inside Add Athlete (ClientsView.swift glassAddAthleteCSVImportButton).
-     No screenshots yet. -->
+     Video 2026-10-16: assets/video/import-athletes-csv.mp4, recorded on a simulator
+     from build 230's code (future/1.3 e8109f82) with demo athletes only. -->
 
 Have your roster in a spreadsheet already? Import it in one go instead of adding
 athletes one at a time. Each row adds an athlete and their parent.

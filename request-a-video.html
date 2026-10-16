@@ -1,0 +1,44 @@
+---
+layout: default
+title: Request a how-to video
+permalink: /request-a-video/
+---
+
+<article class="article request">
+  <h1>Request a how-to video</h1>
+  <p>Tell us what you want to see. We make short videos, 10 to 15 seconds,
+  of the steps in the app.</p>
+
+  <form id="video-request" class="request-form">
+    <label for="vr-topic">What should the video show?</label>
+    <textarea id="vr-topic" rows="4" required
+      placeholder="For example: how to move a session to another day"></textarea>
+
+    <label for="vr-name">Your name <span class="optional">(optional)</span></label>
+    <input id="vr-name" type="text" autocomplete="name">
+
+    <button type="submit">Send request</button>
+    <p class="request-note">This opens your email with the request filled in.
+    Press Send there and it reaches us at
+    <a href="mailto:{{ site.support_email }}">{{ site.support_email }}</a>.</p>
+  </form>
+</article>
+
+<script>
+(function () {
+  var params = new URLSearchParams(location.search);
+  var about = params.get("about");
+  var topic = document.getElementById("vr-topic");
+  if (about) { topic.value = "A video for: " + about; }
+  document.getElementById("video-request").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var name = document.getElementById("vr-name").value.trim();
+    var body = "Video I'd like to see:\n" + topic.value.trim() +
+      (name ? "\n\nFrom: " + name : "") +
+      (about ? "\n\nAsked from the article: " + about : "");
+    location.href = "mailto:{{ site.support_email }}" +
+      "?subject=" + encodeURIComponent("How-to video request") +
+      "&body=" + encodeURIComponent(body);
+  });
+})();
+</script>
