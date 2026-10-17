@@ -13,10 +13,13 @@ title: mytombrown Help
     <img src="{{ '/assets/team-assist-icon.png' | relative_url }}" alt="" width="56" height="56">
     <span><b>Team Assist</b><br>Coaches, trainers and families: sessions, teams, payments and chat.</span>
   </a>
-  <a class="app-card" href="https://mytombrown.github.io/one-more-help/">
-    <span class="app-letter" aria-hidden="true">1+</span>
-    <span><b>One More</b><br>Daily puzzles, Versus with friends, and how to play each game.</span>
+{% comment %} Every other app: _data/apps.yml (10/17). Help lives at /<id>/, articles in _guides/<id>/. {% endcomment %}
+{% for a in site.data.apps %}
+  <a class="app-card" href="{{ '/' | append: a.id | append: '/' | relative_url }}">
+    <img src="{{ a.icon | relative_url }}" alt="" width="56" height="56">
+    <span><b>{{ a.name }}</b>{% if a.soon %} <span class="soon">Coming soon</span>{% endif %}<br>{{ a.blurb }}</span>
   </a>
+{% endfor %}
 </div>
 
 <p class="hub-more">Want a how-to video for something? <a href="{{ '/request-a-video/' | relative_url }}">Request one</a>.</p>
