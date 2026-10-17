@@ -1,9 +1,8 @@
 ---
 title: "How do I schedule a session?"
 slug: schedule-sessions
-category: shared
+category: trainers
 order: 2
-also_in: [trainers, coaches]
 tags: "schedule, session, calendar, book, appointment, time, reschedule, cancel, repeat"
 quick: "Sessions are created in the Schedule tab — pick a type, time, and location, choose athletes or a team, and optionally make it repeat. Cancelling asks before deleting and can pre-fill a message to the group."
 related:
@@ -24,9 +23,8 @@ choose the new date and time before saving.
 
 **Repeating sessions.** A session can repeat — the options are Does Not Repeat, Daily,
 Weekdays (Mon–Fri), Weekly, Monthly, or Custom. Team Assist generates the series up
-front (up to 30 sessions in a series). In the Coach profile the Repeat choice sits in
-the session builder; in the Trainer profile use the **Advanced Session Form** (New
-Session → Advanced Session Form) to set a repeat. The whole series publishes to your
+front (up to 30 sessions in a series). To set a repeat, use the **Advanced Session Form** (New Session → Advanced Session
+Form). The whole series publishes to your
 athletes together — every occurrence appears on their side at once, and **Cancel All
 in Series** removes every occurrence from their side too. If a series ever looks
 different on an athlete's phone than on yours, that is worth reporting.
@@ -55,8 +53,8 @@ change the end time (or the duration) yourself.
 ## Cancelling and deleting
 
 Deleting a session always asks first. For a repeating session you choose between
-**Cancel This Session** and **Cancel All in Series**. For trainers, the confirmation
-warns that related payment records are removed along with the session.
+**Cancel This Session** and **Cancel All in Series**. The confirmation warns that
+related payment records are removed along with the session.
 
 There's also **Cancel and Message Group**, which removes the session and pre-fills a
 text message to the people involved ("… has been canceled") so you're not typing the
@@ -68,11 +66,7 @@ reopen the app to see it go.
 Team Assist takes a backup snapshot before deleting, and snapshots can be restored from
 **Tools → Settings → Backup** — so an accidental deletion is recoverable.
 
-## Bookable slots and All Teams (trainers only)
-
-Coaches schedule **Practices** and **Games** for whole teams; bookable slots and
-package credits are trainer features.
-
+## Bookable slots and All Teams
 
 A bookable slot is an open session people can claim rather than one you assign. Your
 Sessions list shows how many spots are still open on each slot — **3/10 open**, or
