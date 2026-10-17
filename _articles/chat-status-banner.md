@@ -50,7 +50,7 @@ to resend the invite — it's the same code.
 ## If it won't go away
 
 If the retrying banner stays up for a long stretch on a good connection, that's worth
-[reporting]({{ '/report-a-problem/' | relative_url }}) with rough times, which makes it
+[reporting]({{ '/teamassist/report-a-problem/' | relative_url }}) with rough times, which makes it
 much easier to trace.
 
 ## The "Athlete sync needs attention" strip

@@ -74,4 +74,4 @@ recording; a second tap never writes the athlete notes twice.
 - **Apple Intelligence runs on the phone.** The transcript is not sent to a server to be
   summarized.
 
-For the full picture, see [what happens to my data]({{ '/privacy-and-data/' | relative_url }}).
+For the full picture, see [what happens to my data]({{ '/teamassist/privacy-and-data/' | relative_url }}).

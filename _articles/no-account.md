@@ -17,7 +17,7 @@ There's no Team Assist account to create. The app uses the Apple Account your iP
 already signed into.
 
 The one thing you'll be asked is to confirm you're an adult, since
-[Team Assist is for adults only]({{ '/who-can-use/' | relative_url }}). On iOS 26 and
+[Team Assist is for adults only]({{ '/teamassist/who-can-use/' | relative_url }}). On iOS 26 and
 later that goes through Apple, which confirms your age band without sharing your date of
 birth. On earlier versions you confirm it yourself. We never receive a date of birth
 either way.

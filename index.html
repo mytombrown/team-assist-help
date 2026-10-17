@@ -1,59 +1,22 @@
 ---
 layout: default
-title: Help Center
+title: mytombrown Help
 ---
 
 <div class="hero">
-  <h1>How can we help?</h1>
-  {% assign site_updated = site.data.last_updated.site %}
-  {% if site_updated %}
-  <p class="updated">Help last updated
-    <time datetime="{{ site_updated }}">{{ site_updated | date: "%-d %B %Y" }}</time>
-  </p>
-  {% endif %}
-  <p>Find a quick answer, or open an article to read the whole thing.
-  Want something shown as a video? <a href="{{ '/request-a-video/' | relative_url }}">Request one</a>.</p>
-  <div class="searchwrap">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
-    <input id="q" type="search" placeholder="Search help…" autocomplete="off" spellcheck="false" aria-label="Search help articles">
-    <span class="kbd" aria-hidden="true">/</span>
-  </div>
+  <h1>Help for every app</h1>
+  <p>Pick your app for step-by-step answers and short how-to videos.</p>
 </div>
 
-<div id="results" hidden aria-live="polite" data-email="{{ site.support_email }}"></div>
-
-<div id="browse">
-{% for cat in site.help_categories %}
-  {% unless cat.hidden %}
-  {% assign primary = site.articles | where: "category", cat.id %}
-  {% assign shared = site.articles | where_exp: "a", "a.also_in contains cat.id" %}
-  {% assign items = primary | concat: shared | sort: "order" %}
-  {% if items.size > 0 %}
-  <section class="cat" id="{{ cat.id }}">
-    <div class="cat-head">
-      <h2>{{ cat.title }}</h2>
-      {% if cat.blurb %}<span>{{ cat.blurb }}</span>{% endif %}
-    </div>
-    {% for a in items %}
-    <details class="qa">
-      <summary>
-        <svg class="caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg>
-        <span>{{ a.title }}</span>
-        {% if a.needs_review %}<span class="flag" title="Drafted, not yet verified">draft</span>{% endif %}
-      </summary>
-      <div class="qa-body">
-        <div class="quick">
-          <span class="quick-tag">Quick answer</span>
-          {{ a.quick | markdownify }}
-        </div>
-        <p class="more"><a href="{{ a.url | relative_url }}">Read the full answer →</a></p>
-      </div>
-    </details>
-    {% endfor %}
-  </section>
-  {% endif %}
-  {% endunless %}
-{% endfor %}
+<div class="app-list">
+  <a class="app-card" href="{{ '/teamassist/' | relative_url }}">
+    <img src="{{ '/assets/team-assist-icon.png' | relative_url }}" alt="" width="56" height="56">
+    <span><b>Team Assist</b><br>Coaches, trainers and families: sessions, teams, payments and chat.</span>
+  </a>
+  <a class="app-card" href="https://mytombrown.github.io/one-more-help/">
+    <span class="app-letter" aria-hidden="true">1+</span>
+    <span><b>One More</b><br>Daily puzzles, Versus with friends, and how to play each game.</span>
+  </a>
 </div>
 
-<script src="{{ '/assets/js/search.js' | relative_url }}?v=2" defer></script>
+<p class="hub-more">Want a how-to video for something? <a href="{{ '/request-a-video/' | relative_url }}">Request one</a>.</p>

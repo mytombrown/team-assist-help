@@ -22,14 +22,14 @@ Two things worth knowing that sit alongside it:
 **Team Assist is for adults.** The app is designed so that nobody under 18 has an account —
 everyone confirms they're 18 or over before it opens. Information about an athlete under 18
 is entered by an adult — their coach, or their parent or guardian. See
-[who can use Team Assist]({{ '/who-can-use/' | relative_url }}).
+[who can use Team Assist]({{ '/teamassist/who-can-use/' | relative_url }}).
 
 **We never receive your date of birth.** On iOS 26 and later the adult confirmation goes
 through Apple, which tells us only whether you're 18 or over. On earlier versions you
 confirm it yourself. Neither route gives us a date of birth.
 
 To have information removed, see
-[deleting your account or data]({{ '/delete-your-data/' | relative_url }}).
+[deleting your account or data]({{ '/teamassist/delete-your-data/' | relative_url }}).
 
 For a privacy question the policy doesn't answer, email
 [{{ site.support_email }}](mailto:{{ site.support_email }}).

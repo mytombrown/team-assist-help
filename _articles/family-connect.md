@@ -46,7 +46,7 @@ start appearing under **Sessions** and on Home.
 
 **Manage** next to Coaches lists every connection for the selected athlete, one row
 per coach or trainer. Disconnecting ends what that coach can see — see
-[who can see my athletes' information?]({{ '/athlete-visibility/' | relative_url }}).
+[who can see my athletes' information?]({{ '/teamassist/athlete-visibility/' | relative_url }}).
 
 ## If your coach disconnected you
 

@@ -58,4 +58,4 @@ Under Upcoming are four tiles. Each carries a count and a one-line summary:
 - **Announcements** — team messages, with how many are unread.
 - **Packages** — the athlete's session packages, with credits left.
 - **Finance** — what is owed, shown as an outstanding total, and your payment
-  history. See [packages, credits and what you owe]({{ '/family-packages/' | relative_url }}).
+  history. See [packages, credits and what you owe]({{ '/teamassist/family-packages/' | relative_url }}).
