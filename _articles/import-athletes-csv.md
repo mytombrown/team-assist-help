@@ -85,7 +85,7 @@ athletes you already added are skipped, so nothing is added twice.
 
 Importing only adds contacts. **No invites or messages are sent.** When you're
 ready, send each athlete's family their invite — see
-[how do I invite a parent or an adult athlete?]({{ '/invitations/' | relative_url }}).
+[how do I invite a parent or an adult athlete?]({{ '/teamassist/invitations/' | relative_url }}).
 
 ## If the file won't load
 

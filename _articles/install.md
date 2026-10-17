@@ -18,7 +18,7 @@ Search for **Team Assist** in the App Store on your iPhone and tap **Get**. It i
 like any other app.
 
 Once it's installed, open it and confirm you're 18 or over. There's no account to
-create — see [do I need an account?]({{ '/no-account/' | relative_url }}).
+create — see [do I need an account?]({{ '/teamassist/no-account/' | relative_url }}).
 
 If the App Store says the app isn't compatible with your device, check
-[what you need to run Team Assist]({{ '/requirements/' | relative_url }}).
+[what you need to run Team Assist]({{ '/teamassist/requirements/' | relative_url }}).

@@ -26,7 +26,7 @@
     if (INDEX) return Promise.resolve(INDEX);
     if (pending) return pending;
     var base = document.body.getAttribute("data-baseurl") || "";
-    pending = fetch(base + "/search.json")
+    pending = fetch(base + "/teamassist/search.json")
       .then(function (r) { return r.json(); })
       .then(function (data) {
         // TA-569: each H2 section is its own hit, linking to the anchor, so a

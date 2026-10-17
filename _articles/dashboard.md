@@ -58,7 +58,7 @@ data. Type what you're looking for and results appear as you go.
 
 Sessions are included. If you search for a session on an iPhone and find nothing where
 you expect a result, that is worth reporting — see
-[reporting a problem]({{ '/report-a-problem/' | relative_url }}).
+[reporting a problem]({{ '/teamassist/report-a-problem/' | relative_url }}).
 
 ## Rows that show, rows that open
 

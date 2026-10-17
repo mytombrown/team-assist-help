@@ -188,14 +188,14 @@ def slug_in(dates, path):
 def check_wiring():
     """A date nothing renders, or a generator nothing runs, proves nothing."""
     article_layout = (ROOT / "_layouts" / "article.html").read_text(encoding="utf-8")
-    index = (ROOT / "index.html").read_text(encoding="utf-8")
+    index = (ROOT / "teamassist" / "index.html").read_text(encoding="utf-8")
 
     check("the article layout renders the derived date",
           "site.data.last_updated.articles" in article_layout,
           "_layouts/article.html never reads site.data.last_updated.articles")
     check("the index renders the site date",
           "site.data.last_updated.site" in index,
-          "index.html never reads site.data.last_updated.site")
+          "teamassist/index.html never reads site.data.last_updated.site")
 
     for name, text in (("_layouts/article.html", article_layout),
                        ("index.html", index),

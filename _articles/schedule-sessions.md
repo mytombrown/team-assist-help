@@ -99,7 +99,7 @@ anything.
 Sessions appear automatically for the connected parent or adult athlete of each athlete
 involved, and removing a session removes it for them too. If nobody is connected for an
 athlete, nothing is shared — see
-[who can see what]({{ '/athlete-visibility/' | relative_url }}).
+[who can see what]({{ '/teamassist/athlete-visibility/' | relative_url }}).
 
 ## Your iPhone's Calendar
 

@@ -37,7 +37,7 @@ available, you confirm it yourself. Either way we never see or store a date of b
 
 If you decline Apple's check, or are under 15, the app won't open. An athlete 15 to 17
 gets the athlete view only, and joins through a parent — see
-[adding a phone to your family]({{ '/family-phones/' | relative_url }}).
+[adding a phone to your family]({{ '/teamassist/family-phones/' | relative_url }}).
 
 ## If you coach athletes under 18
 

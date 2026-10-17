@@ -44,7 +44,7 @@ this record — and for trainers, packages and payments too.
 
 It stands on its own. It doesn't need a parent or adult athlete connected to be
 complete — scheduling, teams, notes, and (for trainers) billing all work regardless. See
-[inviting a parent or an adult athlete]({{ '/invitations/' | relative_url }}) for what
+[inviting a parent or an adult athlete]({{ '/teamassist/invitations/' | relative_url }}) for what
 connecting someone adds.
 
 ## Teams
@@ -62,7 +62,7 @@ has their own code, and the second child appears as their own record on the rost
 
 If you connect a second child and one of them then seems to disappear from the Teams
 page, that is worth reporting rather than working around — see
-[reporting a problem]({{ '/report-a-problem/' | relative_url }}).
+[reporting a problem]({{ '/teamassist/report-a-problem/' | relative_url }}).
 
 ## Athletes without a guardian on the record
 

@@ -16,10 +16,10 @@ Team Assist needs:
 - **An iPhone running iOS 18.6 or later.** It also installs and runs on iPad, though
   it's designed first for iPhone.
 - **You to be 18 or over** — see
-  [who can use Team Assist]({{ '/who-can-use/' | relative_url }}).
+  [who can use Team Assist]({{ '/teamassist/who-can-use/' | relative_url }}).
 - **The Apple Account your device is already signed into.** There's no separate Team
   Assist account; your information follows that Apple Account — see
-  [how your identity works]({{ '/your-identity/' | relative_url }}).
+  [how your identity works]({{ '/teamassist/your-identity/' | relative_url }}).
 
 An internet connection is needed for anything that involves someone else — syncing to
 another device, connected parents and athletes, and chat.
@@ -27,6 +27,6 @@ another device, connected parents and athletes, and chat.
 **Apple Watch.** The Watch companion is a Run Playbook remote. It needs an Apple Watch
 running watchOS 11.6 or later, paired to the iPhone running Team Assist, and the
 **Apple Watch Remote** option turned on in Tools → Labs — see
-[Apple Watch, the widget, and sharing]({{ '/watch-widget-share/' | relative_url }}).
+[Apple Watch, the widget, and sharing]({{ '/teamassist/watch-widget-share/' | relative_url }}).
 
 **Android isn't available.**

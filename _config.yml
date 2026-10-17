@@ -58,9 +58,20 @@ help_categories:
 collections:
   articles:
     output: true
+    permalink: /teamassist/:name/
+  # Old Team Assist URLs (before 10/16 every article lived at /<slug>/): the app and
+  # the App Store listing link to them, so each one forwards to /teamassist/<slug>/.
+  redirects:
+    output: true
     permalink: /:name/
 
 defaults:
+  - scope:
+      path: ""
+      type: redirects
+    values:
+      layout: redirect
+      sitemap: false
   - scope:
       path: ""
       type: articles

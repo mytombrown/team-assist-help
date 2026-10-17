@@ -4,9 +4,9 @@ layout: default
 {% assign cat = site.help_categories | where: "id", page.category | first %}
 
 <nav class="crumbs" aria-label="Breadcrumb">
-  <a href="{{ '/' | relative_url }}">Help</a>
+  <a href="{{ '/teamassist/' | relative_url }}">Team Assist Help</a>
   <span aria-hidden="true">›</span>
-  {% if cat.hidden %}<span>{{ cat.title }}</span>{% else %}<a href="{{ '/#' | append: page.category | relative_url }}">{{ cat.title | default: page.category }}</a>{% endif %}
+  {% if cat.hidden %}<span>{{ cat.title }}</span>{% else %}<a href="{{ '/teamassist/#' | append: page.category | relative_url }}">{{ cat.title | default: page.category }}</a>{% endif %}
 </nav>
 
 <article class="article">

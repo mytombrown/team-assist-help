@@ -22,7 +22,7 @@ shows the current block, what's next, and a timer; you move block to block as th
 session progresses, and end the run when you're done. If you've turned on the Apple
 Watch remote, your watch can drive the same run — timer, previous/next block, end run —
 while the iPhone stays in your bag; see
-[Apple Watch, the widget, and sharing]({{ '/watch-widget-share/' | relative_url }}).
+[Apple Watch, the widget, and sharing]({{ '/teamassist/watch-widget-share/' | relative_url }}).
 
 Team Assist can show a notification when a timed block finishes, if you allow
 notifications.

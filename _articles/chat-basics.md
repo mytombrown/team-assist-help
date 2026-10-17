@@ -68,4 +68,4 @@ comes back. That also means clearing a conversation from one device doesn't remo
 — the history returns the next time the conversation syncs.
 
 For what the status banner means, see
-[chat status and the retry banner]({{ '/chat-status-banner/' | relative_url }}).
+[chat status and the retry banner]({{ '/teamassist/chat-status-banner/' | relative_url }}).

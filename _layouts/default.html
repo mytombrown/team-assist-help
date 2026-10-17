@@ -1,9 +1,10 @@
 <!DOCTYPE html>
+{% assign in_ta = page.url | slice: 0, 12 %}{% if in_ta == "/teamassist/" %}{% assign in_ta = true %}{% else %}{% assign in_ta = false %}{% endif %}
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{% if page.title and page.url != "/" %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title>{% if in_ta %}{% if page.url == "/teamassist/" %}Team Assist Help{% else %}{{ page.title }} — Team Assist Help{% endif %}{% elsif page.url == "/" %}mytombrown Help{% else %}{{ page.title }} — mytombrown Help{% endif %}</title>
 <meta name="description" content="{% if page.quick %}{{ page.quick | strip_html | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -15,23 +16,33 @@
 
 <header class="site">
   <div class="wrap site-head">
-    <a class="brand" href="{{ '/' | relative_url }}">
+    {% if in_ta %}
+    <a class="brand" href="{{ '/teamassist/' | relative_url }}">
       <img src="{{ '/assets/team-assist-icon.png' | relative_url }}" alt="" width="40" height="40">
       <span>Team Assist <b>Help</b></span>
     </a>
     <nav class="site-nav">
-      <a href="{{ '/' | relative_url }}">Help</a>
+      <a href="{{ '/' | relative_url }}">All apps</a>
       <a href="{{ site.legal.privacy }}">Privacy</a>
       <a href="{{ site.legal.delete_account }}">Delete account</a>
     </nav>
+    {% else %}
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span>mytombrown <b>Help</b></span>
+    </a>
+    <nav class="site-nav">
+      <a href="https://mytombrown.com/">Apps</a>
+      <a href="https://legal.mytombrown.com/">Privacy</a>
+    </nav>
+    {% endif %}
   </div>
 </header>
 
-{% if site.beta_notice %}
+{% if site.beta_notice and in_ta %}
 <div class="beta"><div class="wrap"><b>Note</b> {{ site.beta_notice }}</div></div>
 {% endif %}
 
-{% if page.url != "/" %}
+{% if in_ta and page.url != "/teamassist/" %}
 {% comment %}
   TA-569: search from every page, not only the index. Tom, 2026-09-04:
   "searching for answers isn't the easiest". The index keeps its own hero
@@ -49,11 +60,11 @@
 {% endif %}
 
 <main id="main" class="wrap">
-{% if page.url != "/" %}<div id="browse">{% endif %}
+{% if in_ta and page.url != "/teamassist/" %}<div id="browse">{% endif %}
 {{ content }}
-{% if page.url != "/" %}</div>{% endif %}
+{% if in_ta and page.url != "/teamassist/" %}</div>{% endif %}
 </main>
-{% if page.url != "/" %}
+{% if in_ta and page.url != "/teamassist/" %}
 <script src="{{ '/assets/js/search.js' | relative_url }}?v=3" defer></script>
 {% endif %}
 
