@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 {% assign in_ta = page.url | slice: 0, 12 %}{% if in_ta == "/teamassist/" %}{% assign in_ta = true %}{% else %}{% assign in_ta = false %}{% endif %}
+{% assign app = nil %}{% if page.app %}{% assign app = site.data.apps | where: "id", page.app | first %}{% endif %}
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{% if in_ta %}{% if page.url == "/teamassist/" %}Team Assist Help{% else %}{{ page.title }} — Team Assist Help{% endif %}{% elsif page.url == "/" %}mytombrown Help{% else %}{{ page.title }} — mytombrown Help{% endif %}</title>
+<title>{% if in_ta %}{% if page.url == "/teamassist/" %}Team Assist Help{% else %}{{ page.title }} — Team Assist Help{% endif %}{% elsif app %}{% if page.app_home %}{{ app.name }} Help{% else %}{{ page.title }} — {{ app.name }} Help{% endif %}{% elsif page.url == "/" %}mytombrown Help{% else %}{{ page.title }} — mytombrown Help{% endif %}</title>
 <meta name="description" content="{% if page.quick %}{{ page.quick | strip_html | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-<link rel="icon" href="{{ '/assets/team-assist-icon.png' | relative_url }}">
+<link rel="icon" href="{% if app %}{{ app.icon | relative_url }}{% else %}{{ '/assets/team-assist-icon.png' | relative_url }}{% endif %}">
 </head>
 <body data-baseurl="{{ site.baseurl }}">
 
@@ -25,6 +26,15 @@
       <a href="{{ '/' | relative_url }}">All apps</a>
       <a href="{{ site.legal.privacy }}">Privacy</a>
       <a href="{{ site.legal.delete_account }}">Delete account</a>
+    </nav>
+    {% elsif app %}
+    <a class="brand" href="{{ '/' | append: app.id | append: '/' | relative_url }}">
+      <img src="{{ app.icon | relative_url }}" alt="" width="40" height="40">
+      <span>{{ app.name }} <b>Help</b></span>
+    </a>
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}">All apps</a>
+      <a href="{{ app.privacy | default: 'https://legal.mytombrown.com/' }}">Privacy</a>
     </nav>
     {% else %}
     <a class="brand" href="{{ '/' | relative_url }}">
@@ -70,11 +80,11 @@
 
 <footer class="site">
   <div class="wrap">
-    <p>&copy; {{ 'now' | date: "%Y" }} Thomas M Brown. Team Assist.</p>
+    <p>&copy; {{ 'now' | date: "%Y" }} Thomas M Brown. {% if app %}{{ app.name }}{% else %}Team Assist{% endif %}.</p>
     <p>
       <a href="{{ '/' | relative_url }}">Help</a>
-      <a href="{{ site.legal.privacy }}">Privacy policy</a>
-      <a href="{{ site.legal.delete_account }}">Delete account</a>
+      {% if app %}<a href="{{ app.privacy | default: 'https://legal.mytombrown.com/' }}">Privacy policy</a>{% else %}<a href="{{ site.legal.privacy }}">Privacy policy</a>
+      <a href="{{ site.legal.delete_account }}">Delete account</a>{% endif %}
       <a href="mailto:{{ site.support_email }}">{{ site.support_email }}</a>
     </p>
   </div>

@@ -1,0 +1,67 @@
+# Every app with help on this site except Team Assist (which has its own
+# collection, _articles/). One entry per app; its articles are _guides/<id>/*.md
+# and its front page is <id>/index.html. soon: true = not on the App Store yet,
+# shows a "Coming soon" tag. Added 2026-10-17.
+- id: companion
+  name: Surface Remote for Companion
+  icon: /assets/icons/companion.png
+  blurb: Your iPhone or iPad as a button surface for Bitfocus Companion.
+  privacy: https://legal.mytombrown.com/satellite-surface-remote/privacy/
+- id: squishymathtrail
+  name: Squishy Math Trail
+  icon: /assets/icons/squishymathtrail.png
+  blurb: "Math games for kids 4–12: a dice trail, flashcards, lessons and squishies."
+  privacy: https://legal.mytombrown.com/squishy-math/privacy/
+- id: onemore
+  name: One More
+  icon: /assets/icons/onemore.png
+  blurb: Quick puzzle and tap games, a daily challenge, ranks and friend versus.
+  privacy: https://legal.mytombrown.com/one-more/privacy/
+  soon: true
+- id: squishywordclimb
+  name: Squishy Word Climb
+  icon: /assets/icons/squishywordclimb.png
+  blurb: "Word games for kids 4–12: guess the word, and practice spelling lists."
+  privacy: https://legal.mytombrown.com/squishy-words/privacy/
+  soon: true
+- id: squishyclocktown
+  name: Squishy Clock Town
+  icon: /assets/icons/squishyclocktown.png
+  blurb: "A telling-time game for kids: read the clock, set the hands, catch the bus."
+  soon: true
+- id: squishysnackstand
+  name: Squishy Snack Stand
+  icon: /assets/icons/squishysnackstand.png
+  blurb: "A money game for kids: name coins, count, make change, run the stand."
+  soon: true
+- id: familydinnerplans
+  name: Family Dinner Plans
+  icon: /assets/icons/familydinnerplans.png
+  blurb: Plan the week's meals, build the grocery list, and share it with family.
+  privacy: https://legal.mytombrown.com/family-dinner-plans/privacy/
+  soon: true
+- id: familychores
+  name: Family Chores
+  icon: /assets/icons/familychores.png
+  blurb: Chores, points and rewards for the whole family.
+  soon: true
+- id: srtstreamtester
+  name: SRT Stream Tester
+  icon: /assets/icons/srtstreamtester.png
+  blurb: "Test an SRT video link: watch or send a stream and see link health."
+  soon: true
+- id: recap
+  name: Recap
+  icon: /assets/icons/recap.png
+  blurb: Record a meeting, get the notes, and hear it back as a podcast.
+  soon: true
+- id: converttopng
+  name: Convert to PNG
+  icon: /assets/icons/converttopng.png
+  blurb: Turn JPG, HEIC, WebP, PSD and more into PNG on your Mac.
+  soon: true
+- id: filesweep
+  name: File Sweep
+  icon: /assets/icons/filesweep.png
+  blurb: Find duplicates, or files by type or name, on your Mac. Move or delete them.
+  soon: true

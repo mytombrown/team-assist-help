@@ -1,0 +1,48 @@
+---
+layout: default
+---
+{% comment %} One article in another app's help (_guides/<app>/<slug>.md). Same shape as Team Assist's article layout. {% endcomment %}
+{% assign gapp = site.data.apps | where: "id", page.app | first %}
+{% assign cat = site.guide_categories | where: "id", page.category | first %}
+{% assign home = '/' | append: page.app | append: '/' %}
+
+<nav class="crumbs" aria-label="Breadcrumb">
+  <a href="{{ home | relative_url }}">{{ gapp.name }} Help</a>
+  <span aria-hidden="true">›</span>
+  <a href="{{ home | append: '#' | append: page.category | relative_url }}">{{ cat.title | default: page.category }}</a>
+</nav>
+
+<article class="article">
+  <h1>{{ page.title }}</h1>
+
+  <div class="quick">
+    <span class="quick-tag">Quick answer</span>
+    {{ page.quick | markdownify }}
+  </div>
+
+  <div class="detail">
+    {{ content }}
+  </div>
+
+  {% if page.related %}
+  <aside class="related">
+    <h2>Related</h2>
+    <ul>
+      {% for slug in page.related %}
+        {% assign rurl = home | append: slug | append: '/' %}
+        {% assign r = site.guides | where: "url", rurl | first %}
+        {% if r %}<li><a href="{{ r.url | relative_url }}">{{ r.title }}</a></li>{% endif %}
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+
+  <aside class="stuck video-ask">
+    <p>Want a short video of this? <a href="{{ '/request-a-video/' | relative_url }}?about={{ gapp.name | append: ': ' | append: page.title | url_encode }}">Request a how-to video</a>.</p>
+  </aside>
+
+  <aside class="stuck">
+    <p>Still stuck? Email <a href="mailto:{{ site.support_email }}">{{ site.support_email }}</a>.
+    Say which app, your device and what you were doing.</p>
+  </aside>
+</article>

@@ -55,6 +55,15 @@ help_categories:
     title: Support
     blurb: Getting help from a person.
 
+# Categories for the other apps' help (_guides/). Every app uses these three.
+guide_categories:
+  - id: getting-started
+    title: Getting Started
+  - id: how-to
+    title: How To
+  - id: help
+    title: Problems & Contact
+
 collections:
   articles:
     output: true
@@ -64,6 +73,11 @@ collections:
   redirects:
     output: true
     permalink: /:name/
+  # Every other app's help (10/17). One folder per app under _guides/; the app
+  # itself is listed in _data/apps.yml. URL: /<app id>/<slug>/.
+  guides:
+    output: true
+    permalink: /:path/
 
 defaults:
   - scope:
@@ -72,6 +86,11 @@ defaults:
     values:
       layout: redirect
       sitemap: false
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: guide
   - scope:
       path: ""
       type: articles
