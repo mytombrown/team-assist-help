@@ -6,6 +6,7 @@ order: 1
 tags: "record, recording, start, stop, highlight, mark, photo, whiteboard, notes, meeting type, apple watch, siri, call audio, zoom, teams"
 quick: "Tap the round record button. While it records you can tap Highlight, take a Photo, type notes and pick the meeting type. Tap Stop to save."
 related:
+  - lock-screen
   - getting-started
   - make-a-podcast
   - troubleshooting
@@ -20,6 +21,7 @@ related:
 
 ## While it records
 
+- **Pause** — stops the recording for a moment. **Resume** carries on in the same file.
 - **Highlight** — marks this moment.
 - **Photo** — snap a whiteboard or slide. Recap reads the text.
 - **Your notes** — type names, decisions, to-dos. Your notes lead the summary.
