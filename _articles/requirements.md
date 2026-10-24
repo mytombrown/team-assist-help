@@ -24,9 +24,6 @@ Team Assist needs:
 An internet connection is needed for anything that involves someone else — syncing to
 another device, connected parents and athletes, and chat.
 
-**Apple Watch.** The Watch companion is a Run Playbook remote. It needs an Apple Watch
-running watchOS 11.6 or later, paired to the iPhone running Team Assist, and the
-**Apple Watch Remote** option turned on in Tools → Labs — see
-[Apple Watch, the widget, and sharing]({{ '/teamassist/watch-widget-share/' | relative_url }}).
+**Apple Watch.** Not needed — there is no Watch app in this version.
 
 **Android isn't available.**

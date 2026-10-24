@@ -28,8 +28,7 @@ The main areas are:
 - **Athletes and roster** — a record for each person you coach, with parent or guardian
   contact details, notes, and history.
 - **Teams** — groups of athletes, for practices, games, and group updates.
-- **Run Playbook** — running a session block by block with a timer, from your iPhone or
-  an Apple Watch remote.
+- **Run Playbook** — running a session block by block with a timer, from your iPhone.
 - **Finance center** — session packages, payment requests, and payment records. Team
   Assist tracks money; it doesn't move it.
 - **Publishing** — sessions, assignments, announcements, and updates appear for the
@@ -37,8 +36,7 @@ The main areas are:
 - **Team chat** — text-and-emoji messaging with connected parents, adult athletes,
   teams, and staff.
 
-There's also an Apple Watch remote for Run Playbook (an optional feature you switch on),
-a Home Screen widget showing today's sessions, and a share extension for importing a
-parent's contact card from the Contacts app.
+There's also a Home Screen widget showing today's sessions, and a share extension for
+importing a parent's contact card from the Contacts app.
 
 Each has its own article in this help centre.
