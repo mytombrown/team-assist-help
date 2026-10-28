@@ -16,6 +16,13 @@ related:
 - **The Ad cues (SCTE-35) card** shows during a session.
 - **Watching:** turn it on or off with the **SCTE-35** button.
 
+## Free or Pro
+
+- **Free:** the card says **SCTE-35 cues found** and how many.
+- **SRT Tester Pro** ($9.99, one time) shows the steps below.
+- **Unlock:** tap **Unlock Pro** on the card, or the **★** on the Setup screen.
+- **New device?** Open the ★ and tap **Restore Purchases**.
+
 ## 1 Watch
 
 - **Every cue** shows as it lands, newest first, in plain words.

@@ -44,4 +44,5 @@ related:
 - **Speaker button and slider:** mute and volume.
 - **Audio:** pick the audio track, or **Off**.
 - **Video**, **SCTE-35** and **CC** turn the picture, ad-cue card and captions on or off.
+- **Captions (Pro):** free says **Captions found (CC1)**. SRT Tester Pro draws them on the picture.
 - **Stop** ends the session. On the Mac, ⌘. also stops.
