@@ -15,6 +15,8 @@ related:
 
 - **SRT Tester** checks an SRT link and says what is in the stream.
 - **Works on** iPhone, iPad and Mac.
+- **Mac:** its own Mac app, from the Mac App Store.
+- **SRT Tester Pro** is bought once. It unlocks on every iPhone, iPad and Mac on the same Apple Account — use **Restore Purchases** on the others.
 - **Watch** a stream someone sends you, or **send** your camera and microphone.
 - **Live numbers** show how healthy the link is.
 
