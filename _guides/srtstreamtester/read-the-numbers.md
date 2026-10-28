@@ -3,7 +3,7 @@ title: "What do the numbers mean?"
 app: srtstreamtester
 category: how-to
 order: 3
-tags: "stats, statistics, link, health, verdict, round-trip, rtt, loss, dropped, buffer, undecrypted, bandwidth, bitrate, codec, resolution, frame rate, captions, transport, event log, charts"
+tags: "stats, statistics, link, health, verdict, round-trip, rtt, loss, dropped, buffer, undecrypted, bandwidth, bitrate, codec, resolution, frame rate, captions, a/v sync, lip sync, audio drift, transport, event log, charts"
 quick: "The Link card shows how healthy the connection is, with a one-line verdict. Tap any number (hover on the Mac) to see what it means."
 related:
   - watch-a-stream
@@ -33,6 +33,12 @@ related:
 - **Video:** codec, **Profile / level**, **Resolution**, **Frame rate**, **Scan**, bitrate, **Keyframe every**.
 - **Captions:** **CEA-608** and **CEA-708** say **Seen** or **None seen**.
 - **Audio:** codec, **Language**, **Channels**, **Sample rate**, bitrate.
+- **A/V sync:** does the audio keep time with the picture? One line per audio track.
+  - **Green:** steady. **Orange:** audio has moved 20 ms or more. **Red:** moved past what viewers notice (40 ms early, 60 ms late) or keeps drifting.
+  - **Audio moved:** later (+) or earlier (−) than in the first 10 seconds.
+  - **Drift:** how fast it is moving, per minute.
+  - Needs about 30 seconds of stream first.
+  - It reads the encoder's timestamps, not the room. An offset there from the first second does not show.
 - **Transport:** packet counts and errors such as **Continuity errors** and **PCR jitter**.
 
 ## Charts and log
