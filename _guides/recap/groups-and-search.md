@@ -12,10 +12,10 @@ related:
 
 ## Groups
 
-- **Make a group:** tap the group button at the top of the list, then **New Group**.
-- **Move a recording:** swipe it right, or press and hold it, then pick a group.
-- **See one group:** tap the group button and pick it. **All recordings** shows everything.
-- **Rename or delete** a group from the same place.
+- **Make a group:** tap the **folder pill** at the top of the list, then **Manage Groups… › New Group**.
+- **Move a recording:** swipe it right, or press and hold it, then **Move to Group**.
+- **See one group:** tap the folder pill and pick it. **All recordings** shows everything.
+- **Rename or delete:** in **Manage Groups…**, press and hold a group.
 - **Deleting a group keeps its recordings.** They go back to All recordings.
 
 ## Find a recording by what was said
