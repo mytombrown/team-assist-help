@@ -27,6 +27,11 @@ related:
 - **Your notes** — type names, decisions, to-dos. Your notes lead the summary.
 - **Meeting type** (top right) — **General**, **1:1**, **Sales call**, **Stand-up**, **Lecture** or **Interview**. It shapes the notes.
 
+## Long meetings
+
+- **Record as long as you need.** Recap saves in 30-minute parts and joins them when you tap Stop.
+- **Each part is transcribed while the next records,** so the transcript is ready sooner.
+
 ## Record a call on the Mac
 
 - **Settings › Include call audio** records your mic and the Mac's sound together.
