@@ -51,3 +51,8 @@ related:
 
 - **Email** [{{ site.support_email }}](mailto:{{ site.support_email }}).
 - **Include** the message Recap showed you.
+
+## My old recordings are missing
+
+- **Open Recap again.** Since build 3 it finds recordings iCloud moved to a folder named **Recap 2** and puts them back.
+- **They are never deleted.** You can see them in Files › iCloud Drive › Recap.
