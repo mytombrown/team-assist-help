@@ -28,7 +28,7 @@ related:
 ## Latency, passphrase, stream ID
 
 - **Latency:** how long the app waits so lost packets can be resent. 120 ms suits a local network. Use more over the internet.
-- **Latency is in milliseconds.** Some links quote microseconds — `latency=5000000` means type `5000`.
+- **Latency is in milliseconds.** Some links quote microseconds. A pasted link with `latency=5000000` is read as 5000 ms for you.
 - **Passphrase:** must match the other end. 10 to 79 characters. Leave empty if they have none.
 - **Stream ID:** only if you were given one.
 
