@@ -18,6 +18,3 @@ related:
 - **No transcript, no AI summary, no per-athlete notes from audio.** The session's
   Recording section and the Labs summary button are gone.
 - **Your own notes still work.** Type notes on the session or the athlete as before.
-
-See [Run Playbook]({{ '/teamassist/run-playbook/' | relative_url }}) for how to run a
-session.
