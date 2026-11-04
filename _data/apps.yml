@@ -64,3 +64,8 @@
   icon: /assets/icons/filesweep.png
   blurb: Find duplicates, or files by type or name, on your Mac. Move or delete them.
   soon: true
+- id: overlaystudio
+  name: Overlay Studio
+  icon: /assets/icons/overlaystudio.png
+  blurb: Make live graphics on your Mac and put them on air in OBS or vMix.
+  soon: true
