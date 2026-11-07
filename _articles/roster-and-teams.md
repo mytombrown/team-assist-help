@@ -79,4 +79,5 @@ There is one action here, and it is permanent:
 
 Team Assist takes a backup snapshot before a deletion, restorable from **Tools →
 Settings → Backup**. If you only want someone off your active list rather than gone,
-set them **Inactive** instead — that is reversible, and deletion is not.
+set them **Inactive** instead — that is reversible, and deletion is not. Inactive does
+not disconnect a family that is connected; use **Disconnect** for that.

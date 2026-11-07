@@ -53,6 +53,6 @@ ask you.
 
 ## Removing a staff member
 
-Deactivate their invite from the **Team Assist Access** section, or mark them inactive.
-Either stops the sharing; deleting the staff record removes them from the team lists
-too.
+Deactivate their invite from the **Team Assist Access** section. That stops the
+sharing. Marking them **Inactive** only takes them off your active list; it does not
+disconnect them. Deleting the staff record removes them from the team lists too.
