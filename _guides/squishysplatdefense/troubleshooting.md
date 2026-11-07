@@ -25,6 +25,11 @@ related:
 
 - **Win the level before it.** Any win opens the next one.
 
+## My score is not on Game Center
+
+- **Sign in:** Settings › Game Center. Then open the game again.
+- **Win or finish a level.** The high score is sent after each level.
+
 ## Stars or levels are gone
 
 - **Progress is saved on this phone only.** It does not move to a new phone.
