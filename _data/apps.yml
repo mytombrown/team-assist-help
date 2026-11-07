@@ -23,6 +23,12 @@
   blurb: "Word games for kids 4–12: guess the word, and practice spelling lists."
   privacy: https://legal.mytombrown.com/squishy-words/privacy/
   soon: true
+- id: squishysplatdefense
+  name: Squishy Splat Defense
+  icon: /assets/icons/squishysplatdefense.png
+  blurb: "A paint tower defense game for kids: build towers, fold bridges, splat the Blanks back to color."
+  privacy: https://legal.mytombrown.com/squishy-splat-defense/privacy/
+  soon: true
 - id: squishyclocktown
   name: Squishy Clock Town
   icon: /assets/icons/squishyclocktown.png
