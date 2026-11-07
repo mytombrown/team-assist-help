@@ -38,3 +38,9 @@ related:
 
 - **Email** [{{ site.support_email }}](mailto:{{ site.support_email }}).
 - **Say** your phone, the level, and what you tapped.
+
+## For grown-ups
+
+- **We collect nothing.** Only the best score can go to Apple's Game Center, if you sign in.
+- **Privacy policy:** [legal.mytombrown.com/sky-patrol/privacy](https://legal.mytombrown.com/sky-patrol/privacy/)
+- **Support page:** [legal.mytombrown.com/sky-patrol/support](https://legal.mytombrown.com/sky-patrol/support/)
