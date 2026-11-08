@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyskypatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy"
+tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera"
 quick: "Tap Play. Watch the short story, then drag the plane with one thumb — it pops clouds by itself. Win a level to open the next one. Fast Shot from level 11, Sun Blast from level 21. Signed in to Game Center? Your total score goes on the board."
 related:
   - troubleshooting
@@ -63,6 +63,14 @@ related:
 - **Win a level** to open the next one.
 - **Your best stars** show on each level.
 - **The story** plays before level 1 and on every 10th level.
+
+## iPhone Duo
+
+- **Open and held sideways:** the game stays the same size in the middle.
+  - **Left side:** score, coins, level and world.
+  - **Right side:** hearts, Fast Shot and the sun.
+- **Hearts stay clear of the camera** on every screen.
+- **Every other iPhone** plays upright, the same as before.
 
 ## Next
 
