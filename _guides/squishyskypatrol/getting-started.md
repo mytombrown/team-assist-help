@@ -3,8 +3,8 @@ title: "How do I get started?"
 app: squishyskypatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera"
-quick: "Tap Play. Watch the short story, then drag the plane with one thumb — it pops clouds by itself. Win a level to open the next one. Fast Shot from level 11, Sun Blast from level 21. Signed in to Game Center? Your total score goes on the board."
+tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels"
+quick: "Tap Play, then pick a Land. Drag the plane with one thumb — it pops clouds by itself. 200 levels in 2 Lands; the first 10 of each Land are free. Fast Shot from level 11, Sun Blast from level 21."
 related:
   - troubleshooting
 ---
@@ -15,6 +15,19 @@ related:
 - **Big Bubble Bob made the clouds grumpy.** You pop them happy again.
 - **No ads.** Progress is saved on this phone only.
 - **Game Center:** sign in at launch to put your high score on the board. Say no and the game plays the same.
+- **First 10 levels of each Land are free.** See [Lands](#lands).
+
+## Lands
+
+- **Every 100 levels is a Land.** Tap Play, then tap a Land.
+- **Land 1, Rainbow Skies:** levels 1-100.
+- **Land 2, Cosmic Coast:** levels 101-200, in space. Comet puffs zoom, asteroid clouds break apart, UFO puffs zig-zag, black-hole clouds pull your bubbles off course.
+- **Land 2 opens** once you clear level 10 of Land 1. No purchase needed.
+- **Each Land keeps its own progress.**
+- **Levels 1-10 of each Land are free.** **$0.99 opens the rest** of that Land (11-100). One purchase per Land.
+- **A grown-up check** comes before every buy button.
+- **Restore Purchases** is on the Lands screen. Use it on a new phone.
+- **Cosmic Coast power-ups:** a rocket jet that flies faster, and a sidekick who clips on and fires a second stream — until a cloud hits you.
 
 ## Start playing
 
@@ -26,7 +39,7 @@ related:
 
 - **Puff:** 1 hit. **Drizzle:** 2 hits, zigzags. **Rumble:** 4 hits, drops raindrops.
 - **Gold cloud:** drops a shield. It keeps you safe for a few seconds.
-- **A boss** waits at the end of every world: levels 10, 20, 30 … 100.
+- **A boss** waits at the end of every world: levels 10, 20, 30 … 200. In space: the Gloom Moon and Meteor Mike.
 
 ## Power-ups
 
@@ -59,7 +72,7 @@ related:
 
 ## The map
 
-- **100 levels in 10 worlds.** Puffy Peaks first, then Thunder Town and more.
+- **100 levels in 10 worlds in each Land.** Puffy Peaks first, then Thunder Town and more.
 - **Win a level** to open the next one.
 - **Your best stars** show on each level.
 - **The story** plays before level 1 and on every 10th level.
