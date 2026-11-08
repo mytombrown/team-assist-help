@@ -71,7 +71,8 @@ related:
 - **Every 100 levels is a Land.** Tap Play, then tap a Land.
 - **Land 1, Paint Park:** levels 1-100, Baron Bleach.
 - **Land 2, Spin Cycle:** levels 101-200. Count Socksworth, a colorless sock, wants all the laundry colorless too.
-- **Land 2 opens** once you finish Land 1.
+- **Land 2 opens** once you clear level 10 of Land 1. No purchase needed.
+- **Each Land keeps its own progress.**
 - **Levels 1-10 of each Land are free.**
 - **$0.99 opens the rest** of that Land (levels 11-100). One purchase per Land.
 - **A grown-up check** comes before every buy button.
