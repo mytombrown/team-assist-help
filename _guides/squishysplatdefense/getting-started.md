@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishysplatdefense
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, back spots, paint bomb, lands, land 2, spin cycle, count socksworth, zapper, purchase, restore, free levels"
+tags: "start, first time, cast, heroes, villains, bios, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, back spots, paint bomb, lands, land 2, spin cycle, count socksworth, zapper, purchase, restore, free levels"
 quick: "Tap Play, then pick a Land. Level 1 walks you through it one step at a time. Keep all 5 hearts for 3 stars. 200 levels in 2 Lands. The first 10 levels of each Land are free."
 related:
   - towers
@@ -23,6 +23,7 @@ related:
 ## Start playing
 
 - **Tap Play.**
+- **Meet the Cast** on the title screen: Heroes and Villains, with a picture and a short bio for each.
 - **The first time:** a short story plays. Tap to keep going.
 - **Level 1 walks you through it.** One step at a time. Only the glowing thing works until you do it.
 - **The steps:** build a Splat Shooter, start the wave, paint drops, upgrade, a Paint Rocket, the cardboard bridge, hearts.
@@ -47,7 +48,7 @@ related:
 ## Easy or Hard
 
 - **Pick on the map.** Tap Easy or Hard.
-- **Hard:** more Blanks, faster, tougher. Bosses are stronger.
+- **Hard:** more Blanks, faster, tougher. Bosses are stronger. A real challenge: expect to lose hearts.
 - **Hard starts small:** the same paint as Easy. Earn more and build out.
 - **10 waves on Hard,** light at first, heavy at the end.
 - **Hard scores x2.**
