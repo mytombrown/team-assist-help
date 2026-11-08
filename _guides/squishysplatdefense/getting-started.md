@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishysplatdefense
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy"
+tags: "start, first time, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, back spots, paint bomb"
 quick: "Tap Play. Watch the short story, then play level 1 — Pip walks you through it one step at a time. Keep all 5 hearts for 3 stars. Win a level to open the next one. 100 levels."
 related:
   - towers
@@ -47,8 +47,14 @@ related:
 
 - **Pick on the map.** Tap Easy or Hard.
 - **Hard:** more Blanks, faster, tougher. Bosses are stronger.
-- **More paint on Hard,** so you can build more towers. You will need every spot.
+- **Hard starts small:** the same paint as Easy. Earn more and build out.
+- **10 waves on Hard,** light at first, heavy at the end.
 - **Hard scores x2.**
+
+## Back spots
+
+- **From level 21,** each board has 2 spots far from the path.
+- **Paint Bomb only** on those spots. Its long reach covers the path.
 
 ## Score
 
@@ -66,6 +72,15 @@ related:
 - **The story** plays at level 1 and around each boss.
 - **Win a level** to open the next one.
 - **Your best stars** show on each level.
+- **Easy / Hard** sits under the top bar, never over your score.
+
+## iPhone Duo
+
+- **Open and held sideways:** the board stays the same size in the middle.
+  - **Left side:** home, wave, paint drops, paper and hearts.
+  - **Right side:** Start wave and speed. Tap a spot and the towers show here.
+- **Hearts, Help and the level button stay clear of the camera.**
+- **Every other iPhone** plays upright, the same as before.
 
 ## Next
 
