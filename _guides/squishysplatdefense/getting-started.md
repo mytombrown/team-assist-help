@@ -3,8 +3,8 @@ title: "How do I get started?"
 app: squishysplatdefense
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, back spots, paint bomb"
-quick: "Tap Play. Watch the short story, then play level 1 — Pip walks you through it one step at a time. Keep all 5 hearts for 3 stars. Win a level to open the next one. 100 levels."
+tags: "start, first time, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, back spots, paint bomb, lands, land 2, spin cycle, count socksworth, zapper, purchase, restore, free levels"
+quick: "Tap Play, then pick a Land. Level 1 walks you through it one step at a time. Keep all 5 hearts for 3 stars. 200 levels in 2 Lands. The first 10 levels of each Land are free."
 related:
   - towers
   - paper-bridges
@@ -15,8 +15,9 @@ related:
 ## What it is
 
 - **A paint tower defense game for kids.** On iPhone.
-- **Baron Bleach wants to wash Craftville white.** You paint it back.
+- **Baron Bleach wants Craftville colorless.** You paint it back.
 - **No ads.** Progress is saved on this phone only.
+- **First 10 levels of each Land are free.** See [Lands](#lands).
 - **Game Center:** sign in at launch to put your high score on the board. Say no and the game plays the same.
 
 ## Start playing
@@ -65,10 +66,31 @@ related:
 - **Total score:** your best on each level, added up. It shows on the map and goes to Game Center if you are signed in.
 - **Trophy button** on the map and results screen opens the Game Center board (signed in only).
 
+## Lands
+
+- **Every 100 levels is a Land.** Tap Play, then tap a Land.
+- **Land 1, Paint Park:** levels 1-100, Baron Bleach.
+- **Land 2, Spin Cycle:** levels 101-200. Count Socksworth, a colorless sock, wants all the laundry colorless too.
+- **Land 2 opens** once you finish Land 1.
+- **Levels 1-10 of each Land are free.**
+- **$0.99 opens the rest** of that Land (levels 11-100). One purchase per Land.
+- **A grown-up check** comes before every buy button.
+- **Restore Purchases** is on the Lands screen. Use it on a new phone.
+
+## Land 2 Blanks
+
+- **Lint Bunnies:** small and fast, in swarms.
+- **Dryer Sheets:** float over the path. Bombs and glue miss them; splats pop them.
+- **Hanger Knights:** armored.
+- **Bleach Bubbles:** split in 2 when popped.
+- **Lost Socks:** vanish, then pop up further on.
+- **Steam Iron:** slow and heavy. Takes 2 hearts.
+- **New tower at level 111: Static Cling Zapper.** Shocks a group and freezes it for 5 seconds. Land 2 and later only.
+
 ## The map
 
-- **100 levels in 10 lands**, from Paint Park to the Bleach Factory.
-- **Each land has its own colors** and a boss on its 10th level.
+- **100 levels in each Land**, 10 places of 10 levels.
+- **Each place has its own colors** and a boss on its 10th level.
 - **The story** plays at level 1 and around each boss.
 - **Win a level** to open the next one.
 - **Your best stars** show on each level.
