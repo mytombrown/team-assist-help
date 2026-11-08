@@ -4,7 +4,7 @@ app: squishysplatdefense
 category: getting-started
 order: 1
 tags: "start, first time, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense"
-quick: "Tap Play. Watch the short story, then play level 1 — Pip shows you where to build. Keep all 5 hearts for 3 stars. Win a level to open the next one."
+quick: "Tap Play. Watch the short story, then play level 1 — Pip walks you through it one step at a time. Keep all 5 hearts for 3 stars. Win a level to open the next one. 100 levels."
 related:
   - towers
   - paper-bridges
@@ -23,7 +23,9 @@ related:
 
 - **Tap Play.**
 - **The first time:** a short story plays. Tap to keep going.
-- **Level 1 teaches you.** Pip says what to tap next.
+- **Level 1 walks you through it.** One step at a time. Only the glowing thing works until you do it.
+- **The steps:** build a Splat Shooter, start the wave, paint drops, upgrade, a Paint Rocket, the cardboard bridge, hearts.
+- **Seen it before?** Level 1 plays on its own. Tap **Show me again** on the title screen to see it again (with a **Skip** button).
 
 ## How a level plays
 
@@ -31,7 +33,8 @@ related:
 - **Build towers** beside the path. They splat the Blanks back to color.
 - **Each pop gives paint drops.** Spend them on more towers.
 - **Tap Start wave** when you are ready. **1x / 2x** speeds it up.
-- **A boss comes in the last wave.**
+- **Every level is a bit harder** than the one before.
+- **A boss comes on every 10th level**, in the last wave.
 
 ## Hearts and stars
 
@@ -39,15 +42,19 @@ related:
 - **5 hearts left:** 3 stars. **3–4:** 2 stars. **1–2:** 1 star.
 - **0 hearts:** "Oh no, bleached!" Tap **Try again**.
 
-## Score and high score
+## Score
 
-- **10 points** for each Blank you color.
-- **Win:** 100 points a heart left, plus a bonus for clearing waves fast.
-- **High score:** your best score on each level, added up. It goes to Game Center if you are signed in.
+- **Your score has 3 parts.** The results card shows each one.
+- **Time bonus:** 5 points a second you beat the clock (wins only).
+- **Drops earned:** 1 point for each paint drop you earn.
+- **Hearts left:** 100 points a heart (wins only).
+- **Total score:** your best on each level, added up. It shows on the map and goes to Game Center if you are signed in.
 
 ## The map
 
-- **Ten levels**, from Paint Park to the Bleach Factory.
+- **100 levels in 10 lands**, from Paint Park to the Bleach Factory.
+- **Each land has its own colors** and a boss on its 10th level.
+- **The story** plays at level 1 and around each boss.
 - **Win a level** to open the next one.
 - **Your best stars** show on each level.
 

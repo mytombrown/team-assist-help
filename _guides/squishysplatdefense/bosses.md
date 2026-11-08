@@ -4,7 +4,7 @@ app: squishysplatdefense
 category: how-to
 order: 3
 tags: "boss, bleach crew, baron bleach, eraser ed, sir snips, lady lint, captain crease, smudge, wendy wipe, count cardboard, shred head, mega baron, whitewash, heal, dash, shield"
-quick: "Each level ends with a boss in the last wave. Pip gives a hint when it shows up. Glue slows dashers, rockets and bombs handle extra Blanks, tap white towers to repaint them."
+quick: "A boss waits on every 10th level, in the last wave. Pip gives a hint when it shows up. Glue slows dashers, rockets and bombs handle extra Blanks, tap white towers to repaint them."
 related:
   - towers
   - getting-started
@@ -12,18 +12,20 @@ related:
 
 ## The Bleach Crew
 
-| Level | Boss | Trick |
-|---|---|---|
-| 1 | Baron Bleach | Whitewashes towers |
-| 2 | Eraser Ed | Heals |
-| 3 | Sir Snips | Dashes |
-| 4 | Lady Lint | Makes more Blanks |
-| 5 | Captain Crease | Folds into a shield |
-| 6 | Smudge | Dashes, whitewashes |
-| 7 | Wendy Wipe | Heals, shields |
-| 8 | Count Cardboard | Shields, makes Blanks |
-| 9 | Shred Head | Makes Blanks, dashes |
-| 10 | Mega Baron | Whitewashes, heals, makes Blanks |
+- **One boss per land**, on its 10th level.
+
+| Level | Land | Boss | Trick |
+|---|---|---|---|
+| 10 | Paint Park | Eraser Ed | Heals |
+| 20 | Crayon Corner | Sir Snips | Dashes |
+| 30 | Glitter Gulch | Lady Lint | Makes more Blanks |
+| 40 | Button Bend | Captain Crease | Folds into a shield |
+| 50 | Yarn Woods | Smudge | Dashes, whitewashes |
+| 60 | Ribbon Ridge | Wendy Wipe | Heals, shields |
+| 70 | Sticker Swamp | Count Cardboard | Shields, makes Blanks |
+| 80 | Pom-Pom Pass | Shred Head | Makes Blanks, dashes |
+| 90 | Doodle Dunes | Baron Bleach | Whitewashes towers |
+| 100 | Bleach Factory | Mega Baron | Whitewashes, heals, makes Blanks |
 
 ## What to do
 

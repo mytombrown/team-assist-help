@@ -18,12 +18,14 @@ related:
 
 ## The four towers
 
-| Tower | Cost | What it does |
-|---|---|---|
-| Splat Shooter | 50 | Fast paintballs |
-| Paint Rocket | 90 | Splash on a group |
-| Paint Bomb | 110 | Colors a whole area |
-| Glue Gunk | 60 | Sticky. Slows Blanks |
+- **You start with two.** More unlock as you go. Pip shows each new one the first time.
+
+| Tower | Cost | Unlocks | What it does |
+|---|---|---|---|
+| Splat Shooter | 50 | Level 1 | Fast paintballs |
+| Paint Rocket | 90 | Level 1 | Splash on a group |
+| Glue Gunk | 60 | Level 11 | Sticky. Slows Blanks |
+| Paint Bomb | 110 | Level 21 | Colors a whole area |
 
 ## Upgrade
 
