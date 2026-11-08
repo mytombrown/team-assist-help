@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyskypatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds"
+tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy"
 quick: "Tap Play. Watch the short story, then drag the plane with one thumb — it pops clouds by itself. Win a level to open the next one. Fast Shot from level 11, Sun Blast from level 21. Signed in to Game Center? Your total score goes on the board."
 related:
   - troubleshooting
@@ -39,6 +39,13 @@ related:
 
 - **You have 3 hearts.** A raindrop or a cloud bump takes 1.
 - **1 star:** win the level. **2 stars:** pop half the clouds. **3 stars:** pop most of them with 2 hearts left.
+  - **3 stars on Hard only.** Easy tops out at 2.
+
+## Easy or Hard
+
+- **Pick on the map.** Tap Easy or Hard.
+- **Hard:** more clouds, faster, tougher. Bosses are stronger.
+- **Hard scores x2.**
 
 ## Score
 
@@ -48,7 +55,7 @@ related:
   - **Hearts:** 100 for each heart left (wins only).
 - **The results screen** shows all 3 parts.
 - **Total score** = each level's best, added up. It shows on the map.
-- **Signed in to Game Center?** Your total goes on the High Score board. Tap **High Scores** on the title screen to see it.
+- **Signed in to Game Center?** Your total goes on the High Score board. Tap **High Scores** on the title screen, or the **trophy** on the map or results screen, to see it.
 
 ## The map
 
