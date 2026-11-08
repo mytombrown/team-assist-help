@@ -27,7 +27,8 @@ related:
 - **Levels 1-10 of each Land are free.** **$0.99 opens the rest** of that Land (11-100). One purchase per Land.
 - **A grown-up check** comes before every buy button.
 - **Restore Purchases** is on the Lands screen. Use it on a new phone.
-- **Cosmic Coast power-ups:** a rocket jet that flies faster, and a sidekick who clips on and fires a second stream — until a cloud hits you.
+- **Each Land has its own ship.** Rainbow Skies: the paper plane. Cosmic Coast: a rocket jet that flies faster, from its very first level.
+- **Cosmic Coast sidekick:** from level 111 (after the $0.99), a sidekick clips on and fires a second stream — until a cloud hits you.
 
 ## Start playing
 
