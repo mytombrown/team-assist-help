@@ -26,7 +26,7 @@ related:
 ## My score is not on Game Center
 
 - **Sign in:** Settings › Game Center. Then open the game again.
-- **Finish a level.** The high score is sent after each level.
+- **Finish a level.** Your total score is sent after each level.
 - **No High Scores button?** You are not signed in to Game Center.
 
 ## Stars or levels are gone
