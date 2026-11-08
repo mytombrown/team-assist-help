@@ -35,6 +35,7 @@ related:
 - **Tap Play.**
 - **The first time:** a short story plays. Tap to keep going.
 - **Drag with one thumb.** The plane fires bubbles by itself.
+- **Fly anywhere.** The plane reaches all the way up, just under the score and hearts. Bumping a boss still costs a heart.
 
 ## The clouds
 
