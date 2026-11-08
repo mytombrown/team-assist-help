@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishysplatdefense
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense"
+tags: "start, first time, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy"
 quick: "Tap Play. Watch the short story, then play level 1 — Pip walks you through it one step at a time. Keep all 5 hearts for 3 stars. Win a level to open the next one. 100 levels."
 related:
   - towers
@@ -41,6 +41,14 @@ related:
 - **You have 5 hearts.** A Blank at the castle takes 1. A boss takes 3.
 - **5 hearts left:** 3 stars. **3–4:** 2 stars. **1–2:** 1 star.
 - **0 hearts:** "Oh no, bleached!" Tap **Try again**.
+- **3 stars on Hard only.** Easy tops out at 2.
+
+## Easy or Hard
+
+- **Pick on the map.** Tap Easy or Hard.
+- **Hard:** more Blanks, faster, tougher. Bosses are stronger.
+- **More paint on Hard,** so you can build more towers. You will need every spot.
+- **Hard scores x2.**
 
 ## Score
 
@@ -49,6 +57,7 @@ related:
 - **Drops earned:** 1 point for each paint drop you earn.
 - **Hearts left:** 100 points a heart (wins only).
 - **Total score:** your best on each level, added up. It shows on the map and goes to Game Center if you are signed in.
+- **Trophy button** on the map and results screen opens the Game Center board (signed in only).
 
 ## The map
 
