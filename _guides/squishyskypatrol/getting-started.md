@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyskypatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels"
+tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels, icloud, sync, new phone, ipad, meet the cast, cast, heroes, villains, characters"
 quick: "Tap Play, then pick a Land. Drag the plane with one thumb — it pops clouds by itself. 200 levels in 2 Lands; the first 10 of each Land are free. Fast Shot from level 11, Sun Blast from level 21."
 related:
   - troubleshooting
@@ -13,7 +13,11 @@ related:
 
 - **A paper-plane game for kids.** On iPhone.
 - **Big Bubble Bob made the clouds grumpy.** You pop them happy again.
-- **No ads.** Progress is saved on this phone only.
+- **No ads.**
+- **Progress follows you.** Stars, levels and score save to your own iCloud. Another iPhone on the same Apple ID picks up where you left off.
+  - **Purchases** come back with Restore Purchases, not iCloud.
+  - **iCloud off** for the app: progress stays on this phone only.
+- **Meet the Cast:** tap it on the title screen. Heroes and Villains, each with a picture and a short bio.
 - **Game Center:** sign in at launch to put your high score on the board. Say no and the game plays the same.
 - **First 10 levels of each Land are free.** See [Lands](#lands).
 
