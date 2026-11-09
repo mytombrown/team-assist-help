@@ -38,7 +38,7 @@ related:
 
 - **Tap Play.**
 - **The first time:** a short story plays. Tap to keep going.
-- **Drag with one thumb.** The plane fires bubbles by itself.
+- **Drag with one thumb.** The plane fires bubbles by itself. Each bubble has a dark ring, so you can see it on every sky.
 - **Fly anywhere.** The plane reaches all the way up, just under the score and hearts. Bumping a boss still costs a heart.
 
 ## The clouds
