@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishysplatdefense
 category: getting-started
 order: 1
-tags: "start, first time, cast, heroes, villains, bios, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, back spots, paint bomb, lands, land 2, spin cycle, count socksworth, zapper, purchase, restore, free levels"
+tags: "start, first time, cast, heroes, villains, bios, new, play, level 1, tutorial, pip, story, map, stars, hearts, score, high score, game center, leaderboard, splat defense, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, back spots, paint bomb, lands, land 2, spin cycle, count socksworth, zapper, purchase, restore, free levels, icloud, sync, new phone"
 quick: "Tap Play, then pick a Land. Level 1 walks you through it one step at a time. Keep all 5 hearts for 3 stars. 200 levels in 2 Lands. The first 10 levels of each Land are free."
 related:
   - towers
@@ -16,7 +16,10 @@ related:
 
 - **A paint tower defense game for kids.** On iPhone.
 - **Baron Bleach wants Craftville colorless.** You paint it back.
-- **No ads.** Progress is saved on this phone only.
+- **No ads.**
+- **Progress follows you.** Stars, levels and scores save to your own iCloud. Another iPhone on the same Apple ID picks up where you left off.
+  - **Purchases** come back with Restore Purchases, not iCloud.
+  - **iCloud off** for the app: progress stays on this phone only.
 - **First 10 levels of each Land are free.** See [Lands](#lands).
 - **Game Center:** sign in at launch to put your high score on the board. Say no and the game plays the same.
 
