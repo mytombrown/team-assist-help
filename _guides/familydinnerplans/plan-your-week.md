@@ -19,6 +19,13 @@ related:
 - **Change it:** tap the slot again and pick another meal.
 - **Remove it:** tap the **x** on the slot.
 
+## Mix a meal: main, side, dessert
+
+- **Tap a slot.** The list has **Main**, **Side**, and **Dessert** tabs.
+- **Tick one or more** in any tab. Then tap **Add**.
+- **They make one meal.** Hot dogs + corn + pie is one dinner, one calendar event.
+- **Remove one dish:** tap its **x**. The rest stay.
+
 ## Move between weeks
 
 - **Arrows** at the top go to the previous or next week.

@@ -16,10 +16,12 @@ related:
 - **Open the Meals tab.**
 - **Tap Add Meal** (the **+** button).
 - **Type the Meal name.** This is the only thing you must fill in.
+- **Pick Main, Side, or Dessert** under the name. Older meals are Mains.
 - **Photo:** **Take Photo** or **Choose Photo**. Optional.
 - **Time & Servings:** set the time in minutes and how many it serves.
 - **Ingredients:** fill in **Qty**, **Unit**, **Ingredient**. Tap **Add Ingredient** for more rows.
-- **Recipe & Cooking Instructions:** type the steps.
+- **Amounts like ½ or 1½:** type **1/2** or **1 1/2**. The app shows them as fractions.
+- **Recipe & Cooking Instructions:** type the steps. Web links in it can be tapped.
 - **Tap Save.**
 
 ## Scan a recipe
