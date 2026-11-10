@@ -3,8 +3,8 @@ title: "How do I get started?"
 app: squishyskypatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels, icloud, sync, new phone, ipad, meet the cast, cast, heroes, villains, characters"
-quick: "Tap Play, then pick a Land. Drag the plane with one thumb — it pops clouds by itself. 200 levels in 2 Lands; the first 10 of each Land are free. Fast Shot from level 11, Sun Blast from level 21."
+tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels, 300 levels, land 3, thunder tops, storm glider, reverse cannon, rumble, from below, icloud, sync, new phone, ipad, meet the cast, cast, heroes, villains, characters"
+quick: "Tap Play, then pick a Land. Drag the plane with one thumb — it pops clouds by itself. 300 levels in 3 Lands; the first 10 of each Land are free. Fast Shot from level 11, Sun Blast from level 21."
 related:
   - troubleshooting
 ---
@@ -26,13 +26,16 @@ related:
 - **Every 100 levels is a Land.** Tap Play, then tap a Land.
 - **Land 1, Rainbow Skies:** levels 1-100.
 - **Land 2, Cosmic Coast:** levels 101-200, in space. Comet puffs zoom, asteroid clouds break apart, UFO puffs zig-zag, black-hole clouds pull your bubbles off course.
-- **Land 2 opens** once you clear level 10 of Land 1. No purchase needed.
+- **Land 3, Thunder Tops:** levels 201-300, a storm over the rooftops. Zap puffs drop sparks, hail hoppers bounce down — and from level 211, puddle pops, updraft bugs and gust swirls come up **from below**.
+- **Land 2 opens** once you clear level 10 of Land 1. **Land 3 opens** once you clear level 10 of Land 2. No purchase needed.
 - **Each Land keeps its own progress.**
 - **Levels 1-10 of each Land are free.** **$0.99 opens the rest** of that Land (11-100). One purchase per Land.
 - **A grown-up check** comes before every buy button.
 - **Restore Purchases** is on the Lands screen. Use it on a new phone.
-- **Each Land has its own ship.** Rainbow Skies: the paper plane. Cosmic Coast: a rocket jet that flies faster, from its very first level.
+- **Each Land has its own ship.** Rainbow Skies: the paper plane. Cosmic Coast: a rocket jet that flies faster, from its very first level. Thunder Tops: the Storm Glider, a biplane with a cannon on its tail.
 - **Cosmic Coast sidekick:** from level 111 (after the $0.99), a sidekick clips on and fires a second stream — until a cloud hits you.
+- **Thunder Tops reverse cannon:** from level 211 (after the $0.99), catch the orange squish. The tail cannon fires orange seeds down at what comes up from below. A hit takes it away; a new one drops a few seconds later.
+- **Every power-up keeps working** in later Lands.
 
 ## Start playing
 
@@ -45,7 +48,7 @@ related:
 
 - **Puff:** 1 hit. **Drizzle:** 2 hits, zigzags. **Rumble:** 4 hits, drops raindrops.
 - **Gold cloud:** drops a shield. It keeps you safe for a few seconds.
-- **A boss** waits at the end of every world: levels 10, 20, 30 … 200. In space: the Gloom Moon and Meteor Mike.
+- **A boss** waits at the end of every world: levels 10, 20, 30 … 300. In space: the Gloom Moon and Meteor Mike. In Thunder Tops: Rumble, a very loud storm cloud.
 
 ## Power-ups
 
