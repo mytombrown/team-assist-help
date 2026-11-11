@@ -29,6 +29,12 @@
   blurb: "A paint tower defense game for kids: build towers, fold bridges, splat the Blanks back to color."
   privacy: https://legal.mytombrown.com/squishy-splat-defense/privacy/
   soon: true
+- id: squishyquest
+  name: Squishy Quest
+  icon: /assets/icons/squishyquest.png
+  blurb: "A papercraft adventure: follow the clues, team up, and paint Craftville back to color."
+  privacy: https://legal.mytombrown.com/squishy-quest/privacy/
+  soon: true
 - id: squishyskypatrol
   name: Squishy Sky Patrol
   icon: /assets/icons/squishyskypatrol.png
