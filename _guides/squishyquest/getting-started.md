@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyquest
 category: getting-started
 order: 1
-tags: "start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
+tags: "how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
 quick: "Tap New Game. Drag anywhere to walk, or tap a spot. Tap people to talk. Find 3 clues to open the Bleach Works. Save from Bag · Team."
 related:
   - battles
@@ -21,6 +21,8 @@ related:
 ## Start playing
 
 - **Tap New Game.**
+- **How to Play** cards open first. Tap **Next**, then **Let's go!**
+- **See them again:** Bag · Team → **?**
 - **Already playing?** Tap **Continue**. It shows the place, Pip's level and play time.
 - **New Game with a save** asks first. **Keep my save** backs out.
 
