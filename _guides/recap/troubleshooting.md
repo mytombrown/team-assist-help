@@ -56,3 +56,8 @@ related:
 
 - **Open Recap again.** Since build 3 it finds recordings iCloud moved to a folder named **Recap 2** and puts them back.
 - **They are never deleted.** You can see them in Files › iCloud Drive › Recap.
+
+## A long recording won't play or has no transcript
+
+- **Open Recap again.** Since build 4 a long recording that did not finish joining is joined again when Recap opens.
+- **The transcript still comes.** A last part that was cut off is skipped; the rest is transcribed.
