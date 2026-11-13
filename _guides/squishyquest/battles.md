@@ -3,7 +3,7 @@ title: "How do battles work?"
 app: squishyquest
 category: how-to
 order: 1
-tags: "sunny, sunbeam brush, kite shop, captain drizzle, storm, battle, first fight, tutorial, pp, paint points, weapon, strength, defense, fight, splat, skills, items, guard, run, speed bar, paint, hp, level up, xp, rainbow burst, cheer, shield bash, cover, juice box, paint pot, glitter pop, boss, baron bleach, victoria"
+tags: "nika, permanent marker, button bin, lady lint, tips, low hp, sunny, sunbeam brush, kite shop, captain drizzle, storm, battle, first fight, tutorial, pp, paint points, weapon, strength, defense, fight, splat, skills, items, guard, run, speed bar, paint, hp, level up, xp, rainbow burst, cheer, shield bash, cover, juice box, paint pot, glitter pop, boss, baron bleach, victoria"
 quick: "When a hero's bar fills, pick Splat, Skills, Items, Guard or Run. Skills cost PP. Your first fight shows you how. Win to earn XP and buttons. You can't run from a boss."
 related:
   - getting-started
@@ -72,3 +72,19 @@ related:
 - **Sunny** brings her Glow Staff — HP + PP.
 - **The Sunbeam Brush** is hidden in the Storm Factory. It's stronger than anything in the shop.
 - **Sun beats rain:** it hits storm foes extra hard. Bring it to Captain Drizzle.
+
+## Weapons in Spin Cycle (Chapter 3)
+
+- **Bobbin's Button Bin** in Sudsville sells a stronger one of each kind:
+  - Needle Brush — Strength.
+  - Ironing Shield — Defense.
+  - Spin Spray — Speed.
+  - Bubble Wand — PP.
+  - Pillow Mallet — HP.
+- **Nika** brings her Swirl Brush — PP + Strength. Her Color Storm hits every enemy.
+- **The Permanent Marker** is hidden in the Dryer Drum. It won't wash out: it hits wash foes extra hard. Bring it to Lady Lint.
+
+## Learning as you go (Chapter 1)
+
+- **The first time** you win, level up, learn a skill, find a clue, get a teammate, shop or meet a boss, a short card explains it.
+- **After a fight,** if anyone's HP or PP is under half, a card says how to fix it.

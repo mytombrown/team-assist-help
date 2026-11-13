@@ -15,7 +15,8 @@ related:
 
 - **A turn-based adventure** on iPhone. Hold the phone sideways.
 - **Craftville's colors are draining away.** Pip finds out who did it.
-- **Chapters 1 and 2,** Paint Park and Rainbow Skies, are in this test build. More lands are coming.
+- **Chapters 1, 2 and 3,** Paint Park, Rainbow Skies and Spin Cycle, are in this test build. More lands are coming.
+- **Chapter 3 starts** at the Skyport weather vane after you beat Captain Drizzle. It's a bigger land.
 - **Chapter 2 starts** at the Craftville fountain after you beat Baron Bleach.
 - **The map** has a page for each chapter. Tap the chapter names at the top to switch.
 - **No ads. No accounts. No purchases.**
