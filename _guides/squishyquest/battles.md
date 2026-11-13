@@ -84,6 +84,39 @@ related:
 - **Nika** brings her Swirl Brush — PP + Strength. Her Color Storm hits every enemy.
 - **The Permanent Marker** is hidden in the Dryer Drum. It won't wash out: it hits wash foes extra hard. Bring it to Lady Lint.
 
+## Four fight at once (Chapters 4–10)
+
+- **Pip always fights,** plus three friends.
+- **A new friend takes the 4th spot.** The one they replace rests on the bench.
+- **The bench still gets XP,** so everyone keeps up.
+- **Swap who fights:** Bag · Team → tap a bench friend → pick who they replace.
+
+## Weapons in Chapters 4–10
+
+- **Every town's shop** sells a stronger brush, shield, spray, wand and mallet than the last.
+- **Every new friend** brings their own weapon.
+- **Every land hides one special weapon** before its boss. It beats that land:
+
+| Chapter | Land | Found weapon | Beats |
+|---|---|---|---|
+| 4 | Frosty Flight | Hot Cocoa Shooter | ice |
+| 5 | Thunder Tops | Rubber Duck Launcher | lightning |
+| 6 | Pirate Cove | Squirt Cannon | paper |
+| 7 | Volcano Valley | Snow Cone Blaster | fire |
+| 8 | Candy Coast | Pin Popper | sticky gum |
+| 9 | Cosmic Coast | Star Sparkler | dark |
+| 10 | The Blank Page | Rainbow Blaster | blank |
+
+## New friends
+
+- **Pengu** (Ch 4) — Belly Slide hits everyone; Snow Fort guards the team.
+- **Owl** (Ch 5) — Wise Eye, one huge hit; Hoot slows every enemy.
+- **Axo** (Ch 6) — Splash Heal heals everyone; Bubble Guard shields one friend.
+- **Dragon** (Ch 7) — Toasty Breath hits everyone; Wing Gust knocks enemies back.
+- **Piggy** (Ch 8) — Snack Time heals and refills paint; Belly Bounce knocks back.
+- **Uni** (Ch 9) — Rainbow Horn, big magic; Starshine, a big heal.
+- **Pell** (Ch 10) — Sketch Strike, four quick hits; Color Fill refills everyone's paint.
+
 ## Learning as you go (Chapter 1)
 
 - **The first time** you win, level up, learn a skill, find a clue, get a teammate, shop or meet a boss, a short card explains it.

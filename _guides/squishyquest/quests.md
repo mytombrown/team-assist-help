@@ -39,6 +39,17 @@ related:
 - **Laundry Run** — Mama Foam's four bundles: Mayor Wringer, Granny Purl, Bobbin, and Old Spool in the Lint Caves.
 - **Spin Ring** — three rounds of fights in Sudsville.
 
+## Side quests in Chapters 4–10
+
+- **Every land has four:** find 8 lost things, splat 10 grey spots, a 4-stop delivery run, and a 3-round ring.
+- **4 Frosty Flight** — Lost Mittens, Thaw Spots, Cocoa Run, Ice Rink Ring.
+- **5 Thunder Tops** — Lost Bulbs, Scorch Marks, Umbrella Run, Thunder Ring.
+- **6 Pirate Cove** — Lost Doubloons, Paper Patches, Bottle Post, Pirate Ring.
+- **7 Volcano Valley** — Cool Crystals, Ash Spots, Water Run, Lava Ring.
+- **8 Candy Coast** — Lost Sprinkles, Gum Spots, Cake Run, Candy Ring.
+- **9 Cosmic Coast** — Lost Stars, Dark Spots, Moon Mail, Star Ring.
+- **10 The Blank Page** — Lost Colors, Blank Spots, Camp Run, Last Ring.
+
 ## Why do them
 
 - **Items and XP.** A stronger team for the boss.
@@ -49,4 +60,5 @@ related:
 - **Juice Stand** and **Paint Shop** in Craftville.
 - **Kip's Kite Shop** and **Aunt Breeze's Inn** in Skyport.
 - **Bobbin's Button Bin** and **Mama Foam's Laundromat Inn** in Sudsville.
+- **Every town from Chapter 4 on** has an inn (rest, save, snacks) and a weapon shop.
 - **Pay with buttons** from battles.
