@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyskypatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels, 300 levels, land 3, thunder tops, storm glider, reverse cannon, rumble, from below, 400 levels, land 4, frosty flight, cocoa rocket, marshmallow, fire ring, flurry, icy patch, frozen friend, icloud, sync, new phone, ipad, meet the cast, cast, heroes, villains, characters"
+tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels, 300 levels, land 3, thunder tops, storm glider, reverse cannon, rumble, from below, 400 levels, land 4, frosty flight, cocoa rocket, marshmallow, fire ring, flurry, icy patch, frozen friend, icloud, sync, new phone, ipad, meet the cast, cast, heroes, villains, characters, power-up level, level up, faster"
 quick: "Tap Play, then pick a Land. Drag the plane with one thumb — it pops clouds by itself. 400 levels in 4 Lands; the first 10 of each Land are free. Fast Shot from level 11, Sun Blast from level 21."
 related:
   - troubleshooting
@@ -61,6 +61,10 @@ related:
   - **A hit takes it away.** It also ends with the level.
 - **Sun Blast (from level 21):** tap the sun. Every cloud on screen pops.
   - **Once a level.** The sun goes grey after. The boss is not popped.
+- **Power-ups level up, up to 3.** Fast Shot, sidekick, reverse cannon and fire ring.
+  - **Holding one?** The same power-up drops again a few seconds later.
+  - **Catch it:** it gets faster. Level 3 is the fastest.
+  - **A hit takes it all away.** The next catch starts back at level 1.
 
 ## Hearts and stars
 
