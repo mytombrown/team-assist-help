@@ -3,7 +3,7 @@ title: "What are the side quests?"
 app: squishyquest
 category: how-to
 order: 2
-tags: "quest tracker, corner, pin, main quest, side quest, quests, lost crayons, juice run, paint the town, training ring, fort, cardboard knights, lost sock, rewards, xp, buttons, shop, juice stand, paint shop"
+tags: "lost kites, rainbow puddles, sky mail, skyport, quest tracker, corner, pin, main quest, side quest, quests, lost crayons, juice run, paint the town, training ring, fort, cardboard knights, lost sock, rewards, xp, buttons, shop, juice stand, paint shop"
 quick: "Side quests give items and XP: Lost Crayons, Juice Run, Paint the Town, and the Fort Training Ring. They're optional."
 related:
   - getting-started
@@ -23,7 +23,13 @@ related:
 - **Juice Run** — take juice to people around town.
 - **Paint the Town** — splat bleached spots back to color. Penny gives you the Super Marker.
 - **Fort Training Ring** — extra fights against Cardboard Knights.
-- **A lost sock** — keep it.
+- **A lost sock** — it goes in your Bag. Its quest starts in a later land.
+
+## Side quests in Rainbow Skies
+
+- **Lost Kites** — find Kip's six kites around the sky.
+- **Rainbow Puddles** — splat Dot's eight grey puddles back to rainbow.
+- **Sky Mail** — Flap's three letters: Professor Nimbus, Aunt Breeze, and Glim.
 
 ## Why do them
 
@@ -33,4 +39,5 @@ related:
 ## Shops
 
 - **Juice Stand** and **Paint Shop** in Craftville.
+- **Kip's Kite Shop** and **Aunt Breeze's Inn** in Skyport.
 - **Pay with buttons** from battles.

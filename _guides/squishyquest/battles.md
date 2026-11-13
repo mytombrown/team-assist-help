@@ -3,7 +3,7 @@ title: "How do battles work?"
 app: squishyquest
 category: how-to
 order: 1
-tags: "battle, first fight, tutorial, pp, paint points, weapon, strength, defense, fight, splat, skills, items, guard, run, speed bar, paint, hp, level up, xp, rainbow burst, cheer, shield bash, cover, juice box, paint pot, glitter pop, boss, baron bleach, victoria"
+tags: "sunny, sunbeam brush, kite shop, captain drizzle, storm, battle, first fight, tutorial, pp, paint points, weapon, strength, defense, fight, splat, skills, items, guard, run, speed bar, paint, hp, level up, xp, rainbow burst, cheer, shield bash, cover, juice box, paint pot, glitter pop, boss, baron bleach, victoria"
 quick: "When a hero's bar fills, pick Splat, Skills, Items, Guard or Run. Skills cost PP. Your first fight shows you how. Win to earn XP and buttons. You can't run from a boss."
 related:
   - getting-started
@@ -60,3 +60,15 @@ related:
   - Big Roller — big Strength, a bit slower.
   - Super Marker — Penny's reward. Strength + PP.
 - **Buy them** at Penny's Paint Shop.
+
+## Weapons in Rainbow Skies (Chapter 2)
+
+- **Kip's Kite Shop** in Skyport sells a stronger one of each kind:
+  - Kite Brush — Strength.
+  - Cloud Shield — Defense.
+  - Wind Spray — Speed.
+  - Rainbow Wand — PP.
+  - Puffy Mallet — HP.
+- **Sunny** brings her Glow Staff — HP + PP.
+- **The Sunbeam Brush** is hidden in the Storm Factory. It's stronger than anything in the shop.
+- **Sun beats rain:** it hits storm foes extra hard. Bring it to Captain Drizzle.
