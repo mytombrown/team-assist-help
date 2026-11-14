@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyquest
 category: getting-started
 order: 1
-tags: "loose buttons, gold buttons, coins, map trip, balloon, how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
+tags: "map exit, both ends, far end, loose buttons, gold buttons, coins, map trip, balloon, how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
 quick: "Tap New Game. Drag anywhere to walk, or tap a spot. Tap people to talk. Find 3 clues to open the Bleach Works. Save from Bag · Team."
 related:
   - battles
@@ -36,6 +36,7 @@ related:
 - **Tap a person,** or the action button, to talk or use something.
 - **Crayons, spots and clues** pick up when you walk over them.
 - **Map** at an exit takes you to the next place.
+- **Every area has a Map exit at both ends,** so you never have to walk all the way back.
 - **Gold buttons on the path?** Walk over them. Each one is a button to spend.
 - **On the map,** tap a place and the team makes the trip there.
 
