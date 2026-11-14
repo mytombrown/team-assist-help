@@ -40,7 +40,7 @@ related:
   - **From level 221: two sidekicks,** one on each wing.
 - **Button Magnet (from level 121):** catch the blue squish. Buttons fly to you from further away.
   - **Catch more:** it reaches further, up to level 3. A hit takes it away.
-- **Thunder Tops reverse cannon:** from level 211 (after the $0.99), catch the orange squish. The tail cannon fires orange seeds down at what comes up from below. A hit takes it away; a new one drops a few seconds later.
+- **Thunder Tops reverse cannon:** from level 211 (after the $0.99), catch the orange squish. The tail cannon fires fast orange beams down at what comes up from below. A hit takes it away; a new one drops a few seconds later.
 - **Frosty Flight fire ring:** from level 311 (after the $0.99), catch the flame squish. Fire circles the plane for 10 seconds and hurts what it touches — ice cubes most. A hit puts it out; a new one drops a while later.
 - **Lost a power-up to a hit?** A new one drops — unless the level is almost done (80% or more).
 - **Every power-up keeps working** in later Lands.
