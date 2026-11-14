@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: novapatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, icloud, sync, new phone, credits"
+tags: "start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, icloud, sync, new phone, credits"
 quick: "Tap Play, pick a galaxy, pick a planet. Drag the ship with one thumb — it fires by itself. 50 missions in 5 galaxies, a boss at missions 5 and 10 of each."
 related:
   - troubleshooting
@@ -11,8 +11,9 @@ related:
 
 ## What it is
 
-- **A 16-bit style space shooter.** On iPhone.
-- **Free. No ads. No purchases.**
+- **A 3D space shooter.** On iPhone.
+- **Free. No ads.** The whole game is free in the 3034 look.
+- **Extra looks:** $1.99 each, bought once. First one: 16-Bit.
 - **50 missions in 5 galaxies.** 10 bosses.
 - **Progress follows you.** Scores, stars and credits save to your own iCloud. Another iPhone on the same Apple ID picks up where you left off.
   - **iCloud off** for the app: progress stays on this phone only.
@@ -22,7 +23,7 @@ related:
 
 - **Tap Play.** Pick a galaxy, then a planet.
 - **Drag with one thumb.** The ship fires by itself.
-- **Your hull takes 3 hits.** A hit also takes your power-ups.
+- **You have 3 lives.** A hit takes one, and your power-ups.
 
 ## Power-ups
 
@@ -33,6 +34,26 @@ related:
 - **S Shield:** shot down the gold Carrier? Catch it. 9 seconds of cover.
 - **Nova Bomb (from mission 3):** the button bottom-left. Clears the screen, once a mission.
 - **Lost one to a hit?** It drops again — unless the mission is almost done.
+
+## Weapons
+
+- **Each galaxy brings a new one.** It stays on offer after that galaxy.
+- **3 levels each.** They stack with everything else.
+- **M Missiles (Ember Nebula):** they home in.
+- **L Lance Beam (Frost Veil):** bursts straight up through everything.
+- **A Arc (Hive Cluster):** lightning that jumps ship to ship.
+- **O Orbitals (Void Core):** circle you, eat shots, ram ships.
+
+## Looks
+
+- **One game, many looks.** Same missions, weapons and enemies in each.
+- **3034:** real-time 3D. Free.
+- **16-Bit:** pixel art. $1.99, once.
+- **Mission 1 is free to try** in any look.
+- **Switch:** tap **LOOK** on the title.
+- **Buy:** on the Looks screen. Apple handles the payment.
+- **New phone or reinstalled?** Tap **RESTORE** on the Looks screen.
+- **One save, one high score**, whatever look you fly.
 
 ## The galaxies
 
@@ -57,11 +78,11 @@ related:
 ## Stars and score
 
 - **Up to 3 stars** a mission.
-- **Score = ships + time + credits + hull.**
+- **Score = ships + time + credits + lives.**
   - **Ships:** every ship you shoot down.
   - **Time:** under par scores more.
   - **Credits:** the gold you collect.
-  - **Hull:** hits you have left.
+  - **Lives:** lives you have left.
 - **Total score** = each mission's best, added up.
 - **High Scores** on the title screen opens the Game Center board. It only shows when you are signed in.
 

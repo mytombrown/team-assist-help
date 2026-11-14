@@ -3,7 +3,7 @@ title: "Something isn't working — what do I do?"
 app: novapatrol
 category: help
 order: 1
-tags: "problem, help, not working, no sound, too hard, stuck, galaxy locked, mission locked, stars gone, progress lost, new phone, icloud, game center, high score, leaderboard, support, contact"
+tags: "problem, help, not working, look locked, 16-bit locked, bought, purchase, restore, refund, no sound, too hard, stuck, galaxy locked, mission locked, stars gone, progress lost, new phone, icloud, game center, high score, leaderboard, support, contact"
 quick: "No sound? Check the silent switch and volume. Score not on Game Center? Sign in under Settings › Game Center, then finish a mission. Progress gone on a new phone? Check iCloud is on for Nova Patrol. Still stuck? Email support."
 related:
   - getting-started
@@ -22,6 +22,18 @@ related:
 ## A galaxy is locked
 
 - **Finish the galaxy before it.** Then the next one opens.
+
+## A mission has a lock in the 16-Bit look
+
+- **16-Bit is $1.99.** Mission 1 is the free try.
+- **Tap the lock.** It opens the Looks screen to buy it.
+- **Or play free:** tap **LOOK** on the title and pick 3034.
+
+## I bought a look and it is locked
+
+- **Tap RESTORE** on the Looks screen.
+- **Same Apple ID** as the one that bought it.
+- **No signal?** The store needs a connection once.
 
 ## My score is not on Game Center
 
@@ -43,6 +55,6 @@ related:
 
 ## Privacy
 
-- **We collect nothing.** Your total can go to Apple's Game Center if you sign in. Progress goes to your own iCloud.
+- **We collect nothing.** Your total can go to Apple's Game Center if you sign in. Progress goes to your own iCloud. Purchases are handled by Apple.
 - **Privacy policy:** [legal.mytombrown.com/nova-patrol/privacy](https://legal.mytombrown.com/nova-patrol/privacy/)
 - **Support page:** [legal.mytombrown.com/nova-patrol/support](https://legal.mytombrown.com/nova-patrol/support/)
