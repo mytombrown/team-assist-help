@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyskypatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels, 300 levels, land 3, thunder tops, storm glider, reverse cannon, rumble, from below, 400 levels, land 4, frosty flight, cocoa rocket, marshmallow, fire ring, flurry, icy patch, frozen friend, icloud, sync, new phone, ipad, meet the cast, cast, heroes, villains, characters, power-up level, level up, faster"
+tags: "start, first time, new, play, level 1, story, map, stars, hearts, score, high score, total score, game center, leaderboard, sky patrol, clouds, bob, fast shot, sun blast, power-up, 100 levels, worlds, easy, hard, difficulty, trophy, iphone duo, sideways, landscape, camera, lands, land 2, cosmic coast, rocket jet, sidekick, purchase, restore, free levels, 200 levels, 300 levels, land 3, thunder tops, storm glider, reverse cannon, rumble, from below, 400 levels, land 4, frosty flight, cocoa rocket, marshmallow, fire ring, flurry, icy patch, frozen friend, icloud, sync, new phone, ipad, meet the cast, cast, heroes, villains, characters, power-up level, level up, faster, button magnet, magnet, buttons, two sidekicks, twin sidekick"
 quick: "Tap Play, then pick a Land. Drag the plane with one thumb — it pops clouds by itself. 400 levels in 4 Lands; the first 10 of each Land are free. Fast Shot from level 11, Sun Blast from level 21."
 related:
   - troubleshooting
@@ -37,6 +37,9 @@ related:
 - **Restore Purchases** is on the Lands screen. Use it on a new phone.
 - **Each Land has its own ship.** Rainbow Skies: the paper plane. Cosmic Coast: a rocket jet that flies faster, from its very first level. Thunder Tops: the Storm Glider, a biplane with a cannon on its tail. Frosty Flight: the Cocoa Rocket, a mug of hot cocoa that shoots marshmallows.
 - **Cosmic Coast sidekick:** from level 111 (after the $0.99), a sidekick clips on and fires a second stream — until a cloud hits you.
+  - **From level 221: two sidekicks,** one on each wing.
+- **Button Magnet (from level 121):** catch the blue squish. Buttons fly to you from further away.
+  - **Catch more:** it reaches further, up to level 3. A hit takes it away.
 - **Thunder Tops reverse cannon:** from level 211 (after the $0.99), catch the orange squish. The tail cannon fires orange seeds down at what comes up from below. A hit takes it away; a new one drops a few seconds later.
 - **Frosty Flight fire ring:** from level 311 (after the $0.99), catch the flame squish. Fire circles the plane for 10 seconds and hurts what it touches — ice cubes most. A hit puts it out; a new one drops a while later.
 - **Lost a power-up to a hit?** A new one drops — unless the level is almost done (80% or more).
