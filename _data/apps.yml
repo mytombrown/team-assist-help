@@ -40,6 +40,12 @@
   icon: /assets/icons/squishyskypatrol.png
   blurb: "A paper-plane game for kids: drag the plane, pop the grumpy clouds, beat Big Bubble Bob."
   soon: true
+- id: novapatrol
+  name: Nova Patrol
+  icon: /assets/icons/novapatrol.png
+  blurb: "A 16-bit space shooter: drag your ship, clear five galaxies, beat ten bosses."
+  privacy: https://legal.mytombrown.com/nova-patrol/privacy/
+  soon: true
 - id: squishyclocktown
   name: Squishy Clock Town
   icon: /assets/icons/squishyclocktown.png
