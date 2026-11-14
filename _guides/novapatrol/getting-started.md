@@ -17,7 +17,7 @@ related:
 - **50 missions in 5 galaxies.** 10 bosses.
 - **Progress follows you.** Scores, stars and credits save to your own iCloud. Another iPhone on the same Apple ID picks up where you left off.
   - **iCloud off** for the app: progress stays on this phone only.
-- **Game Center:** signed in? Your total goes on the High Scores board. Not signed in: the game plays the same.
+- **Game Center:** signed in? Your total goes on the Overall Score leaderboard. Not signed in: the game plays the same.
 
 ## Start playing
 
@@ -50,10 +50,12 @@ related:
 - **3034:** real-time 3D. Free.
 - **16-Bit:** pixel art. $1.99, once.
 - **Mission 1 is free to try** in any look.
-- **Switch:** tap **LOOK** on the title.
-- **Buy:** on the Looks screen. Apple handles the payment.
+- **Switch:** tap a look card on the title screen. Each card shows a picture of that look.
+- **3034:** modern 3D. Glowing ships, real light and depth.
+- **16-Bit:** retro pixel art. Chunky pixels, like a 90s game console.
+- **Buy:** tap **BUY LOOKS** on the title. Apple handles the payment.
 - **New phone or reinstalled?** Tap **RESTORE** on the Looks screen.
-- **One save, one high score**, whatever look you fly.
+- **One save, one leaderboard**, whatever look you fly. Scoring is the same in every look. Highest score wins.
 
 ## The galaxies
 
@@ -84,7 +86,7 @@ related:
   - **Credits:** the gold you collect.
   - **Lives:** lives you have left.
 - **Total score** = each mission's best, added up.
-- **High Scores** on the title screen opens the Game Center board. It only shows when you are signed in.
+- **LEADERBOARD** on the title screen opens the Overall Score board in Game Center. It only shows when you are signed in.
 
 ## Next
 

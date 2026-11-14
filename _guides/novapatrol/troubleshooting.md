@@ -27,7 +27,7 @@ related:
 
 - **16-Bit is $1.99.** Mission 1 is the free try.
 - **Tap the lock.** It opens the Looks screen to buy it.
-- **Or play free:** tap **LOOK** on the title and pick 3034.
+- **Or play free:** tap the **3034** card on the title screen.
 
 ## I bought a look and it is locked
 
@@ -39,7 +39,7 @@ related:
 
 - **Sign in:** Settings › Game Center. Then open the game again.
 - **Finish a mission.** Your total is sent after each one.
-- **No High Scores button?** You are not signed in to Game Center.
+- **No LEADERBOARD button?** You are not signed in to Game Center.
 
 ## My progress is not on my new phone
 
