@@ -3,8 +3,8 @@ title: "How do battles work?"
 app: squishyquest
 category: how-to
 order: 1
-tags: "nika, permanent marker, button bin, lady lint, tips, low hp, sunny, sunbeam brush, kite shop, captain drizzle, storm, battle, first fight, tutorial, pp, paint points, weapon, strength, defense, fight, splat, skills, items, guard, run, speed bar, paint, hp, level up, xp, rainbow burst, cheer, shield bash, cover, juice box, paint pot, glitter pop, boss, baron bleach, victoria"
-quick: "When a hero's bar fills, pick Splat, Skills, Items, Guard or Run. Skills cost PP. Your first fight shows you how. Win to earn XP and buttons. You can't run from a boss."
+tags: "ring, tap the ring, great, block, star gauge, rainbow, super move, super, turn bar, next, sneak attack, sneak, chase, drops, nika, permanent marker, button bin, lady lint, tips, low hp, sunny, sunbeam brush, kite shop, captain drizzle, storm, battle, first fight, tutorial, pp, paint points, weapon, strength, defense, fight, splat, skills, items, guard, run, speed bar, paint, hp, level up, xp, rainbow burst, cheer, shield bash, cover, juice box, paint pot, glitter pop, boss, baron bleach, victoria"
+quick: "When a hero's bar fills, pick Splat, Skills, Items, Guard or Run. Tap when the ring turns green to hit harder. Fill the star gauge for a super move. Win to earn XP and buttons. You can't run from a boss."
 related:
   - getting-started
   - quests
@@ -27,6 +27,41 @@ related:
   - **Guard** — take half the hit, get 3 PP back.
   - **Run** — leave the fight. Not from a boss.
 
+## Tap the ring
+
+- **A ring closes on the enemy** when you attack.
+- **Tap when it turns green.** "Great!" hits harder.
+- **Tap a little early** and you still get "Good!"
+- **No tap?** A normal hit. Nothing is lost.
+- **When an enemy swings,** a ring closes on your hero. Tap on green to **block** some of the hit.
+- **Great taps in a row** count up next to the ★.
+
+## The star gauge and super moves
+
+- **The star gauge** is at the top right.
+- **It fills** when your team lands hits and when it takes hits.
+- **It keeps what it has** from one fight to the next.
+- **Full?** A bright **★** button shows on that hero's turn. Tap it for their super move.
+- **Every hero has one:**
+  - Pip — Rainbow Cannon. Blasts every enemy.
+  - Victoria — Mega Bash. One giant hit.
+  - Sunny — Sunny Day. Everyone up and healed.
+  - Nika — Paint Tornado. Hits and slows every enemy.
+- **New friends** bring their own.
+- **Using it empties the gauge.**
+
+## Who goes next
+
+- **The turn bar** is at the top left.
+- **The faces** show who acts next, soonest first.
+
+## Sneak attacks
+
+- **Enemies can spot you** on the map. A red **!** pops up and they chase.
+- **You can outrun them.**
+- **Walk slowly** (push the stick lightly) and they don't notice.
+- **Touch one that hasn't noticed:** "Sneak attack!" Your whole team goes first.
+
 ## Skills
 
 - **Pip:** Rainbow Burst at level 3, Cheer at level 7.
@@ -43,6 +78,7 @@ related:
 ## Winning
 
 - **Victory!** gives XP and buttons.
+- **Sometimes enemies drop** a Juice Box or a Paint Pot. It goes in your Bag.
 - **LEVEL UP!** shows any new skill.
 - **A friend is "Bleached!"?** A Glitter Pop wakes them.
 

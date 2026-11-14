@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyquest
 category: getting-started
 order: 1
-tags: "how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
+tags: "loose buttons, gold buttons, coins, map trip, balloon, how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
 quick: "Tap New Game. Drag anywhere to walk, or tap a spot. Tap people to talk. Find 3 clues to open the Bleach Works. Save from Bag · Team."
 related:
   - battles
@@ -15,7 +15,7 @@ related:
 
 - **A turn-based adventure** on iPhone. Hold the phone sideways.
 - **Craftville's colors are draining away.** Pip finds out who did it.
-- **Chapters 1, 2 and 3,** Paint Park, Rainbow Skies and Spin Cycle, are in this test build. More lands are coming.
+- **Ten chapters** are in this test build, each a new land.
 - **Chapter 3 starts** at the Skyport weather vane after you beat Captain Drizzle. It's a bigger land.
 - **Chapter 2 starts** at the Craftville fountain after you beat Baron Bleach.
 - **The map** has a page for each chapter. Tap the chapter names at the top to switch.
@@ -36,6 +36,8 @@ related:
 - **Tap a person,** or the action button, to talk or use something.
 - **Crayons, spots and clues** pick up when you walk over them.
 - **Map** at an exit takes you to the next place.
+- **Gold buttons on the path?** Walk over them. Each one is a button to spend.
+- **On the map,** tap a place and the team makes the trip there.
 
 ## The clues
 
