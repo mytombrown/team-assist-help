@@ -21,6 +21,9 @@ and selecting the team or athletes taking part. You can attach a playbook if you
 plan to run from, and reusable session templates fill in the repeated setup — you still
 choose the new date and time before saving.
 
+**With VoiceOver,** the session builder says which step you are on as you move along
+its step rail.
+
 **Repeating sessions.** A session can repeat — the options are Does Not Repeat, Daily,
 Weekdays (Mon–Fri), Weekly, Monthly, or Custom. Team Assist generates the series up
 front (up to 30 sessions in a series). To set a repeat, use the **Advanced Session Form** (New Session → Advanced Session

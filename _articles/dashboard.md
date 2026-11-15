@@ -77,3 +77,6 @@ lets you pick a profile (Trainer, Coach, or Athlete), shows a short tour of how 
 works for that profile, and walks you through a guided setup. The dashboard appears once
 setup is complete — initially with empty sections and the Workspace shortcuts, which is
 where adding your first athletes and sessions starts.
+
+On a small screen the profile picker ("How will you use Team Assist?") scrolls, so its
+whole title and every choice stay readable.
