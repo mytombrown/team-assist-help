@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: novapatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, classic, vector, blocks, line art, ipad, duo, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, icloud, sync, new phone, credits"
+tags: "start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, classic, vector, blocks, line art, ipad, duo, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, galaxy pack, packs, deep field, first light, 4.99, cruiser, flak, rail, brood, rift, flare, behind, icloud, sync, new phone, credits"
 quick: "Tap Play, pick a galaxy, pick a planet. Drag the ship with one thumb — it fires by itself. 50 missions in 5 galaxies, a boss at missions 5 and 10 of each."
 related:
   - troubleshooting
@@ -15,6 +15,7 @@ related:
 - **Free. No ads.** The whole game is free in the 3034 look.
 - **Extra looks:** $1.99 each, bought once: 16-Bit, Classic, Vector.
 - **50 missions in 5 galaxies.** 10 bosses.
+- **Two galaxy packs:** $4.99 each, bought once. 5 more galaxies in each.
 - **Progress follows you.** Scores, stars and credits save to your own iCloud. Another iPhone on the same Apple ID picks up where you left off.
   - **iCloud off** for the app: progress stays on this phone only.
 - **Game Center:** signed in? Your total goes on the Overall Score leaderboard. Not signed in: the game plays the same.
@@ -69,7 +70,26 @@ related:
 - **Void Core:** warpers. They jump from place to place.
 - **Finish a galaxy** to open the next one.
 - **Later galaxies are harder**, not longer.
-- **Every galaxy: heavy cruisers.** Big warships that come in from the side. They take a lot of hits and fire fans of shots. Keep shooting, keep moving.
+- **Every galaxy has its own heavy cruiser.** Big warships that come in from the side and take a lot of hits. Keep shooting, keep moving.
+  - **Helios Run:** fans of shots.
+  - **Ember Nebula:** shells that burst into rings.
+  - **Frost Veil:** it parks, lights up, then fires a fast line.
+  - **Hive Cluster:** rings of shots, and it launches drones.
+  - **Void Core:** it jumps to another height and fires a spiral.
+- **Ships come from every side.** Left, right and from behind you. Every mission has its own mix.
+- **Tail flare:** when ships come up from behind, your ship throws a spinning flare out of its tail. Nothing to pick up.
+
+## Galaxy packs
+
+- **After mission 50** the game goes on.
+- **Deep Field:** galaxies 6 to 10. The far side of the black hole. $4.99, once.
+- **First Light:** galaxies 11 to 15. The road to the white hole. The hardest missions. $4.99, once.
+- **Each pack:** 50 missions, 10 bosses, a new enemy in every galaxy. Works in every look you own.
+- **Buy:** tap **Play** and scroll down to **Galaxy Packs**. Each pack is one card with its five galaxies inside. Tap **BUY**.
+- **Each stands alone.** You do not need one to buy the other.
+- **Opens when** you own it and have cleared mission 50.
+- **Pack scores stay off the Overall Score leaderboard.** It counts missions 1 to 50.
+- **New phone or reinstalled?** Tap **RESTORE PURCHASES** under the packs.
 
 ## Bosses
 
