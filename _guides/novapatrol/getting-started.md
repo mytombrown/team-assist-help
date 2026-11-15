@@ -51,7 +51,7 @@ related:
 - **16-Bit:** pixel art. $1.99, once.
 - **Mission 1 is free to try** in any look.
 - **Switch:** tap a look card on the title screen. Slide the row to see all four. Each card shows a picture of that look.
-- **iPad and iPhone Duo:** the game plays in a phone-shaped area in the middle of the screen. iPad is upright only.
+- **iPad and iPhone Duo:** space fills the whole screen. Thin lines mark the play area. iPad is upright only.
 - **3034:** modern 3D. Glowing ships, real light and depth.
 - **16-Bit:** retro pixel art. Chunky pixels, like a 90s game console.
 - **Classic:** big flat blocks, like the first home consoles.
@@ -69,6 +69,7 @@ related:
 - **Void Core:** warpers. They jump from place to place.
 - **Finish a galaxy** to open the next one.
 - **Later galaxies are harder**, not longer.
+- **Every galaxy: heavy cruisers.** Big warships that come in from the side. They take a lot of hits and fire fans of shots. Keep shooting, keep moving.
 
 ## Bosses
 
