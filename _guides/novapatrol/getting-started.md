@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: novapatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, icloud, sync, new phone, credits"
+tags: "start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, classic, vector, blocks, line art, ipad, duo, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, icloud, sync, new phone, credits"
 quick: "Tap Play, pick a galaxy, pick a planet. Drag the ship with one thumb — it fires by itself. 50 missions in 5 galaxies, a boss at missions 5 and 10 of each."
 related:
   - troubleshooting
@@ -13,7 +13,7 @@ related:
 
 - **A 3D space shooter.** On iPhone.
 - **Free. No ads.** The whole game is free in the 3034 look.
-- **Extra looks:** $1.99 each, bought once. First one: 16-Bit.
+- **Extra looks:** $1.99 each, bought once: 16-Bit, Classic, Vector.
 - **50 missions in 5 galaxies.** 10 bosses.
 - **Progress follows you.** Scores, stars and credits save to your own iCloud. Another iPhone on the same Apple ID picks up where you left off.
   - **iCloud off** for the app: progress stays on this phone only.
@@ -50,9 +50,12 @@ related:
 - **3034:** real-time 3D. Free.
 - **16-Bit:** pixel art. $1.99, once.
 - **Mission 1 is free to try** in any look.
-- **Switch:** tap a look card on the title screen. Each card shows a picture of that look.
+- **Switch:** tap a look card on the title screen. Slide the row to see all four. Each card shows a picture of that look.
+- **iPad and iPhone Duo:** the game plays in a phone-shaped area in the middle of the screen. iPad is upright only.
 - **3034:** modern 3D. Glowing ships, real light and depth.
 - **16-Bit:** retro pixel art. Chunky pixels, like a 90s game console.
+- **Classic:** big flat blocks, like the first home consoles.
+- **Vector:** glowing line art, like an 80s arcade cabinet.
 - **Buy:** tap **BUY LOOKS** on the title. Apple handles the payment.
 - **New phone or reinstalled?** Tap **RESTORE** on the Looks screen.
 - **One save, one leaderboard**, whatever look you fly. Scoring is the same in every look. Highest score wins.
