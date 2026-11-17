@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyquest
 category: getting-started
 order: 1
-tags: "map exit, both ends, far end, loose buttons, gold buttons, coins, map trip, balloon, how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
+tags: "warp, fountain, warp fountain, cardboard fort, fort, rest, heal, night, path end, next stage, next land, map, loose buttons, gold buttons, coins, how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
 quick: "Tap New Game. Drag anywhere to walk, or tap a spot. Tap people to talk. Find 3 clues to open the Bleach Works. Save from Bag · Team."
 related:
   - battles
@@ -18,7 +18,6 @@ related:
 - **Ten chapters** are in this test build, each a new land.
 - **Chapter 3 starts** at the Skyport weather vane after you beat Captain Drizzle. It's a bigger land.
 - **Chapter 2 starts** at the Craftville fountain after you beat Baron Bleach.
-- **The map** has a page for each chapter. Tap the chapter names at the top to switch.
 - **No ads. No accounts. No purchases.**
 
 ## Start playing
@@ -35,10 +34,18 @@ related:
 - **Tap the ground** to walk there.
 - **Tap a person,** or the action button, to talk or use something.
 - **Crayons, spots and clues** pick up when you walk over them.
-- **Map** at an exit takes you to the next place.
-- **Every area has a Map exit at both ends,** so you never have to walk all the way back.
+- **Walk off the end of the path** to reach the next place. A sign with an arrow names it.
+- **Walk back the other way** to go back.
+- **A lock on the sign** means that place is not open yet.
+- **The last stage of a land** walks on into the next land's town.
 - **Gold buttons on the path?** Walk over them. Each one is a button to spend.
-- **On the map,** tap a place and the team makes the trip there.
+
+## Warp fountains
+
+- **Every place has a fountain** on its path. Walk up to it and tap it.
+- **Warp** jumps to any fountain you have found.
+- **Save** saves the game there.
+- **Cardboard Fort:** the team rests till morning. Everyone heals, then it saves.
 
 ## The clues
 
@@ -48,5 +55,5 @@ related:
 
 ## Saving
 
-- **Bag · Team → Save.**
+- **Bag · Team → Save,** or **Save** at any warp fountain.
 - **It also saves** as you walk, when you enter a place, and when you leave the app.
