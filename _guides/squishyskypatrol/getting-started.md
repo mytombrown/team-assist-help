@@ -24,15 +24,15 @@ related:
 
 - **Sky Patrol:** fly a paper plane and pop grumpy clouds. See [Sky Patrol]({{ '/squishyskypatrol/sky-patrol/' | relative_url }}).
 - **Splat Defense:** build paint towers and splat the Blanks back into color. See [Splat Defense help]({{ '/squishysplatdefense/' | relative_url }}).
-- **Claw Machine:** grab a dot for your room. See [Claw Machine]({{ '/squishyskypatrol/claw-machine/' | relative_url }}).
+- **Claw Machine:** grab a Dot for your room. See [Claw Machine]({{ '/squishyskypatrol/claw-machine/' | relative_url }}).
 - **Prize Counter:** trade tickets for prizes. See [Tickets and prizes]({{ '/squishyskypatrol/tickets-and-prizes/' | relative_url }}).
-- **All games** in a game takes you back to the town.
+- **My Room:** your Dot bedroom. See [My Room]({{ '/squishyskypatrol/my-room/' | relative_url }}).
+- **All games** in a game takes you back to the town. **Home** in My Room does too.
 
 ## The badges, top left
 
 - **Stars:** your stars from every game, added up. Tap it to open **Pip's closet.**
 - **Tickets:** tap it to open the Prize Counter.
-- **My Room:** tap it to open your room. See [My Room]({{ '/squishyskypatrol/my-room/' | relative_url }}).
 
 ## Pip's closet
 

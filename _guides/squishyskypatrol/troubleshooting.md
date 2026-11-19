@@ -4,7 +4,7 @@ app: squishyskypatrol
 category: help
 order: 1
 tags: "problem, help, not working, no sound, too hard, stuck, level locked, stars gone, progress lost, new phone, game center, high score, leaderboard, support, contact, claw machine, no dot, tickets, prize, my room, missing, can't buy"
-quick: "No sound? Check the silent switch and volume. Score not on Game Center? Sign in under Settings › Game Center, then finish a level. One claw dot a day. Prizes all show in My Room. Still stuck? Email support."
+quick: "No sound? Check the silent switch and volume. Score not on Game Center? Sign in under Settings › Game Center, then finish a level. One claw Dot a day. Prizes all show in My Room. Still stuck? Email support."
 related:
   - getting-started
 ---
@@ -35,14 +35,14 @@ related:
 - **Tickets, prizes, your room and Pip's outfit** stay on this phone. They do not move to a new phone.
 - **Deleting the app deletes** what is kept on the phone.
 
-## The Claw Machine won't give me a dot
+## The Claw Machine won't give me a Dot
 
-- **One dot a day goes to your room.** More wins that day pay 5 tickets instead.
-- **Come back tomorrow** for the next dot.
+- **One Dot a day goes to your room.** More wins that day pay 5 tickets instead.
+- **Come back tomorrow** for the next Dot.
 
 ## A prize is not in my room
 
-- **Open My Room again.** Everything you get shows up there: dots, hats, decor and Quest friends.
+- **Open My Room again.** Everything you get shows up there: Dots, hats, decor and Quest friends.
 - **Hats start on the windowsill.**
 - **Something behind something else?** Drag the front one away.
 
@@ -50,7 +50,7 @@ related:
 
 - **Not enough tickets.** Pip says how many more you need. Play a mission to earn more.
 - **It says "got it".** You already have it. Hats, decor and friends are once each.
-- **A dot is already large.** It can't grow more.
+- **A Dot is already large.** It can't grow more.
 
 ## Contact support
 

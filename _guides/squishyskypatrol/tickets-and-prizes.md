@@ -4,7 +4,7 @@ app: squishyskypatrol
 category: how-to
 order: 3
 tags: "tickets, prize counter, prizes, buy, spend, earn, stars, mission, replay, dots, hats, decor, flower, mushroom, lollipop, bush, dotville quest, quest friends, victoria, sunny, pell, bio, sold out, got it, money"
-quick: "Every mission pays tickets by its best stars: 1 star 5, 2 stars 10, 3 stars 20. Spend them at the Prize Counter on dots, hats for Pip, room decor and DotVille Quest friends. Tickets can never be bought."
+quick: "Every mission pays tickets by its best stars: 1 star 5, 2 stars 10, 3 stars 20. Spend them at the Prize Counter on Dots, hats for Pip, room decor and DotVille Quest friends. Tickets can never be bought."
 related:
   - my-room
   - claw-machine
@@ -16,7 +16,7 @@ related:
 - **Every mission pays** by its best stars: **1 star = 5, 2 stars = 10, 3 stars = 20.**
 - **Missions** are Sky Patrol levels, Splat Defense levels and the Claw Machine lesson.
 - **Beat your best:** you get the difference. 1 star to 3 stars pays 15 more.
-- **Claw Machine:** extra wins after the day's dot pay 5 each.
+- **Claw Machine:** extra wins after the day's Dot pay 5 each.
 - **The town says** "+ tickets!" when you come back with new ones.
 - **Tickets can never be bought.** There is no money in tickets.
 
@@ -29,7 +29,7 @@ related:
 
 ## The prizes
 
-- **Dots for your room:** 30 each. Buy the same dot again and it grows, up to large.
+- **Dots for your room:** 30 each. Buy the same Dot again and it grows, up to large.
 - **Hats for Pip:** Party Hat 15, Flower Crown 25, Big Bow 40, Gold Crown 60, Wizard Hat 90. Pip can wear it, and it stands in your room.
 - **Room decor:** flowers, mushrooms, lollipops and bushes, 10 to 25.
 - **DotVille Quest friends:** Victoria, Sunny, Nika, Pengu, Owl, Axo, Dragon, Piggy, Uni and Pell, 40 to 85.
