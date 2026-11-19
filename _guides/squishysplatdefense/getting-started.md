@@ -15,6 +15,7 @@ related:
 ## What it is
 
 - **A paint tower defense game for kids.** On iPhone.
+- **Play it in Pip's Arcade:** tap the Splat Defense house in DotVille. See [Pip's Arcade]({{ '/squishyskypatrol/' | relative_url }}).
 - **Baron Bleach wants Craftville colorless.** You paint it back.
 - **No ads.**
 - **Progress follows you.** Stars, levels and scores save to your own iCloud. Another iPhone on the same Apple ID picks up where you left off.
