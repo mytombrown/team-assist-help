@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: novapatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, classic, vector, blocks, line art, ipad, duo, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, galaxy pack, packs, deep field, first light, 4.99, cruiser, flak, rail, brood, rift, flare, behind, icloud, sync, new phone, credits"
+tags: "start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, classic, vector, blocks, line art, ipad, duo, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, galaxy pack, packs, deep field, first light, 4.99, cruiser, flak, rail, brood, rift, flare, behind, icloud, sync, new phone, credits, achievements, achievement, unlock, flawless"
 quick: "Tap Play, pick a galaxy, pick a planet. Drag the ship with one thumb — it fires by itself. 50 missions in 5 galaxies, a boss at missions 5 and 10 of each."
 related:
   - troubleshooting
@@ -111,6 +111,19 @@ related:
   - **Lives:** lives you have left.
 - **Total score** = each mission's best, added up.
 - **LEADERBOARD** on the title screen opens the Overall Score board in Game Center. It only shows when you are signed in.
+
+## Achievements
+
+- **In Game Center.** Signed in? They unlock as you play.
+- **First Patrol:** clear mission 1.
+- **Galaxy One:** clear the first galaxy.
+- **Halfway Out:** clear mission 25.
+- **Void Core:** clear mission 50.
+- **Boss Breaker:** beat 10 bosses.
+- **Every Boss:** beat every boss.
+- **Flawless:** clear a mission without losing a life.
+- **Nova!:** set off a Nova Bomb.
+- **Not signed in?** They save on the phone and go up when you sign in.
 
 ## Next
 
