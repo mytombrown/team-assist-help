@@ -12,6 +12,7 @@ related:
 ## What it is
 
 - **A paper-plane game for kids.** On iPhone.
+- **Now inside Pip's Arcade (build 15).** Sky Patrol, Splat Defense and the Claw Machine are houses in DotVille. Missions pay tickets; spend them at the Prize Counter. Your scores and leaderboards stay the same.
 - **Big Bubble Bob made the clouds grumpy.** You pop them happy again.
 - **No ads.**
 - **Progress follows you.** Stars, levels and score save to your own iCloud. Another iPhone on the same Apple ID picks up where you left off.
