@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: squishyquest
 category: getting-started
 order: 1
-tags: "warp, fountain, warp fountain, cardboard fort, fort, rest, heal, night, path end, next stage, next land, map, loose buttons, gold buttons, coins, how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
+tags: "dotville, dotville quest, dots, map button, map icon, warp, fountain, warp fountain, cardboard fort, fort, rest, heal, night, path end, next stage, next land, map, loose buttons, gold buttons, coins, how to play, tutorial, start, first time, new game, continue, save, walk, thumb-stick, tap to walk, action button, talk, pip, craftville, chapter 1, paint park, clues, clue board, sideways, landscape"
 quick: "Tap New Game. Drag anywhere to walk, or tap a spot. Tap people to talk. Find 3 clues to open the Bleach Works. Save from Bag · Team."
 related:
   - battles
@@ -13,6 +13,7 @@ related:
 
 ## What it is
 
+- **DotVille Quest** (it used to be called Squishy Quest).
 - **A turn-based adventure** on iPhone. Hold the phone sideways.
 - **Craftville's colors are draining away.** Pip finds out who did it.
 - **Ten chapters** are in this test build, each a new land.
@@ -35,10 +36,15 @@ related:
 - **Tap a person,** or the action button, to talk or use something.
 - **Crayons, spots and clues** pick up when you walk over them.
 - **Walk off the end of the path** to reach the next place. A sign with an arrow names it.
+- **One place at a time.** The path only leads to the very next place.
 - **Walk back the other way** to go back.
 - **A lock on the sign** means that place is not open yet.
 - **The last stage of a land** walks on into the next land's town.
 - **Gold buttons on the path?** Walk over them. Each one is a button to spend.
+
+## The map
+
+- **Tap the map button,** top right beside Bag · Team. It opens the land map.
 
 ## Warp fountains
 
