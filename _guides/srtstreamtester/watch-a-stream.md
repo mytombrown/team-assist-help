@@ -45,4 +45,5 @@ related:
 - **Audio:** pick the audio track, or **Off**.
 - **Video**, **SCTE-35** and **CC** turn the picture, ad-cue card and captions on or off.
 - **Captions (Pro):** free says **Captions found (CC1)**. SRT Tester Pro draws them on the picture.
+- **Captions match the picture.** Each line shows with the frame it belongs to, not when it arrives.
 - **Stop** ends the session. On the Mac, ⌘. also stops.
