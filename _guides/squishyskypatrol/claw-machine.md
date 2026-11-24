@@ -4,7 +4,7 @@ app: squishyskypatrol
 category: how-to
 order: 2
 tags: "claw machine, claw, grab, dot, dots, win, prize, lesson, bun bun, one a day, daily dot, tomorrow, tickets, slipped, back row, small, medium, large, grow, size, room"
-quick: "Hold an arrow to slide the claw, then tap GRAB. The first Dot you win each day goes to your room. Win it again and it grows. More wins that day pay 5 tickets each."
+quick: "Hold an arrow to slide the claw, then tap GRAB. The first Dot you win each day goes to your room. Win it again and it grows. More wins that day pay 1 ticket each."
 related:
   - my-room
   - tickets-and-prizes
@@ -28,7 +28,7 @@ related:
 ## One Dot a day
 
 - **The first Dot you win each day** goes to your room.
-- **More wins that day** pay **5 tickets** each. The Dot stays in the machine.
+- **More wins that day** pay **1 ticket** each. The Dot stays in the machine.
 - **A new day** starts at midnight on your phone.
 - **Bun Bun from the lesson** and Dots bought at the Prize Counter do not use up the day's Dot.
 

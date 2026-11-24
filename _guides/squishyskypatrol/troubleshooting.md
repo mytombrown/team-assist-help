@@ -37,7 +37,7 @@ related:
 
 ## The Claw Machine won't give me a Dot
 
-- **One Dot a day goes to your room.** More wins that day pay 5 tickets instead.
+- **One Dot a day goes to your room.** More wins that day pay 1 ticket instead.
 - **Come back tomorrow** for the next Dot.
 
 ## A prize is not in my room
