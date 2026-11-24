@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: novapatrol
 category: getting-started
 order: 1
-tags: "start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, classic, vector, blocks, line art, ipad, duo, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, galaxy pack, packs, deep field, first light, 4.99, cruiser, flak, rail, brood, rift, flare, behind, icloud, sync, new phone, credits, achievements, achievement, unlock, flawless"
+tags: "ranks, friends, crystal, crystals, start, first time, new, play, look, looks, 3034, 16-bit, retro, pixel, classic, vector, blocks, line art, ipad, duo, buy, purchase, restore, 1.99, weapons, missiles, lance beam, arc, orbitals, lives, galaxy, galaxies, mission, missions, map, stars, hull, score, high score, total score, game center, leaderboard, power-up, rapid fire, wing drones, speed up, shield, nova bomb, boss, bosses, helios run, ember nebula, frost veil, hive cluster, void core, mine, seeker, lancer, warper, galaxy pack, packs, deep field, first light, 4.99, cruiser, flak, rail, brood, rift, flare, behind, icloud, sync, new phone, credits, achievements, achievement, unlock, flawless"
 quick: "Tap Play, pick a galaxy, pick a planet. Drag the ship with one thumb — it fires by itself. 50 missions in 5 galaxies, a boss at missions 5 and 10 of each."
 related:
   - troubleshooting
@@ -109,12 +109,20 @@ related:
   - **Time:** under par scores more.
   - **Credits:** the gold you collect.
   - **Lives:** lives you have left.
+- **Yellow crystals add 10 right away.** Grab one and a **+10** pops up on the score. Grab a few fast and they add up (+30). The total at the end is the same.
 - **Total score** = each mission's best, added up.
-- **LEADERBOARD** on the title screen opens the Overall Score board in Game Center. It only shows when you are signed in.
+
+## Ranks
+
+- **Tap RANKS** on the title screen.
+- **Overall Score:** the top 25, then your own row.
+- **Everyone or Friends:** switch at the top.
+- **Not signed in to Game Center?** The screen says so. Sign in under Settings > Game Center.
 
 ## Achievements
 
-- **In Game Center.** Signed in? They unlock as you play.
+- **Tap ACHIEVEMENTS** on the title screen. Earned ones first, with points and how close you are on the rest.
+- **Also in Game Center.** Signed in? They unlock as you play.
 - **First Patrol:** clear mission 1.
 - **Galaxy One:** clear the first galaxy.
 - **Halfway Out:** clear mission 25.
