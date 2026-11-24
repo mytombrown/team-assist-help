@@ -61,3 +61,8 @@ related:
 
 - **Open Recap again.** Since build 4 a long recording that did not finish joining is joined again when Recap opens.
 - **The transcript still comes.** A last part that was cut off is skipped; the rest is transcribed.
+
+## Summary and script looks stuck on a long recording
+
+- **It is working.** Since build 5 the screen says **Reading part 3 of 67** with a bar that fills.
+- **Long takes long.** A 6-hour recording has about 67 parts; Apple Intelligence reads each one on the phone.
