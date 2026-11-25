@@ -52,6 +52,11 @@
   blurb: "A 16-bit space shooter: drag your ship, clear five galaxies, beat ten bosses."
   privacy: https://legal.mytombrown.com/nova-patrol/privacy/
   soon: true
+- id: riftwardens
+  name: Rift Wardens
+  icon: /assets/icons/riftwardens.png
+  blurb: "Tower defense: five rifts, eight towers, zombies, aliens and giant bugs."
+  soon: true
 - id: squishyclocktown
   name: Squishy Clock Town
   icon: /assets/icons/squishyclocktown.png
