@@ -57,6 +57,12 @@
   icon: /assets/icons/riftwardens.png
   blurb: "Tower defense: five rifts, eight towers, zombies, aliens and giant bugs."
   soon: true
+- id: sightline
+  name: "Sight Line: Color Pop"
+  icon: /assets/icons/sightline.png
+  blurb: "A one-screen puzzle: three of a color in line pop. Don't let the board fill up."
+  privacy: https://legal.mytombrown.com/sight-line/privacy/
+  soon: true
 - id: squishyclocktown
   name: Squishy Clock Town
   icon: /assets/icons/squishyclocktown.png
