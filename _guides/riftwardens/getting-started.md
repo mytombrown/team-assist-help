@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: riftwardens
 category: getting-started
 order: 1
-tags: "start, first time, new, play, tower defense, towers, build, upgrade, paths, levels, xp, money, waves, skip, start, speed, 2x, 4x, rift, rifts, dust plains, grave rift, fang rift, iron rift, hive rift, wardens, vale, field reports, reports, endless, daily, daily challenge, leaderboard, look, looks, 3d, 16-bit, classic, vector, machine gun, mortar, rocket launcher, arc coil, flame tower, frost cannon, railgun, flak tower, boss, bosses"
+tags: "sell, sell tower, refund, run, back to back, start, first time, new, play, tower defense, towers, build, upgrade, paths, levels, xp, money, waves, skip, start, speed, 2x, 4x, rift, rifts, dust plains, grave rift, fang rift, iron rift, hive rift, wardens, vale, field reports, reports, endless, daily, daily challenge, leaderboard, look, looks, 3d, 16-bit, classic, vector, machine gun, mortar, rocket launcher, arc coil, flame tower, frost cannon, railgun, flak tower, boss, bosses"
 quick: "Tap PLAY, pick a rift, pick a board. Tap a square next to the path to build a tower. Tap START. Survive every wave to pass the board."
 related:
   - troubleshooting
@@ -40,6 +40,8 @@ related:
 - **New towers:** **BUY TOWER** on the same screen, with XP. A rift's tower opens with that rift.
 - **XP:** every wave you survive and every board you pass.
 - **Money** is only for the board you are in. It starts fresh each board.
+- **Sell a tower:** tap it, then **Sell $N**. You get back 75% of everything spent on it, upgrades too.
+  - **It asks first.** Tap **Sell** to confirm, **Cancel** to keep it.
 
 | Tower | Good for |
 |---|---|
@@ -73,6 +75,7 @@ related:
 - **Opens** after Dust Plains.
 - **Enemies from every rift you've opened**, all mixed.
 - **No last wave.** Each one is harder, until your base falls.
+- **RUN:** tap it to send waves back to back, no break. Tap again to get the break back.
 - **Score:** every kill's bounty times the wave it fell in.
 - **Top 10 runs** on this phone.
 
