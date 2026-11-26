@@ -20,6 +20,7 @@ related:
 ## Add a button
 
 - **Click Add from template** and pick one. Add as many as you need.
+- **It lists templates in your show's format** (Options). Need a 9:16 one? Make it in Create.
 - **Each button is named** after its first line of text.
 
 ## Change the words

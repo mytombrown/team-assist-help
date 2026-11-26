@@ -48,7 +48,8 @@ The Program link sends exactly that. Preview and Program take the same shape.
 
 - **The background is transparent,** so your video shows through.
 - **No frame rate to set.** OBS or vMix draws the page at your show's frame rate.
-- **A template made in the other shape** is fitted and centred, never stretched. Its button shows 16:9 or 9:16.
+- **Only templates in your show's format** can be added. A 9:16 show lists 9:16 templates; a 16:9 show lists 16:9.
+- **A button made in the other format** (before you changed it) is fitted and centred, never stretched. It shows 16:9 or 9:16.
 - **Changed the format mid-show?** The page resizes itself. Change the size in OBS or vMix to match.
 - **Keep Overlay Studio open.** The feed comes from the app.
 - **Keep the Mac awake** during a show.
