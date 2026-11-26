@@ -88,7 +88,7 @@
   name: SRT Stream Tester
   icon: /assets/icons/srtstreamtester.png
   blurb: "Test an SRT video link: watch or send a stream and see link health."
-  soon: true
+  privacy: https://legal.mytombrown.com/srt-stream-tester/privacy/
 - id: recap
   name: Recap
   icon: /assets/icons/recap.png
