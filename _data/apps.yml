@@ -45,6 +45,7 @@
   name: Pip's Arcade
   icon: /assets/icons/squishyskypatrol.png
   blurb: "Welcome to DotVille: Sky Patrol, Splat Defense, the Claw Machine, tickets, prizes and your own room."
+  privacy: https://legal.mytombrown.com/sky-patrol/privacy/
   soon: true
 - id: novapatrol
   name: Nova Patrol
