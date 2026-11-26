@@ -84,6 +84,7 @@
   name: Family Chores
   icon: /assets/icons/familychores.png
   blurb: Chores, points and rewards for the whole family.
+  privacy: https://legal.mytombrown.com/family-chores/privacy/
   soon: true
 - id: srtstreamtester
   name: SRT Stream Tester
@@ -100,6 +101,7 @@
   name: Convert to PNG
   icon: /assets/icons/converttopng.png
   blurb: Turn JPG, HEIC, WebP, PSD and more into PNG on your Mac.
+  privacy: https://legal.mytombrown.com/convert-to-png/privacy/
   soon: true
 - id: filesweep
   name: File Sweep
@@ -110,4 +112,5 @@
   name: Overlay Studio
   icon: /assets/icons/overlaystudio.png
   blurb: Make live graphics on your Mac and put them on air in OBS or vMix.
+  privacy: https://legal.mytombrown.com/overlay-studio/privacy/
   soon: true
