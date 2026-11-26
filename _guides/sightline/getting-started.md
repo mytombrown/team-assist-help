@@ -38,7 +38,7 @@ related:
 
 - **Board full** ends the game.
 - **Play again** starts a new one.
-- **Best** is your top score on this phone.
+- **Best** is your top score. It follows your Apple ID.
 - **New game** mid-game asks first. Tap it again to start over.
 - **Close the app mid-game?** The game is still there when you come back.
 
@@ -54,4 +54,5 @@ related:
 
 ## Next
 
+- [Today's board, leaderboards and iCloud]({{ '/sightline/today-and-leaderboards/' | relative_url }})
 - [Something isn't working]({{ '/sightline/troubleshooting/' | relative_url }})

@@ -3,7 +3,7 @@ title: "Something isn't working — what do I do?"
 app: sightline
 category: help
 order: 1
-tags: "problem, help, not working, no sound, no pop, won't pop, blocked, can't place, stuck, lost game, best, support, contact"
+tags: "leaderboard, game center, icloud, sync, other phone, problem, help, not working, no sound, no pop, won't pop, blocked, can't place, stuck, lost game, best, support, contact"
 quick: "No sound? Check the silent switch and the sound button. No pop? A tile is in the way. Still stuck? Email support."
 related:
   - getting-started
@@ -22,6 +22,17 @@ related:
 ## A tile will not go down
 
 - **That square is taken.** Pick an empty one.
+
+## No leaderboards
+
+- **Sign in to Game Center:** Settings, Game Center.
+- **Today's Board** is empty until someone plays today's board.
+
+## My best score is not on my other phone
+
+- **Same Apple ID** on both phones.
+- **iCloud on:** Settings, your name, iCloud.
+- **Give it a minute.** Then open Sight Line again.
 
 ## Contact support
 
