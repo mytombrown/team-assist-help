@@ -3,7 +3,7 @@ title: "Something isn't working — what do I do?"
 app: sightline
 category: help
 order: 1
-tags: "restore, bought, locked, purchase, leaderboard, game center, icloud, sync, other phone, problem, help, not working, no sound, no pop, won't pop, blocked, can't place, stuck, lost game, best, support, contact"
+tags: "restore, bought, locked, purchase, leaderboard, game center, icloud, sync, other phone, problem, help, not working, no sound, no pop, won't pop, blocked, can't place, stuck, frozen, freeze, floating, tile in the air, lost game, best, support, contact"
 quick: "No sound? Check the silent switch and the sound button. No pop? A tile is in the way. Still stuck? Email support."
 related:
   - getting-started
@@ -22,6 +22,11 @@ related:
 ## A tile will not go down
 
 - **That square is taken.** Pick an empty one.
+
+## A tile is stuck in the air
+
+- **Fixed in build 5.** Update from TestFlight.
+- **On an older build:** close Sight Line and open it again. Your game is kept.
 
 ## No leaderboards
 
