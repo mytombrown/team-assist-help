@@ -16,7 +16,7 @@ related:
 - **Open the Groceries tab.**
 - **Tap Build Grocery List.**
 - **Ingredients come from the week's planned meals.**
-- **The same ingredient in more than one meal** is combined into one line.
+- **The same ingredient in more than one meal** is combined into one line. "1 tbsp" and "1 tablespoon" now combine too.
 
 ## Shop
 

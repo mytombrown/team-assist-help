@@ -21,6 +21,7 @@ related:
 - **Time & Servings:** set the time in minutes and how many it serves.
 - **Ingredients:** fill in **Qty**, **Unit**, **Ingredient**. Tap **Add Ingredient** for more rows.
 - **Amounts like ½ or 1½:** type **1/2** or **1 1/2**. The app shows them as fractions.
+- **Units show short:** tablespoon shows as **tbsp**, teaspoon **tsp**, pound **lb**, ounce **oz**. Same on the meal page, the edit form, scans and Groceries.
 - **Recipe & Cooking Instructions:** type the steps. Web links in it can be tapped.
 - **Tap Save.**
 
