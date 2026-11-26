@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: riftwardens
 category: getting-started
 order: 1
-tags: "sell, sell tower, refund, run, back to back, start, first time, new, play, tower defense, towers, build, upgrade, paths, levels, xp, money, waves, skip, start, speed, 2x, 4x, rift, rifts, dust plains, grave rift, fang rift, iron rift, hive rift, wardens, vale, field reports, reports, endless, daily, daily challenge, leaderboard, look, looks, 3d, 16-bit, classic, vector, machine gun, mortar, rocket launcher, arc coil, flame tower, frost cannon, railgun, flak tower, boss, bosses"
+tags: "price, prices, buy, purchase, restore, restore purchases, free, unlock, bundle, all 4, sell, sell tower, refund, run, back to back, start, first time, new, play, tower defense, towers, build, upgrade, paths, levels, xp, money, waves, skip, start, speed, 2x, 4x, rift, rifts, dust plains, grave rift, fang rift, iron rift, hive rift, wardens, vale, field reports, reports, endless, daily, daily challenge, leaderboard, look, looks, 3d, 16-bit, classic, vector, machine gun, mortar, rocket launcher, arc coil, flame tower, frost cannon, railgun, flak tower, boss, bosses"
 quick: "Tap PLAY, pick a rift, pick a board. Tap a square next to the path to build a tower. Tap START. Survive every wave to pass the board."
 related:
   - troubleshooting
@@ -67,13 +67,22 @@ related:
 - **Fang Rift:** monsters. 20 boards.
 - **Iron Rift:** soldiers. 20 boards.
 - **Hive Rift:** giant bugs. 20 boards.
-- **Pass a rift's last board** to open the next one.
 - **Bosses** at board 10 and board 20 of each rift.
+
+## What's free, what costs
+
+- **Free:** the app, Dust Plains, Endless and the Daily Challenge. No ads.
+- **$0.99 each:** Grave, Fang, Iron, Hive. One time.
+- **All 4 rifts: $2.99.** One time.
+- **To buy:** tap **PLAY**, then a locked rift. Pick **THIS RIFT** or **ALL 4 RIFTS**.
+- **A bought rift opens right away.** You don't have to pass the one before it.
+- **Own some already?** All 4 is still $2.99.
+- **New phone, or deleted the app?** Tap a locked rift, then **RESTORE PURCHASES**. Same Apple ID.
 
 ## Endless
 
 - **Opens** after Dust Plains.
-- **Enemies from every rift you've opened**, all mixed.
+- **Enemies from every rift you own**, all mixed.
 - **No last wave.** Each one is harder, until your base falls.
 - **RUN:** tap it to send waves back to back, no break. Tap again to get the break back.
 - **Score:** every kill's bounty times the wave it fell in.

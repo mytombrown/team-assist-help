@@ -3,8 +3,8 @@ title: "Something isn't working — what do I do?"
 app: riftwardens
 category: help
 order: 1
-tags: "problem, help, not working, no sound, too hard, stuck, lost, base, rift locked, board locked, tower locked, xp, cap, can't upgrade, slow, hot, battery, speed, support, contact"
-quick: "Board too hard? Read Vale's report and build the tower it names. Rift locked? Pass the last board of the rift before it. Can't upgrade? Raise the tower's level on the TOWERS screen. Still stuck? Email support."
+tags: "restore, restore purchases, bought, purchase, price, problem, help, not working, no sound, too hard, stuck, lost, base, rift locked, board locked, tower locked, xp, cap, can't upgrade, slow, hot, battery, speed, support, contact"
+quick: "Board too hard? Read Vale's report and build the tower it names. Rift locked? Tap it to buy it ($0.99, or all 4 for $2.99); bought before? Tap RESTORE PURCHASES. Can't upgrade? Raise the tower's level on the TOWERS screen. Still stuck? Email support."
 related:
   - getting-started
 ---
@@ -23,7 +23,13 @@ related:
 
 ## A rift is locked
 
-- **Pass the last board** of the rift before it.
+- **Grave, Fang, Iron and Hive are bought.** $0.99 each, or all 4 for $2.99.
+- **Tap the rift** to see its buy card.
+
+## I bought a rift and it's locked
+
+- **Tap a locked rift**, then **RESTORE PURCHASES**.
+- **Same Apple ID** you bought it with.
 
 ## Endless is locked
 
@@ -36,7 +42,7 @@ related:
 
 ## A tower says "OPENS WITH" a rift
 
-- **Open that rift first.** Then buy the tower with XP.
+- **Own that rift first.** Then buy the tower with XP.
 
 ## The phone gets warm at 4x
 
