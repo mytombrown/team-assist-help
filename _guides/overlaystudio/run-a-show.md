@@ -37,4 +37,4 @@ related:
 ## More
 
 - **Right-click a button** for Edit Words…, All Settings…, Duplicate, Move Earlier, Move Later and Delete.
-- **Options** has auto-advance after a hold time, and loop back to the first button.
+- **Options** has the show's Format (16:9 or 9:16) and Size (720, 1080 or 4K), auto-advance after a hold time, and loop back to the first button.
