@@ -57,3 +57,10 @@ Your first session asks: **How do you want to see the results?**
 - **iPhone and iPad:** tap the ⓘ button on the setup screen.
 - **Mac:** app menu › **About SRT Tester**.
 - **Licenses** lists the open-source software the app uses.
+
+## Send feedback or a request
+
+- Tap the ✉︎ button on the setup screen, or **Send feedback or a request** in About.
+- A new email opens to appstoresupportwithasmile@icloud.com.
+- The app version, OS and device are filled in. Nothing else is sent.
+- No mail account set up? The app shows the address with a **Copy** button.
