@@ -58,6 +58,12 @@
   icon: /assets/icons/riftwardens.png
   blurb: "Tower defense: five rifts, eight towers, zombies, aliens and giant bugs."
   soon: true
+- id: twolights
+  name: Two Lights
+  icon: /assets/icons/twolights.png
+  blurb: "A shadow puzzle: place blocks so two lamps throw the two pictures."
+  privacy: https://legal.mytombrown.com/two-lights/privacy/
+  soon: true
 - id: sightline
   name: "Sight Line: Color Pop"
   icon: /assets/icons/sightline.png
