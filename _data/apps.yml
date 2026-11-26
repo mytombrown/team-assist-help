@@ -94,6 +94,7 @@
   name: Recap
   icon: /assets/icons/recap.png
   blurb: Record a meeting, get the notes, and hear it back as a podcast.
+  privacy: https://legal.mytombrown.com/recap/privacy/
   soon: true
 - id: converttopng
   name: Convert to PNG
