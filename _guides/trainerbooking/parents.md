@@ -3,7 +3,7 @@ title: "How do I book a session?"
 app: trainerbooking
 category: getting-started
 order: 2
-tags: "parent, athlete, book, booking, scan, code, add a trainer, schedule, full, cancel, special event, request a spot, 1-on-1, lesson, my bookings, my info, taken off, denied, reason"
+tags: "parent, athlete, book, booking, scan, code, add a trainer, schedule, full, cancel, special event, request a spot, 1-on-1, lesson, my bookings, my info, taken off, denied, reason, age, birthday, no age"
 quick: "Tap Add a trainer and scan their code. Tap Book a Session, pick a time and athlete, then Book it."
 related:
   - getting-started
