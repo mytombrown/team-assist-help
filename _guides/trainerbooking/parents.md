@@ -35,6 +35,11 @@ related:
 
 - **My bookings → Cancel booking.** The spot opens for someone else.
 
+## Can't book?
+
+- **The trainer's plan may have ended.** You can still see their page. Ask your trainer.
+- **Updated the app?** Bookings from before stay where they were. Book again if a session is missing.
+
 ## Taken off a session
 
 - **Your trainer can take an athlete off a session.** You get a notice.

@@ -3,7 +3,7 @@ title: "How do I get started as a trainer?"
 app: trainerbooking
 category: getting-started
 order: 1
-tags: "trainer, set up, account, sessions, group, private, schedule, code, qr, my code, special events, camps, clinics, 1-on-1, lessons, requests, bookings, reports, export, csv, venue, location, address, price, alerts, deny, take off, remove athlete, reason"
+tags: "trainer, set up, account, sessions, group, private, schedule, code, qr, my code, special events, camps, clinics, 1-on-1, lessons, requests, bookings, reports, export, csv, venue, location, address, price, alerts, deny, take off, remove athlete, reason, plan, subscribe, free trial, 30 days, monthly, yearly, android, server, update"
 quick: "Tap I'm a trainer and set up your account. Add sessions on the Schedule tab. Show parents your code on My Code."
 related:
   - parents
@@ -13,7 +13,7 @@ related:
 
 - **Trainers list sessions. Parents book them.**
 - **Parents scan your code** to see your schedule.
-- **No payments.** Prices are shown only. Payment happens outside the app.
+- **No payments between you and parents.** Prices are shown only. Payment happens outside the app.
 
 ## Set up
 
@@ -43,6 +43,19 @@ related:
 
 - **Bookings** lists who is coming to each session.
 - **Reports** shows day, week or month. **Export** makes a spreadsheet file.
+
+## Your plan
+
+- **The first 30 days are free.** Then $9.99 a month or $99.99 a year.
+- **Parents never pay** for the app.
+- **My Code → Your plan** shows your plan.
+- **If your plan ends,** parents still see your page but cannot book. Bookings shows a red banner. Tap **Subscribe**.
+
+## Updating from an earlier build
+
+- **Your page moves to the new server** the first time you open this build.
+- **Bookings made before stay** where they were. Ask parents to book again.
+- **Android parents can now book** with you.
 
 ## Take an athlete off a session
 
