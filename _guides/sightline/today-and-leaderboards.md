@@ -30,10 +30,12 @@ related:
 
 ## Leaderboards
 
-- **Tap the trophy** to open them.
-- **Best Score:** your top Endless score, all time.
-- **Today's Board:** today's scores. Starts over with each new board.
-- **When a game ends,** you see where you stand.
+- **Tap the trophy** to open them, right in the game.
+- **Two tabs:** Today and Endless. The top 10 and your own place.
+- **Endless:** your top Endless score, all time.
+- **Today:** today's scores. Starts over every day at 3 AM Central, with the new board.
+- **When a game ends,** you see where you stand and the top 3.
+- **See all in Game Center** opens Apple's full list.
 - **Not signed in to Game Center?** The game plays the same. No leaderboards.
 
 ## iCloud
