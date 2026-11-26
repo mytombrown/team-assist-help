@@ -3,7 +3,7 @@ title: "Something isn't working — what do I do?"
 app: sightline
 category: help
 order: 1
-tags: "leaderboard, game center, icloud, sync, other phone, problem, help, not working, no sound, no pop, won't pop, blocked, can't place, stuck, lost game, best, support, contact"
+tags: "restore, bought, locked, purchase, leaderboard, game center, icloud, sync, other phone, problem, help, not working, no sound, no pop, won't pop, blocked, can't place, stuck, lost game, best, support, contact"
 quick: "No sound? Check the silent switch and the sound button. No pop? A tile is in the way. Still stuck? Email support."
 related:
   - getting-started
@@ -33,6 +33,11 @@ related:
 - **Same Apple ID** on both phones.
 - **iCloud on:** Settings, your name, iCloud.
 - **Give it a minute.** Then open Sight Line again.
+
+## I bought Sight Line Full but it is locked
+
+- **Open the card:** tap Endless.
+- **Tap Restore purchase.** Same Apple ID as when you bought it.
 
 ## Contact support
 

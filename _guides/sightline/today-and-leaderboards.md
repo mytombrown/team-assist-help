@@ -1,14 +1,23 @@
 ---
-title: "Today's board, leaderboards and iCloud"
+title: "Free trial, Today's board, leaderboards and iCloud"
 app: sightline
 category: getting-started
 order: 2
-tags: "today, daily, daily board, one try, streak, countdown, leaderboard, leaderboards, game center, trophy, rank, best score, icloud, sync, new phone, two phones, endless"
-quick: "Today is one board a day, the same for everyone, one try. The trophy opens the leaderboards. Your best score, Today results and settings follow your Apple ID."
+tags: "trial, free trial, buy, purchase, price, full, unlock, restore, locked, today, daily, daily board, one try, streak, countdown, leaderboard, leaderboards, game center, trophy, rank, best score, icloud, sync, new phone, two phones, endless"
+quick: "Free for 3 days, then $2.99 once for Endless and all looks. Today is one board a day, the same for everyone, one try. The trophy opens the leaderboards. Your best score, Today results and settings follow your Apple ID."
 related:
   - getting-started
   - troubleshooting
 ---
+
+## Free trial and Sight Line Full
+
+- **After the walkthrough:** tap **Start free trial**. 3 days of everything, free.
+- **After 3 days:** Endless and the Glossy and Glowing looks need **Sight Line Full**.
+- **$2.99, once.** No subscription. Yours for good.
+- **Today's board is always free.** Streak and leaderboard too.
+- **No ads.** Ever.
+- **New phone, same Apple ID?** Tap **Restore purchase** on the card.
 
 ## Today's board
 
