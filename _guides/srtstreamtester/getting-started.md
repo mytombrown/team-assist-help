@@ -3,7 +3,7 @@ title: "How do I get started?"
 app: srtstreamtester
 category: getting-started
 order: 1
-tags: "start, first launch, setup, srt, stream, test, caller, listener, what is this, about, version"
+tags: "start, first launch, setup, srt, stream, test, caller, listener, what is this, about, version, simple, engineering, checklist, pro, price, monthly"
 quick: "SRT Tester checks an SRT video link and shows what is in the stream. Follow the guided setup, then press Connect."
 related:
   - watch-a-stream
@@ -16,7 +16,8 @@ related:
 - **SRT Tester** checks an SRT link and says what is in the stream.
 - **Works on** iPhone, iPad and Mac.
 - **Mac:** its own Mac app, from the Mac App Store.
-- **SRT Tester Pro** is bought once. It unlocks on every iPhone, iPad and Mac on the same Apple Account — use **Restore Purchases** on the others.
+- **SRT Tester Pro** comes two ways: **$4.99 a month**, or **$119.99 once** for life. Both unlock the same Pro.
+- **Pro works** on every iPhone, iPad and Mac on the same Apple Account — use **Restore Purchases** on the others.
 - **Watch** a stream someone sends you, or **send** your camera and microphone.
 - **Live numbers** show how healthy the link is.
 
@@ -36,6 +37,14 @@ The app opens on a 4-step walk-through.
 
 - **Show all settings** (under the buttons) opens one flat form instead of the steps.
 - **Use the guided setup** takes you back.
+
+## Simple or Engineering
+
+Your first session asks: **How do you want to see the results?**
+
+- **Simple** — a pass/fail checklist. Anything wrong comes with plain-words steps to fix it.
+- **Engineering** — every statistic, chart and log line, live.
+- **Switch any time** at the top of the session screen.
 
 ## The screen layout
 
