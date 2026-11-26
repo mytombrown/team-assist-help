@@ -17,7 +17,7 @@ related:
 
 ## Your info
 
-- **My info and athletes:** your name, phone and email, and each athlete with their age.
+- **My info and athletes:** your name, phone and email, and each athlete's name. No age needed.
 - **Training for yourself?** Put your own name as the athlete too.
 
 ## Book
