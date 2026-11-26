@@ -58,6 +58,12 @@
   icon: /assets/icons/riftwardens.png
   blurb: "Tower defense: five rifts, eight towers, zombies, aliens and giant bugs."
   soon: true
+- id: bloom
+  name: Bloom
+  icon: /assets/icons/bloom.png
+  blurb: "A garden puzzle: plant colored seeds and grow the picture."
+  privacy: https://legal.mytombrown.com/bloom/privacy/
+  soon: true
 - id: sightline
   name: "Sight Line: Color Pop"
   icon: /assets/icons/sightline.png
