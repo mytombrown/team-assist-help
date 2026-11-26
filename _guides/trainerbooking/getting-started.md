@@ -3,7 +3,7 @@ title: "How do I get started as a trainer?"
 app: trainerbooking
 category: getting-started
 order: 1
-tags: "trainer, set up, account, sessions, group, private, schedule, code, qr, my code, special events, camps, clinics, 1-on-1, lessons, requests, bookings, reports, export, csv, venue, location, address, price, alerts"
+tags: "trainer, set up, account, sessions, group, private, schedule, code, qr, my code, special events, camps, clinics, 1-on-1, lessons, requests, bookings, reports, export, csv, venue, location, address, price, alerts, deny, take off, remove athlete, reason"
 quick: "Tap I'm a trainer and set up your account. Add sessions on the Schedule tab. Show parents your code on My Code."
 related:
   - parents
@@ -43,3 +43,10 @@ related:
 
 - **Bookings** lists who is coming to each session.
 - **Reports** shows day, week or month. **Export** makes a spreadsheet file.
+
+## Take an athlete off a session
+
+- **Bookings → swipe left on the athlete → Deny.**
+- **Type a reason.** Deny stays off until you do.
+- **The spot opens** for someone else.
+- **The parent gets a notice** with your reason.
