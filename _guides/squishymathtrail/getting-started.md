@@ -45,6 +45,11 @@ related:
 - **Voice button:** turns the squishy's talking on or off for the picked player. It starts off for players 7 and over, on under 7.
 - **Bag under a player:** opens their **Shop** and **Achievements**.
 
+## Version
+
+- **2.1.5:** easier to find in the App Store. The game is the same as 2.1.4.
+- **Help for grown-ups:** on the player screen, behind the grown-up check.
+
 ## Next
 
 - [The Learning Center]({{ '/squishymathtrail/learning-center/' | relative_url }})
