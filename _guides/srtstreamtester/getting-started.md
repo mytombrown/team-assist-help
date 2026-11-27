@@ -43,6 +43,7 @@ The app opens on a 4-step walk-through.
 Your first session asks: **How do you want to see the results?**
 
 - **Simple** — a pass/fail checklist. Anything wrong comes with plain-words steps to fix it.
+  **Mute** sits under the picture.
 - **Engineering** — every statistic, chart and log line, live.
 - **Switch any time** at the top of the session screen.
 
