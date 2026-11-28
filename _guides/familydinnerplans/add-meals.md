@@ -57,3 +57,4 @@ related:
 - **Have Siri read it to you:** say **"Get the recipe for Beef Tacos in Family Dinner Plans"** or **"What's in Beef Tacos in Family Dinner Plans"**. Siri says the ingredients, then the steps.
 - **Shortcuts app:** **Open Recipe** and **Get Recipe** are there to use in your own shortcuts.
 - **New recipes** show up in Siri and Spotlight a few seconds after you save them.
+- **Siri didn't do it?** Open **Settings → About → Siri log**. It lists each step Siri took. Tap Share to send it.
