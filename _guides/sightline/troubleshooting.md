@@ -25,8 +25,8 @@ related:
 
 ## A tile is stuck in the air
 
-- **Fixed in build 5.** Update from TestFlight.
-- **On an older build:** close Sight Line and open it again. Your game is kept.
+- **Drag the tile again** from the tray. It goes back and plays on.
+- **Build 5 and older:** a tile let go off the squares can stay floating. The fix is in the next build.
 
 ## No leaderboards
 
