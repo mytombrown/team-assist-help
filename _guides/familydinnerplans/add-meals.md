@@ -3,7 +3,7 @@ title: "How do I add a meal or scan a recipe?"
 app: familydinnerplans
 category: how-to
 order: 1
-tags: "add meal, new meal, recipe, scan, photo, camera, ingredients, instructions, edit, delete, remove, import, OCR"
+tags: "add meal, new meal, recipe, scan, photo, camera, ingredients, instructions, edit, delete, remove, import, OCR, Siri, Spotlight, voice, Shortcuts, open recipe"
 quick: "In the Meals tab, tap Add Meal to type one in, or Scan Recipe to turn a photo of a recipe into a meal you can edit."
 related:
   - plan-your-week
@@ -48,3 +48,11 @@ related:
 ## Find a meal
 
 - **Use Search meals** at the top of the Meals list.
+
+## Open a recipe with Siri or Spotlight
+
+- **Siri:** say **"Hey Siri, show Beef Tacos in Family Dinner Plans"** (use your recipe's name). The recipe's page opens.
+- **Not sure of the name?** Say **"Open a recipe in Family Dinner Plans"** and pick one from the list.
+- **Spotlight:** swipe down on the Home Screen, type the recipe's name, tap it.
+- **Shortcuts app:** **Open Recipe** is there to use in your own shortcuts.
+- **New recipes** show up in Siri and Spotlight a few seconds after you save them.
