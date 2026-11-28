@@ -53,6 +53,7 @@ related:
 
 ## What's new
 
+- **Fits the iPhone Duo (build 18).** Open or closed, DotVille fills the screen and nothing sits under the camera. In Splat Defense on the open screen, your hearts are on the right.
 - **New ticket pay (build 17).** Missions pay 1, 2 or 5 tickets for 1, 2 or 3 stars. An extra Claw win pays 1 ticket. Every prize costs about a quarter of what it did.
 - **The Claw Machine is harder (build 16).** On the Dot Pile, line the claw up dead centre: even then it wins about 1 in 4. Off-centre, the Dot almost always slips. The Learn to Grab lesson is still a sure win.
 - **Now inside Pip's Arcade (build 15).** Sky Patrol, Splat Defense and the Claw Machine are houses in DotVille.
