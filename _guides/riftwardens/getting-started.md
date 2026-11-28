@@ -19,6 +19,8 @@ related:
 ## Start playing
 
 - **Tap PLAY.** Pick a rift, then a board.
+- **Each rift card** says how far you are: BOARD 3 OF 20, or ALL 20 PASSED.
+- **NEXT** marks the board to play next.
 - **Dust Plains board 1** teaches the game.
 - **Tap a square** next to the path. Pick a tower. Its price is on the card.
 - **Tap START.** Enemies walk the path to your base.
