@@ -13,6 +13,7 @@ related:
 
 - **Check the silent switch** and the volume.
 - **Check the sound button** at the top of the screen.
+- **Build 5 and older:** sound could stop after you lock and unlock the phone. Fixed in build 6.
 
 ## Three in a line did not pop
 
@@ -26,7 +27,7 @@ related:
 ## A tile is stuck in the air
 
 - **Drag the tile again** from the tray. It goes back and plays on.
-- **Build 5 and older:** a tile let go off the squares can stay floating. The fix is in the next build.
+- **Build 5 and older:** a tile let go off the squares can stay floating. Fixed in build 6.
 
 ## No leaderboards
 
